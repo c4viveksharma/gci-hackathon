@@ -70,14 +70,17 @@ st.markdown("""
 @st.cache_data
 def load_data():
     """Load and preprocess all required data"""
+    # Get the current directory
+    current_dir = os.path.dirname(os.path.abspath(__file__))
+    
     # Load global clinic data
-    clinics_df = pd.read_csv('C:/GCI_Hackathon/Location Data/cleaned_Clinic_Locations_Google.csv')
+    clinics_df = pd.read_csv(os.path.join(current_dir, 'Location Data', 'cleaned_Clinic_Locations_Google.csv'))
     
     # Load patient location data
-    patients_df = pd.read_csv('C:/GCI_Hackathon/Location Data/Dummy - Patient Location.csv')
+    patients_df = pd.read_csv(os.path.join(current_dir, 'Location Data', 'Dummy - Patient Location.csv'))
     
     # Load treatment data
-    treatment_df = pd.read_csv('C:/GCI_Hackathon/Treatment Data/Processed_Treatment_Cases_All_Years.csv')
+    treatment_df = pd.read_csv(os.path.join(current_dir, 'Treatment Data', 'Processed_Treatment_Cases_All_Years.csv'))
     
     # Convert coordinates to float for clinics
     for col in ['clinic_lat', 'clinic_lon']:
