@@ -5,7 +5,7 @@ import json
 from pathlib import Path
 
 # Google Maps API Key
-API_KEY = "AIzaSyAMOAJ8OkNO-wCGFmjYMNNbdRruqLjV9ig"
+API_KEY = ""
 
 # Initialize Google Maps client
 gmaps = googlemaps.Client(key=API_KEY)
