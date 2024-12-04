@@ -19,10 +19,9 @@ st.set_page_config(
 # Display logo
 col1, col2, col3 = st.columns([1,2,1])
 with col2:
-    st.image("GCI_logo.png", use_column_width=True)
+    st.image("GCI_logo.png", use_column_width=True, width=300)
 
-# Add title and subheader
-st.title("Global Clubfoot Initiative Dashboard")
+# Add subheader
 st.subheader("Clinic Profiling and Analysis by Country")
 
 # Add custom CSS
