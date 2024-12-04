@@ -67,6 +67,63 @@ st.markdown("""
     </style>
     """, unsafe_allow_html=True)
 
+# Add custom CSS with animations
+st.markdown("""
+    <style>
+    /* Animated title */
+    @keyframes fadeIn {
+        from { opacity: 0; transform: translateY(-20px); }
+        to { opacity: 1; transform: translateY(0); }
+    }
+    
+    @keyframes slideIn {
+        from { transform: translateX(-50px); opacity: 0; }
+        to { transform: translateX(0); opacity: 1; }
+    }
+    
+    @keyframes pulse {
+        0% { transform: scale(1); }
+        50% { transform: scale(1.05); }
+        100% { transform: scale(1); }
+    }
+    
+    .title-container {
+        animation: fadeIn 1.5s ease-out;
+        text-align: center;
+        padding: 1rem;
+        margin-bottom: 2rem;
+    }
+    
+    .ngo-info {
+        animation: slideIn 1.5s ease-out;
+        background-color: #f8f9fa;
+        border-radius: 10px;
+        padding: 1.5rem;
+        margin: 1rem 0;
+        border-left: 5px solid #2980b9;
+    }
+    
+    .metric-card {
+        animation: fadeIn 1s ease-out;
+        transition: transform 0.3s ease;
+    }
+    
+    .metric-card:hover {
+        transform: translateY(-5px);
+        box-shadow: 0 4px 8px rgba(0,0,0,0.2);
+    }
+    
+    .map-instructions {
+        animation: slideIn 1s ease-out;
+        background-color: #f8f9fa;
+        border-radius: 8px;
+        padding: 1rem;
+        margin: 1rem 0;
+        border-left: 5px solid #27ae60;
+    }
+    </style>
+""", unsafe_allow_html=True)
+
 @st.cache_data
 def load_data():
     """Load and preprocess all required data"""
@@ -344,12 +401,29 @@ def main():
     # Load data
     clinics_df, patients_df, treatment_df = load_data()
     
-    # Display title
-    st.title("Global Clubfoot Initiative Dashboard")
+    # Display title and NGO information
+    st.markdown("""
+        <div class="title-container">
+            <h1>🌍 Global Clubfoot Initiative Dashboard</h1>
+        </div>
+        
+        <div class="ngo-info">
+            <h3>About Global Clubfoot Initiative (GCI)</h3>
+            <p>GCI is a non-profit organization dedicated to ending disability caused by clubfoot. Every year, 175,000 children are born with clubfoot, 
+            a condition that causes one or both feet to turn inward and upward.</p>
+            <p>Through the Ponseti treatment method, we help children walk, play, and live normal lives. The treatment is non-surgical, 
+            cost-effective, and has a 95% success rate when properly administered.</p>
+            <p><a href="https://globalclubfoot.com" target="_blank">Visit GCI Website →</a></p>
+        </div>
+    """, unsafe_allow_html=True)
     
     # Sidebar filters
     with st.sidebar:
-        st.header("📊 Dashboard Controls")
+        st.markdown("""
+            <div style='animation: slideIn 1s ease-out;'>
+                <h2>📊 Dashboard Controls</h2>
+            </div>
+        """, unsafe_allow_html=True)
         
         # Country selection
         available_countries = get_available_countries(clinics_df)
@@ -376,12 +450,12 @@ def main():
     # Calculate metrics
     metrics = calculate_metrics(clinics_filtered, patients_df, selected_country)
     
-    # Display KPIs at the very top
+    # Display KPIs with animations
     kpi_cols = st.columns(4)
     
     with kpi_cols[0]:
         st.markdown("""
-            <div style='background-color: white; padding: 1rem; border-radius: 0.5rem; box-shadow: 0 2px 4px rgba(0,0,0,0.1);'>
+            <div class='metric-card' style='background-color: white; padding: 1rem; border-radius: 0.5rem; box-shadow: 0 2px 4px rgba(0,0,0,0.1);'>
                 <h4 style='margin: 0; color: #2c3e50;'>Total Clinics</h4>
                 <p style='font-size: 24px; font-weight: bold; margin: 0.5rem 0; color: #2980b9;'>{}</p>
             </div>
@@ -389,7 +463,7 @@ def main():
     
     with kpi_cols[1]:
         st.markdown("""
-            <div style='background-color: white; padding: 1rem; border-radius: 0.5rem; box-shadow: 0 2px 4px rgba(0,0,0,0.1);'>
+            <div class='metric-card' style='background-color: white; padding: 1rem; border-radius: 0.5rem; box-shadow: 0 2px 4px rgba(0,0,0,0.1);'>
                 <h4 style='margin: 0; color: #2c3e50;'>Ponseti Treatment Clinics</h4>
                 <p style='font-size: 24px; font-weight: bold; margin: 0.5rem 0; color: #27ae60;'>{}</p>
             </div>
@@ -397,7 +471,7 @@ def main():
     
     with kpi_cols[2]:
         st.markdown("""
-            <div style='background-color: white; padding: 1rem; border-radius: 0.5rem; box-shadow: 0 2px 4px rgba(0,0,0,0.1);'>
+            <div class='metric-card' style='background-color: white; padding: 1rem; border-radius: 0.5rem; box-shadow: 0 2px 4px rgba(0,0,0,0.1);'>
                 <h4 style='margin: 0; color: #2c3e50;'>Ponseti Coverage Rate</h4>
                 <p style='font-size: 24px; font-weight: bold; margin: 0.5rem 0; color: #8e44ad;'>{:.1f}%</p>
                 <p style='margin: 0; font-size: 12px; color: #7f8c8d;'>
@@ -410,7 +484,7 @@ def main():
     
     with kpi_cols[3]:
         st.markdown("""
-            <div style='background-color: white; padding: 1rem; border-radius: 0.5rem; box-shadow: 0 2px 4px rgba(0,0,0,0.1);'>
+            <div class='metric-card' style='background-color: white; padding: 1rem; border-radius: 0.5rem; box-shadow: 0 2px 4px rgba(0,0,0,0.1);'>
                 <h4 style='margin: 0; color: #2c3e50;'>Total Patients</h4>
                 <p style='font-size: 24px; font-weight: bold; margin: 0.5rem 0; color: #e67e22;'>{}</p>
             </div>
