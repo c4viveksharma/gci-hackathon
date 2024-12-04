@@ -16,6 +16,15 @@ st.set_page_config(
     layout="wide"
 )
 
+# Display logo
+col1, col2, col3 = st.columns([1,2,1])
+with col2:
+    st.image("GCI_logo.png", use_column_width=True)
+
+# Add title and subheader
+st.title("Global Clubfoot Initiative Dashboard")
+st.subheader("Clinic Profiling and Analysis by Country")
+
 # Add custom CSS
 st.markdown("""
     <style>
@@ -64,8 +73,45 @@ st.markdown("""
         color: #2c3e50;
         font-weight: 600;
     }
+    /* Country selector indicator */
+    .country-indicator {
+        position: fixed;
+        left: 20px;
+        top: 50%;
+        background-color: #3498db;
+        color: white;
+        padding: 10px 15px;
+        border-radius: 8px;
+        z-index: 1000;
+        display: flex;
+        align-items: center;
+        gap: 10px;
+        animation: bounce 2s infinite;
+        box-shadow: 0 2px 4px rgba(0,0,0,0.2);
+    }
+    
+    @keyframes bounce {
+        0%, 100% { transform: translateX(0); }
+        50% { transform: translateX(10px); }
+    }
+    
+    .arrow-left {
+        width: 0;
+        height: 0;
+        border-top: 8px solid transparent;
+        border-bottom: 8px solid transparent;
+        border-right: 12px solid white;
+    }
     </style>
     """, unsafe_allow_html=True)
+
+# Add country selector indicator
+st.markdown("""
+    <div class="country-indicator">
+        <div class="arrow-left"></div>
+        <span>Select Your Country</span>
+    </div>
+""", unsafe_allow_html=True)
 
 # Add custom CSS with animations
 st.markdown("""
