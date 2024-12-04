@@ -505,7 +505,7 @@ def main():
                 <li><b>Clinic Markers:</b> Green = Ponseti Treatment Available, Red = Not Available</li>
                 <li><b>Coverage Areas:</b> Circles show potential service areas</li>
                 <li><b>Patient Density:</b> Heat map shows concentration of patients (visible when country is selected)</li>
-                <li><b>Layer Control:</b> Toggle different views using controls in top right</li>
+                <li><b>Layer Control:</b> Toggle different views using controls in top right in the map section below</li>
             </ul>
         </div>
         """, unsafe_allow_html=True)
