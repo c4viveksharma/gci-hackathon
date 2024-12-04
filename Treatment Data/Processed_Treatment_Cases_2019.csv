@@ -1,0 +1,61 @@
+YEAR_RECORDED,Country Name,Income Group,Region,Total new children treated,0-1 years,1-2 years,2-3 years,3-4 years,4-5 years,5-10 years,10-15 years,15+ years,number children started 1yr FAB,number of children completed 2 years FAB,NUMBER_OF_CHILDREN_COMPLETED_4_YEARS_FAB,Expected number of clubfoot cases
+2019,Afghanistan,Low income,South Asia,858,515,148,51,35,16,46,18,29,157,711,0,1497.447937
+2019,Bangladesh,Lower middle income,South Asia,2258,2214,38,5,1,0,0,0,0,2242,1598,0,3638.281784
+2019,Benin,Low income,Sub-Saharan Africa,25,19,6,0,0,0,0,0,0,15,0,0,515.8399053
+2019,Bolivia,Lower middle income,Latin America & Caribbean,25,7,15,3,0,0,6,3,2,10,2,0,306.1942397
+2019,Brazil,Upper middle income,Latin America & Caribbean,14,13,1,0,0,0,0,0,0,14,16,0,3616.647231
+2019,Burkina Faso,Low income,Sub-Saharan Africa,148,111,37,0,0,0,0,0,0,129,0,0,928.977896
+2019,Burundi,Low income,Sub-Saharan Africa,547,521,22,4,0,0,0,0,0,579,0,0,540.5521398
+2019,Cambodia,Lower middle income,East Asia & Pacific,209,147,14,13,12,6,13,2,2,106,17,0,452.6439732
+2019,Cameroon,Lower middle income,Sub-Saharan Africa,212,0,0,0,0,0,0,0,0,0,0,0,1106.454185
+2019,"Congo, Dem. Rep.",Low income,Sub-Saharan Africa,879,816,63,0,0,0,0,0,0,854,906,0,4293.098478
+2019,"Congo, Rep.",Lower middle income,Sub-Saharan Africa,106,54,26,10,3,6,5,2,0,100,22,0,213.7019186
+2019,Dominican Republic,Upper middle income,Latin America & Caribbean,188,163,14,3,2,1,4,0,1,124,21,0,257.0439158
+2019,Ecuador,Upper middle income,Latin America & Caribbean,134,80,18,13,7,6,8,2,0,20,0,0,417.7391802
+2019,"Egypt, Arab Rep.",Lower middle income,Middle East & North Africa,0,0,0,0,0,0,0,0,0,0,0,0,3219.431856
+2019,Ethiopia,Low income,Sub-Saharan Africa,1753,1461,292,0,0,0,0,0,0,1331,0,0,4379.944137
+2019,"Gambia, The",Low income,Sub-Saharan Africa,100,46,26,10,10,0,7,0,0,45,0,0,108.9510259
+2019,Georgia,Upper middle income,Europe & Central Asia,156,82,27,30,11,6,0,0,0,115,87,0,62.25304448
+2019,Ghana,Lower middle income,Sub-Saharan Africa,210,155,55,0,0,0,0,0,0,132,0,0,1085.448068
+2019,Guatemala,Upper middle income,Latin America & Caribbean,59,69,5,9,4,6,7,4,1,94,25,0,525.2930008
+2019,Guinea,Low income,Sub-Saharan Africa,19,10,4,1,2,2,1,1,0,15,15,0,559.7784821
+2019,Haiti,Low income,Latin America & Caribbean,116,101,15,0,0,0,0,0,0,97,12,0,335.8393834
+2019,Honduras,Lower middle income,Latin America & Caribbean,88,67,21,0,0,0,0,0,0,51,0,0,256.7803007
+2019,India,Lower middle income,South Asia,12802,0,0,0,0,0,0,0,0,8990,0,0,29950.57266
+2019,Indonesia,Lower middle income,East Asia & Pacific,36,9,6,4,2,0,6,2,0,17,4,0,5998.144861
+2019,"Iran, Islamic Rep.",Upper middle income,Middle East & North Africa,15,7,8,0,0,0,0,0,0,0,0,0,1905.203521
+2019,Iraq,Upper middle income,Middle East & North Africa,169,0,0,0,0,0,0,0,0,0,0,0,1385.646581
+2019,Kenya,Lower middle income,Sub-Saharan Africa,1001,922,75,0,0,0,0,0,0,812,0,0,1832.033352
+2019,Lebanon,Upper middle income,Middle East & North Africa,0,0,0,0,0,0,0,0,0,0,0,0,149.0038425
+2019,Liberia,Low income,Sub-Saharan Africa,365,208,27,9,2,5,14,3,1,209,0,0,197.4435112
+2019,Madagascar,Low income,Sub-Saharan Africa,363,231,40,9,8,3,19,53,0,363,53,0,1063.486188
+2019,Malawi,Low income,Sub-Saharan Africa,373,349,24,0,0,0,0,0,0,0,277,0,767.5768903
+2019,Mali,Low income,Sub-Saharan Africa,140,0,0,0,0,0,0,0,0,0,0,0,982.7551498
+2019,Mexico,Upper middle income,Latin America & Caribbean,60,50,10,0,0,0,0,0,0,50,100,0,2754.30071
+2019,Morocco,Lower middle income,Middle East & North Africa,56,50,3,0,3,0,0,0,0,0,0,0,846.031895
+2019,Mozambique,Low income,Sub-Saharan Africa,484,455,29,0,0,0,0,0,0,615,0,0,1372.293733
+2019,Myanmar,Lower middle income,East Asia & Pacific,328,261,27,15,6,6,9,1,0,200,25,0,1168.935289
+2019,Nepal,Low income,South Asia,560,0,0,0,0,0,0,0,0,370,0,0,692.6435283
+2019,Nicaragua,Lower middle income,Latin America & Caribbean,127,78,9,10,6,6,10,7,0,30,0,0,165.4837708
+2019,Niger,Low income,Sub-Saharan Africa,251,215,36,0,0,0,0,0,0,186,0,0,1282.344265
+2019,Nigeria,Lower middle income,Sub-Saharan Africa,260,90,66,52,27,15,10,0,0,198,0,0,9206.543704
+2019,Pakistan,Lower middle income,South Asia,875,0,0,0,0,0,0,0,0,1979,0,0,7433.892501
+2019,Papua New Guinea,Lower middle income,East Asia & Pacific,47,26,9,4,4,2,2,0,0,47,0,0,288.9185034
+2019,Paraguay,Upper middle income,Latin America & Caribbean,200,139,23,14,7,12,9,4,1,157,57,0,177.4357373
+2019,Russian Federation,Upper middle income,Europe & Central Asia,150,60,20,20,15,15,10,10,0,60,60,0,2060.256993
+2019,Rwanda,Low income,Sub-Saharan Africa,425,377,48,0,0,0,0,0,0,314,0,0,483.5036006
+2019,Senegal,Lower middle income,Sub-Saharan Africa,48,29,4,2,4,1,2,0,0,28,0,0,678.7016871
+2019,Sierra Leone,Low income,Sub-Saharan Africa,154,118,36,0,0,0,0,0,0,60,209,0,316.8956952
+2019,Solomon Islands,Lower middle income,East Asia & Pacific,24,24,0,0,0,0,0,0,0,20,10,0,26.26079522
+2019,Somalia,Low income,Sub-Saharan Africa,93,72,11,9,5,1,2,0,1,93,0,0,777.0279629
+2019,South Africa,Upper middle income,Sub-Saharan Africa,700,0,0,0,0,0,0,0,0,0,0,0,1469.474459
+2019,South Sudan,Low income,Sub-Saharan Africa,29,11,8,4,0,1,3,1,0,25,10,0,476.4910294
+2019,Sri Lanka,Upper middle income,South Asia,395,303,35,17,9,6,12,2,0,238,189,0,425.3916348
+2019,Syrian Arab Republic,Low income,Middle East & North Africa,0,0,0,0,0,0,0,0,0,0,0,0,496.5273879
+2019,Tanzania,Low income,Sub-Saharan Africa,1562,1079,85,44,31,13,37,16,7,166,166,0,2562.935381
+2019,Togo,Low income,Sub-Saharan Africa,66,53,13,0,0,0,0,0,0,58,0,0,323.9271463
+2019,Uganda,Low income,Sub-Saharan Africa,642,593,48,23,9,7,4,0,0,493,34,0,2020.266163
+2019,Zambia,Lower middle income,Sub-Saharan Africa,257,241,16,0,0,0,0,0,0,209,0,0,778.7164559
+2019,Philippines,Lower middle income,East Asia & Pacific,762,478,104,29,29,15,46,12,7,489,45,0,2717.175283
+2019,Zimbabwe,Lower middle income,Sub-Saharan Africa,327,294,33,0,0,0,0,0,0,178,0,0,549.234832
+2019,Eritrea,Low income,Sub-Saharan Africa,79,71,2,2,0,1,0,0,0,66,69,0,0.0

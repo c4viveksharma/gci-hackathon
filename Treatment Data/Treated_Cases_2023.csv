@@ -1,0 +1,69 @@
+﻿Country Name,Income Group,WHO Region,Total new children treated,0-1 years,1-2 years,2-3 years,3-4 years,4-5 years,5-10 years,10-15 years,15+ years,number children started 1yr FAB,number of children completed 2 years FAB,number of children completed 4 years FAB
+Afghanistan,Low income,Eastern Mediterranean,1041,646,194,44,37,14,63,14,29,676,335,130
+Argentina,Upper middle income,Americas,250,120,80,25,15,8,1,1,0,200,0,0
+Armenia,Upper middle income,Europe,43,43,0,0,0,0,0,0,0,39,35,0
+Bangladesh,Lower middle income,South-East Asia,2296,2252,34,8,2,0,0,0,0,2232,1704,0
+Belize,Upper middle income,Americas,6,6,0,0,0,0,0,0,0,2,0,0
+Brazil,Upper middle income,Americas,26,23,0,0,0,0,3,0,0,35,43,0
+Bolivia,Lower middle income,Americas,69,29,13,10,5,0,9,3,0,36,7,0
+Burkina Faso,Low income,Africa,292,217,38,16,6,3,7,2,0,233,0,0
+Burundi,Low income,Africa,506,468,18,12,2,3,2,1,0,463,0,0
+Cambodia,Lower middle income,Western Pacific,152,136,5,0,1,0,1,2,1, ,0, 
+Cameroon,Lower middle income,Africa,341,260,54,9,3,9,5,3,2,314,0,0
+"Congo, Rep.",Lower middle income,Africa,128,92,17,5,3,0,5,0,0, , , 
+"Congo, Dem. Rep.",Low income,Africa,1297,1040,145,55,23,20,19,0,2,576,0,0
+Costa Rica,Upper middle income,Americas,50,25,0,8,13,4,0,0,0,27,0,0
+Dominican Republic,Upper middle income,Americas,227,155,26,17,6,10,12,1,0,117,85,58
+Ecuador,Upper middle income,Americas,153,104,12,7,6,0,19,5,0,125,118,0
+El Salvador,Lower middle income,Americas,112,112,0,0,0,0,0,0,0,99,0,0
+Ethiopia,Low income,Africa,2689,2516,256,120,52,45,67,8,2,1766,0,0
+Gabon,Upper middle income,Africa,10,5,5,0,0,0,0,0,0,2,0,0
+Ghana,Lower middle income,Africa,294,232,36,14,5,3,4,0,0,207,0,0
+"Gambia, The",Low income,Africa,87,46,1,3,6,0,11,6,8,45,9,0
+Guatemala,Upper middle income,Americas,138,89,12,5,9,0,18,4,1,113,69,0
+Guinea,Low income,Africa,89,82,5,1,0,0,1,0,0,52,10,0
+Guinea-Bissau,Low income,Africa,77,46,6,4,4,0,9,5,2,79,0,0
+Guyana,Upper middle income,Americas,23,12,4,4,1,0,2,0,0,14,0,0
+Haiti,Lower middle income,Americas,90,62,10,7,1,2,0,13,0,55,0,0
+Honduras,Lower middle income,Americas,94,73,7,4,4,0,3,2,1,61,0,0
+India,Lower middle income,South-East Asia,12761,8115,2457,916,638,378,188,63,0,9041,2842,3980
+Indonesia,Lower middle income,South-East Asia,239,142,48,19,11,0,17,1,1,177,23,0
+Iraq,Upper middle income,Eastern Mediterranean,70,52,16,1,1,0,0,0,0,0,0,0
+Kenya,Lower middle income,Africa,1494,1322,87,35,24,11,14,1,0,844,0,0
+Lao PDR,Lower middle income,South-East Asia,129,122,7,0,0,0,0,0,0,129,0,0
+Liberia,Low income,Africa,420,348,37,16,10,0,8,1,0,385,89,0
+Madagascar,Low income,Africa,613,450,63,33,18,0,37,12,0,550,191,0
+Malawi,Low income,Africa,511,455,36,7,5,3,1,0,0,331,0,0
+Mali,Low income,Africa,231,187,23,3,4,0,11,3,0,205,80,0
+Mauritania,Lower middle income,Africa,14,10,2,1,0,0,1,0,0,4,0,0
+Mexico,Upper middle income,Americas,45,13,9,3,1,0,13,1,5,12,0,0
+Morocco,Lower middle income,Eastern Mediterranean,420,0,0,0,0,0,0,0,0, , ,0
+Mozambique,Low income,Africa,374,374,9,4,0,0,0,0,0,345,0,0
+Myanmar,Lower middle income,South-East Asia,55,0,0,0,0,0,0,0,0,6,2,0
+Nepal,Lower middle income,South-East Asia,541,335,48,37,22,0,71,26,2,455,117,0
+Nicaragua,Lower middle income,Americas,116,74,6,8,4,0,20,2,2,89,105,0
+Niger,Low income,Africa,283,215,34,14,7,8,5,0,0,71,0,0
+Nigeria,Lower middle income,Africa,1400,853,192,91,68,0,144,38,14,862,88,0
+Pakistan,Lower middle income,Eastern Mediterranean,2180,897,243,168,96,0,97,3,0,1273,0,0
+Papua New Guinea,Lower middle income,Western Pacific,56,40,11,3,2,0,0,0,0,45,12,0
+Paraguay,Upper middle income,Americas,175,134,7,0,2,0,26,5,1,171,138,0
+Peru,Upper middle income,Americas,59,34,11,7,4,0,3,0,0,44,0,0
+Philippines,Lower middle income,Western Pacific,690,551,53,23,26,0,50,4,4,580,277,0
+Russian Federation,Upper middle income,Europe,82,0,0,15,21,18,17,12,11,0.99,0.9,0
+Rwanda,Low income,Africa,493,444,49,0,0,0,0,0,0,438,226,109
+Senegal,Lower middle income,Africa,120,96,9,2,3,0,7,1,2,99,23,0
+Sierra Leone,Low income,Africa,256,197,14,7,4,0,21,9,4,214,19,0
+Somalia,Low income,Eastern Mediterranean,258,160,48,15,7,0,25,3,0,230,70,3
+South Africa,Upper middle income,Africa,1162,0,0,0,0,0,0,0,0,0,0,0
+South Sudan,Low income,Africa,58,45,6,5,2,0,0,0,0,41,25,0
+Sri Lanka,Lower middle income,South-East Asia,414,333,17,17,18,0,22,7,0,364,123,0
+Sudan,Low income,Eastern Mediterranean,214,173,15,10,4,7,5,0,0,97,0,0
+Syrian Arab Republic,Low income,Eastern Mediterranean,12,12,0,0,0,0,0,0,0,0,0,0
+Tanzania,Lower middle income,Africa,1847,1577,138,41,24,16,31,15,5,1112,664,300
+Thailand,Upper middle income,South-East Asia,10,3,0,0,3,3,1,0,0,0,0,0
+Vietnam,Lower middle income,Western Pacific,25,25,0,0,0,0,0,0,0,25,15,10
+Togo,Low income,Africa,235,141,33,8,1,0,0,0,0,154,0,0
+Uganda,Low income,Africa,1083,917,58,28,26,0,49,5,0,924,457,0
+"Yemen, Rep.",Low income,Eastern Mediterranean,142,79,11,22,16,11,6,6,1,111,0,0
+Zambia,Low income,Africa,471,378,45,27,10,4,8,0,0,209,0,0
+Zimbabwe,Lower middle income,Africa,380,0,0,0,0,0,0,0,0, , , 

@@ -1,0 +1,66 @@
+YEAR_RECORDED,Country Name,Income Group,Region,Total new children treated,0-1 years,1-2 years,2-3 years,3-4 years,4-5 years,5-10 years,10-15 years,15+ years,number children started 1yr FAB,number of children completed 2 years FAB,NUMBER_OF_CHILDREN_COMPLETED_4_YEARS_FAB,Expected number of clubfoot cases
+2021,Afghanistan,Low income,South Asia,806,502,151,65,21,14,41,16,4,534,64,0,1742.184951
+2021,Argentina,Upper middle income,Latin America & Caribbean,600,0,0,0,0,0,0,0,0,350,0,0,794.7740039
+2021,Bangladesh,Lower middle income,South Asia,2004,1943,61,0,0,0,0,0,0,1839,1638,0,3747.838531
+2021,Benin,Lower middle income,Sub-Saharan Africa,24,17,5,2,0,0,0,0,0,15,99,0,581.8537151
+2021,Bolivia,Lower middle income,Latin America & Caribbean,65,34,0,0,0,0,0,0,0,60,45,0,326.4473464
+2021,Brazil,Upper middle income,Latin America & Caribbean,35,27,3,0,0,1,4,0,0,12,0,0,3457.344767
+2021,Burkina Faso,Low income,Sub-Saharan Africa,217,160,0,0,0,0,0,0,0,168,0,0,963.0385094
+2021,Burundi,Low income,Sub-Saharan Africa,436,405,0,0,0,0,0,0,0,576,0,0,539.4951599
+2021,Cambodia,Lower middle income,East Asia & Pacific,157,152,1,1,0,0,3,0,0,141,0,0,403.5719799
+2021,Cameroon,Lower middle income,Sub-Saharan Africa,373,154,104,57,23,15,12,7,1,276,133,0,1166.367592
+2021,"Congo, Dem. Rep.",Low income,Sub-Saharan Africa,848,1,0,0,0,0,0,0,0,795,0,0,4871.600675
+2021,"Congo, Rep.",Lower middle income,Sub-Saharan Africa,104,89,9,0,4,1,1,0,0,104,50,0,220.2875264
+2021,Dominican Republic,Upper middle income,Latin America & Caribbean,113,97,97,0,0,0,0,0,0,86,0,0,256.1513755
+2021,Ecuador,Upper middle income,Latin America & Caribbean,140,100,20,0,0,0,0,0,0,120,0,0,371.5745473
+2021,"Egypt, Arab Rep.",Lower middle income,Middle East & North Africa,1500,120,25,25,15,4,5,3,4,120,240,0,3071.701717
+2021,El Salvador,Lower middle income,Latin America & Caribbean,98,70,26,2,0,0,0,0,0,107,0,0,126.3147445
+2021,Eritrea,Low income,Sub-Saharan Africa,112,99,13,0,0,0,0,0,0,84,0,0,126.572686
+2021,Ethiopia,Low income,Sub-Saharan Africa,2112,1666,446,0,0,0,0,0,0,1514,0,0,4763.482398
+2021,"Gambia, The",Low income,Sub-Saharan Africa,68,37,23,10,13,5,4,2,3,113,42,0,107.6227464
+2021,Ghana,Lower middle income,Sub-Saharan Africa,93,62,0,0,0,0,0,0,0,74,0,0,1118.819863
+2021,Guatemala,Upper middle income,Latin America & Caribbean,35,20,3,2,2,0,1,0,0,28,149,0,456.048927
+2021,Guinea,Low income,Sub-Saharan Africa,70,0,0,0,0,0,0,0,0,0,0,0,572.1866744
+2021,Guinea-Bissau,Low income,Sub-Saharan Africa,44,26,5,8,0,0,1,4,0,43,43,0,79.00070249
+2021,Haiti,Lower middle income,Latin America & Caribbean,73,62,0,0,0,0,0,0,0,58,0,0,335.59309
+2021,Honduras,Lower middle income,Latin America & Caribbean,38,24,0,0,0,0,0,0,0,27,0,0,268.0012066
+2021,India,Lower middle income,South Asia,11028,4646,2150,1112,930,960,648,582,2,8500,6400,0,28694.75006
+2021,Indonesia,Lower middle income,East Asia & Pacific,29,3,6,9,5,2,3,0,0,11,3,0,5612.442545
+2021,Iraq,Upper middle income,Middle East & North Africa,170,100,50,20,0,0,0,0,0,0,0,0,1463.435948
+2021,Kenya,Lower middle income,Sub-Saharan Africa,1174,1087,0,0,0,0,0,0,0,872,0,0,1804.817357
+2021,Lebanon,Lower middle income,Middle East & North Africa,0,0,0,0,0,0,0,0,0,30,0,0,107.6616799
+2021,Liberia,Low income,Sub-Saharan Africa,375,220,87,27,16,11,14,0,0,375,340,0,200.0332207
+2021,Madagascar,Low income,Sub-Saharan Africa,153,153,0,0,0,0,0,0,0,107,0,0,1096.980536
+2021,Malawi,Low income,Sub-Saharan Africa,100,83,0,0,0,0,0,0,0,74,0,0,798.5077566
+2021,Mali,Low income,Sub-Saharan Africa,167,161,3,2,1,0,0,0,0,10,5,0,1105.216414
+2021,Mexico,Upper middle income,Latin America & Caribbean,0,0,0,0,0,0,0,0,0,0,0,0,2431.842828
+2021,Morocco,Lower middle income,Middle East & North Africa,350,0,0,0,0,0,0,0,0,0,0,0,813.8435485
+2021,Mozambique,Low income,Sub-Saharan Africa,385,370,0,0,0,0,0,0,0,349,0,0,1429.452419
+2021,Myanmar,Lower middle income,East Asia & Pacific,25,21,2,1,1,0,0,0,0,13,0,0,1150.207864
+2021,Nepal,Lower middle income,South Asia,480,0,0,0,0,0,0,0,0,480,200,0,751.13702
+2021,Nicaragua,Lower middle income,Latin America & Caribbean,148,0,0,0,0,0,0,0,0,0,537,0,175.1109067
+2021,Niger,Low income,Sub-Saharan Africa,264,208,56,0,0,0,0,0,0,182,0,0,1375.559199
+2021,Nigeria,Lower middle income,Sub-Saharan Africa,450,0,300,90,50,10,0,0,0,380,250,0,9678.699575
+2021,Pakistan,Lower middle income,South Asia,500,327,75,35,25,20,15,3,0,450,450,0,7878.973957
+2021,Papua New Guinea,Lower middle income,East Asia & Pacific,22,26,6,1,0,0,1,0,0,24,8,0,314.2800354
+2021,Paraguay,Upper middle income,Latin America & Caribbean,178,126,15,10,7,3,15,0,0,124,25,0,171.90763
+2021,Peru,Upper middle income,Latin America & Caribbean,42,0,0,0,0,0,0,0,0,28,0,0,736.465405
+2021,Philippines,Lower middle income,East Asia & Pacific,467,344,41,20,22,12,23,5,0,140,0,0,3065.995408
+2021,Rwanda,Low income,Sub-Saharan Africa,423,379,0,0,0,0,0,0,0,316,0,0,494.0818265
+2021,Senegal,Lower middle income,Sub-Saharan Africa,104,0,0,0,0,0,0,0,0,0,0,0,673.2589772
+2021,Somalia,Low income,Sub-Saharan Africa,196,0,78,51,24,10,23,8,2,135,25,0,902.4031343
+2021,South Africa,Upper middle income,Sub-Saharan Africa,848,0,0,0,0,0,0,0,0,0,0,0,1482.057881
+2021,Sri Lanka,Lower middle income,South Asia,229,0,0,0,0,0,0,0,0,0,0,0,386.9010366
+2021,Sudan,Low income,Sub-Saharan Africa,279,169,0,0,0,0,0,0,0,128,0,0,1886.064892
+2021,Tajikistan,Lower middle income,Europe & Central Asia,0,0,0,0,0,0,0,0,0,0,0,0,325.778366
+2021,Tanzania,Lower middle income,Sub-Saharan Africa,1441,1130,120,59,25,31,47,16,13,840,654,0,2804.300039
+2021,Thailand,Upper middle income,East Asia & Pacific,20,10,3,5,1,0,1,0,0,5,4,0,813.7990381
+2021,Togo,Low income,Sub-Saharan Africa,115,108,5,2,0,0,0,0,0,20,87,0,338.1631518
+2021,Uganda,Low income,Sub-Saharan Africa,823,753,38,13,7,7,3,2,0,877,521,0,2051.159106
+2021,Uzbekistan,Lower middle income,Europe & Central Asia,350,94,181,40,15,16,4,0,0,300,690,0,1044.214453
+2021,West Bank and Gaza,Lower middle income,Middle East & North Africa,40,35,4,0,0,1,0,0,0,33,0,0,171.5343425
+2021,"Yemen, Rep.",Low income,Middle East & North Africa,628,0,0,0,0,0,0,0,0,628,0,0,1251.086847
+2021,Zambia,Low income,Sub-Saharan Africa,295,251,0,0,0,0,0,0,0,233,0,0,820.3597238
+2021,Zimbabwe,Lower middle income,Sub-Saharan Africa,315,254,61,0,0,0,0,0,0,229,0,0,602.5168345
+2021,Sierra Leone,Low income,Sub-Saharan Africa,162,0,0,0,0,0,0,0,0,0,0,0,325.845859
+2021,South Sudan,Low income,Sub-Saharan Africa,39,0,0,0,0,0,0,0,0,0,0,0,383.5831087

@@ -1,0 +1,390 @@
+﻿State ,Clinic Name,District,Clinic Address,Lat/Long,Designation (SPC/DPC),"Clinic Status (Active/
+Inactive)"
+Andhra Pradesh,SMC - Vijayawada - Wednesday,NTR ,"Room No. 8B, OP Building, Government General Hospital, (SMC), GM8C+H4R, NH16 Service Road, Beside NTR Health University, Ring Road, Gunadala, NTR District Vijayawada  A.P PIN - 520008. ",,SPC,Active
+Andhra Pradesh,KGH - Visakhapatnam - Friday,Visakhapatnam,"OP  No. 10, King George Hospital, Maharani Peta, Near Jagadamba, Visakhapatnam, A.P PIN - 530002.",,DPC,Active
+Andhra Pradesh,SVRRGGH - Tirupati - Thursday,Tirupati,"Ortho Dept, Room No. 3, SVRRG Tirupati, CURE International India Trust, Alipiri Road, Tirupati District, Andhra Pradesh PIN - 517501. ",,DPC,Active
+Andhra Pradesh,RCDH - Visakhapatnam - Thursday,Visakhapatnam,"OP Block, Rani Chandramani Devi Hospital, Near Peda Waltair, Bio Daiversity Park, Mantal  Hospital Back side, Peda Wltair, Visakhapatnam, AP - 530017.",,DPC,Active
+Andhra Pradesh,SMC - Vijayawada -  Tuesday,NTR ,"Room No. 8B, OP Building, Government General Hospital, (SMC), GM8C+H4R, NH16 Service Road, Beside NTR Health University, Ring Road, Gunadala, NTR District Vijayawada A.P PIN - 520008.",,SPC,Active
+Andhra Pradesh,GGH - Kakinada - Thursday,East Godavari,"Government General Hospital, OP Block,  Room No - 09, Ortho Department, Zilla Parishad Road, Near Old Bustand, Kakinada, AP - 533001",,DPC,Active
+Andhra Pradesh,GGH - Kakinada - Friday,East Godavari,"Government General Hospital, OP Block,  Room No - 09, Ortho Department, Zilla Parishad Road, Near Old Bustand, Kakinada, AP - 533001",,DPC,Active
+Andhra Pradesh,RIMS - Ongole - Friday,Prakasam,"Rajiv Gandhi Institute of Medical Sciences, Ongole, Bhaghya Nagar, 5th Line, Ongole, Prakasam District, A. P - 523001.",,DPC,Active
+Andhra Pradesh,ACSR - Nellore - Thursday,Nellore,-,,-,Inactive
+Andhra Pradesh,AH - Rampachodavaram - Tuesday,Alluri Sitarama Raju ,"District Hospital, (GGH - Eluru), R.R. Peta Main Road, Eluru District, Andhra Pradesh  PIN - 534006.",,-,Inactive
+Andhra Pradesh,GGH - Anatapur - Wednesday,Anantapur,"OP No.9, Opp DM&HO Office, Government General Hospital, Aravind Nagar, Anantapur, A.P - 515101.",,DPC,Active
+Andhra Pradesh,GGH - Kurnool - Friday ,Kurnool,"OP No. 06, Ortho, Government General Hospital, Kurnool, Budavarapupeta, Kurnool, A.P - 518002.",,DPC,Active
+Andhra Pradesh,GGH - Guntur - Wednesday,Guntur,"Government General Hospita, Railway Station Opp, Rail pet, Guntur District, A.P - 522004.",,DPC,Active
+Andhra Pradesh,GGH - Guntur - Thursday,Guntur,"Government General Hospita, Railway Station Opp, Rail pet, Guntur District, A.P - 522004.",,DPC,Active
+Andhra Pradesh,RIMS - Kadapa - Thursday,Kadapa,"OP Block, Rajiv Gandhi Institute of Medical Sciences, Puttampalli Area, Kadapa, Kapada District, AP -  516002.",,DPC,Active
+Andhra Pradesh,RIMS - Srikakulam - Wednesday,Srikakulam,-,,-,Inactive
+Andhra Pradesh,Government General Hospital - Vizianagaram - Thursday,Vizianagaram,"OP No.07, Ortho Department, MR Government Hospital, Vizianagaram, Vizianagaram District, A.P - 535002.",,DPC,Active
+Andhra Pradesh,District Hospital - Anakapalli - Tuesday,Anakapalli,-,,-,-
+Andhra Pradesh,District Hospital - Narsipatnam - Monday,Narsipatnam,-,,-,-
+Andhra Pradesh,Government General Hospital - Eluru - Friday,Eluru,"District Hospital, (GGH - Eluru), R.R. Peta Main Road, Eluru District, Andhra Pradesh  PIN - 534006.",,SPC,Active
+Andhra Pradesh,Government General Hospital - Chittoor - Wednesday,Chittoor,"Government General Hospital, Church Street, Thendabanda Dargah, Chittoor District , A.P - 517001.",,DPC,Active
+Andhra Pradesh,Government General Hospital - Machilipatnam - Monday,Krishna,"OP Block - 06,Government General Hospital,  Noble Road, Machilipatnam, Krishna District, AP - 521001.",,DPC,Active
+Andhra Pradesh,Area Hospital - Bapatla - Monday,Bapatla,"Bapatla Area Hospital, Railwaystation opp, Sathyanarayanapuram, Bapatla District, AP - 522101",,DPC,Active
+Arunachal Pradesh,"Tomo Riba Institute of Health and Medical Sciences, Naharlagun, ",Papum Pare, TRIHMS Naharlagun Arunachal Pradesh 791110,,SPC,Active
+Assam,"Guwahati Medical College & Hospital, Guwahati",Kamrup ,"Guwahati Medical College and Hospital, Guwahati, Assam, India ",,SPC & DPC,Active 
+Assam,"Assam Medical College & Hospital, Dibrugarh",Dibrugarh ,"Assam Medical College and Hospital, Dibrugarh, Assam, India ",,DPC,Active 
+Assam,"Silchar Medical College & Hospital, Silchar",Cachar,"Silchar Medical College and Hospital, Silchar",,DPC,Active 
+Assam,"Tezpur Medical College & Hospital, Tezpur",Sontipur ,"Tezpur Medical College and Hospital, Tezpur, Assam, India ",,DPC,Active 
+Assam,"Jorhat Medical College & Hospital, Jorhat",Jorhat ,"Jorhat Medical College and Hospital, Jorhat, Assam, India ",,DPC,Active 
+Bihar,"PMCH,Patna",Patna ,child ward orthopaedic department patna medical College and hospital ,,SPC,Active 
+Bihar,"NMCH, Patna",Patna ,orthopaedic OPD Ground floor Nmch patna ,,DPC,Active 
+Bihar,"JLNMCH, Bhagalpur",Bhagalpur ,Orthopaedic OPD Ground floor Jlnmch bhagalpur ,,DPC,Active 
+Bihar,"DMCH, Darbhanga",Darbhanga ,cure clubfoot dmch behind skin wardnear Nasha Mukti kendra ,,DPC,Active 
+Bihar,"ANMCH, Gaya",Gaya,Orthopaedic OPD near main emergency annmch gaya,,DPC,Active 
+Bihar,"SADAR, Hajipur",Hajipur ,child ward orthopaedic OPD haipur sadar hospital ,,SPC,Active 
+Bihar,"IGIMS, Patna",Patna,Main emergency child ot IGIMS patna,,DPC,Active 
+Chandigarh,"Govt Medical College & Hospital, Chandigarh, Sec -32",Chandigarh,"GMCH-32, CHANDIGARH",,SPC,Active 
+Chandigarh,"CH, Post Graduate Institute of Medical Education and Reasearch, Sec 12",Chandigarh,"PGIMS-SECTOR 12,Chandigarh",,SPC,Active 
+Chhattisgarh,"Medical College ,Raipur",Raipur,"Jail Road,Moudhapara,Raipur,Chhattisgarh-492001",,DPC,Active
+Chhattisgarh,"Medical College and Hospital, Jagdalpur",Jagdalpur,"GMC Jagdalpur,Dimrapal,Jagdalpur,Chhattisgarh-494001",,DPC,Active
+Chhattisgarh,"District Hospital ,Bilaspur,CG ",Bilaspur,"District Hospital,Near Old Bus Stand,Bilaspur",,DPC,Active
+Chhattisgarh,"Medical College and Hospital, Rajnandgaon",Rajnandgaon,"GMC ,Pendri,Rajnandgaon,Chhattisgarh",,DPC,Active
+Chhattisgarh,"District Hospital ,Raipur,CG",Raipur,"3rd Floor,Opp-DEIC,District Hospital,Byron Bazar,Janta Colony,Raipur,Chhattisgarh-492001",,DPC,Active
+Chhattisgarh,Dhamtari,Not Functional,Not Fuctional,,,Inactive
+Chhattisgarh,Indra Gnadhi District Hospital  Korba,Korba,"District Hospital,Rajgamar Road,Near Ind Area,Korba,Chhattisgarh",,DPC,Active
+Chhattisgarh,"Medical College and Hospital, Ambikapur",Ambikapur,"District Hospital,Ambikapur,Surguja,Chhattisgarh",,,Inactive
+Chhattisgarh,District Hospital Raigarh,Raigarh,"Kirodimal District Hospital,Nayaganj,Raigarh,Chhattisgarh,496001",,DPC,Active
+Chhattisgarh,"Medical College ,Raipur, Friday",Raipur,"Jail Road,Moudhapara,Raipur,Chhattisgarh-492001",,DPC,Active
+Chhattisgarh,"District Hospital, Durg",Durg,"District Hospital,Pachripara,Durg",,DPC,Active
+Chhattisgarh,"Medical College and Hospital, Rajnandgaon, Saturday",Rajnandgaon,"GMC ,Pendri,Rajnandgaon,Chhattisgarh",,DPC,Active
+Chhattisgarh,"Medical College ,Raipur, Wednesdsay",Raipur,"Jail Road,Moudhapara,Raipur,Chhattisgarh-492001",,DPC,Active
+Chhattisgarh,"District Hospital ,Janjgir Champa",Champa,,,,Inactive
+Chhattisgarh,AIIMS Hospital Raipur,Raipur,"1st Floor,D-Block,Ortho OPD,Gate No 4,Oppo Gurudwara,Tatiband,Raipur,Chhattisgarh,492099",,SPC,Active
+Chhattisgarh,"District Hospital , Jashpur",Jashpur,,,,Inactive
+Chhattisgarh,"District Hospital, Kawardha",Kawardha,"District Hospital,Kawardha,Chhattisgarh-491995",,DPC,Active
+Chhattisgarh,"District Hospital, Bijapur",Bijapur,"District Hospital,Bijapur,Chhattisgarh",,,-
+Delhi,Kalawati (Wed),Central Delhi,Kalawati Saran Hospital new delhi 110001,POINT (77.210864223727 28.63590825914862),DPC,Active
+Delhi,CNBC (Wednesday),East Delhi,"Chacha Nehru Bal Chikitsalaya,Geeta Colony New Delhi-110031",POINT (77.26869418139758 28.65301672039303),ASPC,Active
+Delhi,Kalawati (Friday),Central Delhi,Kalawati Saran Hospital new delhi 110001,POINT (77.210864223727 28.63590825914862),DPC,Active
+Delhi,St. Stephen's (Wed),North East Delhi,"St Stephen Hospital,Tis Hazari marg New Delhi 110054",POINT (77.21445711874273 28.67010662589294),DPC,Active
+Delhi,Maharishi Valmiki (Thursday),North West Delhi,"Maharishi Valmiki Hospital ,Puth Khurd New Delhi-110039",POINT (77.21838617715096 28.677983025248423),,Active
+Delhi,Deen Dayal Upadhyay Hospital (Mon),West Delhi,"Deen Dayal Upadhyay Hospital,Hari Nagar New Delhi-110064",POINT (77.11229629489027 28.628186485539718),ASPC,Active
+Delhi,Safdarjung (Thursday),South Delhi,"Safdarjung Hospital,Ansari nagar East New Delhi-110029",POINT (77.23691615256156 28.63931755133124),ASPC,Active
+Delhi,LNJP (Fri),Central Delhi,"Lok Nayak Hospital,Delhi Gate New Delhi-110002",POINT (77.23691615256156 28.63931755133124),Volunteer,Active
+Delhi,AIIMS (Friday),South Delhi,"All India Institute Of Medical Science ,Sri Aurobindo Marg,Ansari Nagar East New Delhi-110029",POINT (77.20998072641311 28.567742759028594),ASPC,Active
+Delhi,CNBC (Thursday),East Delhi,"Chacha Nehru Bal Chikitsalaya,Geeta Colony New Delhi-110031",POINT (77.26869418139758 28.65301672039303),DPC,Active
+Delhi,Kalawati (Mon),Central Delhi,Kalawati Saran Hospital new delhi 110001,POINT (77.210864223727 28.63590825914862),DPC,Active
+Delhi,SSPGTI ,Noida,"Post Graduate Insitute Of Child Health Sector-30, Noida-201303","28.57718830114581, 77.33768769987536",Volunteer,Active
+Delhi,BKCH,Haryana,"Baadshah Khan Civil Hospital,Bk Chowk, Faridabad, Haryana-121006","28.39396286257089, 77.29829728504167",,InActive
+Delhi,"C.H, Gurgoan",Haryana,"Poly Clinic Sector 31,Gurugram Haryana-12202","28.4783313153449, 77.03431961389037",DPC,Active
+Delhi,Maharaja Agrasen Hospital,West Delhi,"Maharaja Agrasen Hospital,Punjabi Bagh  New Delhi-110026","28.67433948261137, 77.13399019632512",,InActive
+Delhi,GTB THU,East Delhi,"Guru Teg Bahadur Hospital,GTB Enclave Dilshad Garden New Delhi-110095","28.690400275023276, 77.3092620713984",DPC,Active
+Delhi,GTB FRI,East Delhi,"Guru Teg Bahadur Hospital,GTB Enclave Dilshad Garden New Delhi-110095","28.690400275023276, 77.3092620713984",DPC,Active
+Gujarat,"Civil Hospital, Ahmedabad - Monday",Ahmedabad," Ahmedabad Civil Hospital ,Haripura,Asarava,Gali no-2,OPD no-2, Orthopedic Department,",,DPC,Active
+Gujarat,"Civil Hospital, Ahmedabad - Friday",Ahmedabad," Ahmedabad Civil Hospital ,Haripura,Asarava,Gali no-2,OPD no-2, Orthopedic Department,",,DPC,Active
+Gujarat,"Civil Hospital, Ahmedabad - Wednesday",Ahmedabad," Ahmedabad Civil Hospital ,Haripura,Asarava,Gali no-2,OPD no-2, Orthopedic Department,",,DPC,Active
+Gujarat,"P.D.U. Hospital, Rajkot - Monday",Rajkot,"PDU Hospital Rajkot,Jamnagar Road ,OPD no-7 Orthopedic Department",,DPC,Active
+Gujarat,"P.D.U. Hospital, Rajkot - Friday",Rajkot,"PDU Hospital Rajkot,Jamnagar Road ,OPD no-7 Orthopedic Department",,DPC,Active
+Gujarat,"P.D.U. Hospital, Rajkot - Wednesday",Rajkot,"PDU Hospital Rajkot,Jamnagar Road ,OPD no-7 Orthopedic Department",,DPC,Active
+Gujarat,"New Civil Hospital, Surat - Friday",Surat,"New Civil Hospital Surat ,orthopadic Department ,OPD no-6,Majauragate",,Paid Volunteer,Active
+Gujarat,"New Civil Hospital, Surat - Thursday",Surat,"New Civil Hospital Surat ,orthopadic Department ,OPD no-6,Majauragate",,Paid Volunteer,Active
+Gujarat,"S.S.G. Hospital, Vadodara - Tuesday",Vadodara,"SSG Hospital Vadodara,Ortho OPD -3 ,Jail Road",,DPC,Active
+Gujarat,"New Civil Hospital, Surat - Wednesday",Surat,"New Civil Hospital Surat ,orthopadic Department ,OPD no-6,Majauragate",,Paid Volunteer,Active
+Gujarat,"G.G. Hospital, Jamnagar - Tuesday",Jamnagar,"G.G.G. Hospital Jamnagar ,Ortho OPD Room no-10",,DPC,Active
+Gujarat,"S.S.G. Hospital, Vadodara - Wednesday",Vadodara,"SSG Hospital Vadodara,Ortho OPD -3 ,Jail Road",,DPC,Active
+Gujarat,"G.G. Hospital, Jamnagar - Monday",Jamnagar,"G.G.G. Hospital Jamnagar ,Ortho OPD Room no-10",,DPC,Active
+Gujarat,"Sir T. Hospital, Bhavnagar - Thursday",Bhavnagar,"Sir T Hospital Bhavnagar ,Kalanala orthopadic OPD 53.",,DPC,Active
+Gujarat,"Sir T. Hospital, Bhavnagar - Wednesday",Bhavnagar,"Sir T Hospital Bhavnagar ,Kalanala orthopadic OPD 53.",,DPC,Active
+Gujarat,"S.S.G. Hospital, Vadodara - Monday",Vadodara,"SSG Hospital Vadodara,Ortho OPD -3 ,Jail Road",,DPC,Active
+Gujarat,"G.G. Hospital, Jamnagar - Wednesday",Jamnagar,"G.G.G. Hospital Jamnagar ,Ortho OPD Room no-10",,DPC,Active
+Gujarat,"Sir T. Hospital, Bhavnagar - Tuesday",Bhavnagar,"Sir T Hospital Bhavnagar ,Kalanala orthopadic OPD 53.",,DPC,Active
+Gujarat,"GMERS Medical College & Hospital, Valsad - Wednesday",Valsad,"GMERS Hospital Valsad ,Halar Road ,Nanakwada-396001",,DPC,Active
+Gujarat,"GMERS Medical College & Hospital, Valsad - Thursday",Valsad,"GMERS Hospital Valsad ,Halar Road ,Nanakwada-396001",,DPC,Active
+Gujarat,"Gujarat Adani Institute of Medical Sciences & Hospital, Bhuj-Kutch - Friday",Kutch,Gujarat Adani institute of Madical Science & Hospital(GK General Hospital Bhuj room no-40),,DPC,Active
+Gujarat,"GMERS Medical College & Hospital, Gandhinagar - Tuesday",Gandhinagr,"Gandhinagar Civil Hospital,Orthopadic Opd,Block -A,Sector 12B -382016",,DPC,Active
+Gujarat,"Civil Hospital, Palanpur - Friday",Banaskantha,"Palanpur civil hospital,Saak Market ,ortho opd -23",,DPC,Active
+Gujarat,"GMERS Medical College & Hospital, Junagadh - Tuesday",Junagadh,"Majevdi Gate oppsite Civil Hospital Junagadh,ortho opd-102",,Paid Volunteer,Active
+Gujarat,"GMERS Medical College & Hospital, Himmatnagar - Wednesday",Sabarkantha,"hadiyol Road ,near Politecnic collage ,Sahkari jim,ortho opd-8",,DPC,Active
+Gujarat,"GMERS Medical College & Hospital, Dharpur - Patan - Wednesday",Patan,"GMERS Hospital Dharpur ,Patan (N.G) -384265",,DPC,Active
+Gujarat,"Civil Hospital, Dahod - Tuesday",Dahod,Zydus madical collage  and Hospital Dahod,,DPC,Active
+Gujarat,"Civil Hospital, Dahod - Friday",Dahod,Zydus madical collage  and Hospital Dahod,,DPC,Active
+Gujarat,"GMERS Medical College & Hospital, Junagadh - Friday",Junagadh,"Majevdi Gate oppsite Civil Hospital Junagadh,ortho opd-102",,Paid Volunteer,Active
+Gujarat,"Civil Hospital, Deesa",Banaskantha,"Civil hospital Deesa ,nr bagicha stop ,main bajar ,ta-Deesa,Dist-Banaskantha-385535",,DPC,Active
+Gujarat,"Civil Hospital, Nadiad - Saturday",Kheda,JZHMN civil hospital road Nadiad -387001,,Paid Volunteer,Active
+Gujarat,"Civil Hospital, Godhra - Wednesday",Panchmahal,"GMERS Civil Hospital Godhara ,Orthopedic Opd no-8,Opposite Emergency Gate",,DPC,Active
+Gujarat,"Civil Hospital, ChhotaUdepur - Tuesday",Chhotaudaipur,"General Hospital Chhotaudaipur,Ortho opd .",,DPC,Active
+Gujarat,"Civil Hospital, Bharuch - Wednesday",Bharuch,General Hospiatal Bharuch.(KMCRI Medical Collage)Ortho opd no-3,,DPC,Active
+Gujarat,"Civil Hospital, Mehsana - Monday",Mahesana,"General Hospital Mehsana .near old busstand,ortho opd-M-13",,DPC,Active
+Gujarat,"Civil Hospital, Amreli - Tuesday",Amreli,"Behind ST Depo,Shantabaa General hospital Amreli-365601",,DPC,Active
+Gujarat,"Civil Hospital, Vyara - Friday",Tapi,"General Hospital ,Opp daxinapath Vidhyalaya vyara Tapi-394655",,DPC,Active
+Gujarat,"GMERS Hospital, Gotri",Vadodara,"GEMERS Hospital Gotri ,Ortho OPD -3,Vadodara",,DPC,Active
+Gujarat,"State Hospital, Dharampur, Valsad",Valsad,"State hospital Dharampur ,tran darvaja ,Garden road dharampur Valsad ",,DPC,Active
+Gujarat,"GMERS Medical college & Hospital, Sola, Ahmedabad",Ahmedabad,"Sola civil Hospital,Block -A,Room no-3,ortho opd",,DPC,Active
+Gujarat,"GMERS Medical college & Hospital, Vadnagar, Friday",Mahesana,"GMERS General Hospital , Vadnagar, ortho opd First floor",,DPC,Active
+Gujarat,"Civil Hospital, Petlad, Tuesday",Anand,"S.S.Hospital Petlad -388450,ortho opd ",,Paid Volunteer,Active
+Gujarat,"Civil Hospital, Navsari, Tuesday",Navsari,M.G.G.General Hospital opp jahangir talkies Navsari-396445,,DPC,Active
+Gujarat,"General Hospital, Ahwa",Ahwa Dang,"General Hospital Ahwa ,Gandhi colony ,ta-Ahwa ,Di-Dang -394710",,DPC,Active
+Gujarat,"General Hospital, Morbi",Morbi,"General Civil Hospital Morbi,ortho opd-7",,DPC,Active
+Gujarat,"General Hospital, Rajpipla",Narmada,"General Hospital rajpila ,vadia palace ,ortho opd-12",,DPC,Active
+Gujarat,Government Hospital Veraval,Veraval,Government Hospital Veraval,,Paid Volunteer,InActive
+Gujarat,Narendra Modi Medical College L.G Municipal General Hospital Ahmedabad,Ahmedabad,"Narendra Modi Medical College L.G Municipal General Hospital Ahmedabad,First floor ortho opd.near Adani CNG Pump",,SPC,Active
+Gujarat,Government Hospital Gandhidham Rambagh Kutch,Kutch,Gandhidham Rambag Hospital ortho opd-7,,DPC,Active
+Haryana,"Civil Hospital, Panchkula",Haryana,"sector-6,panchkula-HR",,SPC,Active
+Haryana,"Maharaja Agrasen Civil Hospital, Hisar",Haryana,Hisar- Bus stand,,DPC,Active
+Haryana,"Pandit Bhagwat Dayal Sharma Post Graduate Institute of Medical Sciences, Rohtak",Haryana,PGIMS-Rohtak,,DPC,Active
+Haryana,"Chaudhary Bansilal Civil Hospital, Bhiwani",Haryana,Civil hospital- Bhiwani,,DPC,Active
+Himachal Pradesh,"Indira Gandhi Medical College, Shimla, Wednesday ",Shimla,"IGMC-SHIMLA, HIMACHAL",,DPC,Active
+Himachal Pradesh,"Dr. Rajendra Prasad Govt Medical College, Kangra, Tuesday",kangra,"DR-RPGMC, TANDA",,DPC,-
+Himachal Pradesh,"Indira Gandhi Medical College, Shimla, Monday",Shimla,"IGMC-SHIMLA, HIMACHAL",,DPC,Active
+Himachal Pradesh,"Dr. Rajendra Prasad Govt Medical College, Kangra, Friday",kangra,"DR-RPGMC, TANDA",,DPC,Active
+Jammu Kashmir,JLNM District Hospital ,Srinagar ,Rainawari ,,SPC,Active 
+Jammu Kashmir,"GMC bakshi nagar jammu, Friday ",Jammu,"govt Medical college Bakshinagar Jammu , JK 180001",,DPC,Active 
+Jammu Kashmir,"SKIMS Medical college and Hospital, Thursday ",Srinagar,SKIMS MC Bemina,,SPC,Active 
+Jammu Kashmir,"GMC bakshi nagar  jammu, Thursday ",Jammu,"govt Medical college Bakshinagar Jammu , JK 180001",,DPC,Active 
+Jammu Kashmir,"GMC bakshi nagar jammu, Wednesday ",Jammu,"govt Medical college Bakshinagar Jammu , JK 180001",,DPC,Active 
+Jammu Kashmir,District Hospital Gandhi Nagar monday,Jammu,"District hospital Gandinagar Jammu, JK 180004",,DPC,Active 
+Jammu Kashmir,"Bone and Joint Hospital, Tuesday ",Srinagar ,Bone and joint Surgery Hospital barzullah ,,DPC,Active 
+Jammu Kashmir,"Bone and Joint Hospital, Wednesday",Srinagar,Bone and joint Surgery Hospital barzullah ,,DPC,Active 
+Jammu Kashmir,"Bone and Joint Hospital, Thurday ",Srinagar,Bone and joint Surgery Hospital barzullah ,,DPC,Active 
+Jammu Kashmir,"District Hospital Anantnag, Saturday",Anantnag,Govt District Hospital Anantnag ,,DPC,Active 
+Jammu Kashmir,"District Hospital Anantnag, Friday",Anantnag,Govt District Hospital Anantnag ,,DPC,Active 
+Jammu Kashmir,"Bone and Joint Hospital, Friday",Srinagar,Bone and joint Surgery Hospital barzullah ,,DPC,Active 
+Jharkhand,"RIMS, Ranchi - Fri",Ranchi ,RIMS Ranchi ,,SPC,Active 
+Jharkhand,"District Hospital, Ranchi",Ranchi ,Main road Ranchi ,,SPC,Active 
+Jharkhand,"RIMS, Ranchi, Tuesday",Ranchi ,RIMS Ranchi ,,SPC,Active 
+Jharkhand,"RIMS, Ranchi, Wednesday",Ranchi ,RIMS Ranchi ,,SPC,Active 
+Karnataka,Sparsh Hospital-Bangalore,Bangalore Urban,Nil,,Nil,Nil
+Karnataka,Indira Gandhi Institute of Child Health-Bangalore,Bangalore Urban,"Indira Gandhi institute of child health
+CURE clubfoot clinic ,Orthopedic Department,
+WHPR+XR3, 1st Block, Siddapura, Jayanagar, Bengaluru, Karnataka-560029",POINT (77.59206852272833 12.937591717056408),DPC,Active 
+Karnataka,Victoria Hospital-Bangalore,Bangalore Urban,"City Market, Fort Road, Bengaluru, Karnataka 560002",POINT (77.57541979660013 12.965939330486481),DPC,Active 
+Karnataka,St. Jhon’s Hospital Bangalore,Bangalore Urban,"St. John’s National Academy of Health Sciences,
+Sarjapur Road, Bangalore - 560034
+, Karnataka, India.",POINT (77.6011429451913 13.071838036895645),DPC,Active 
+Karnataka,Vijayanagar Institute of Medical Science -Bellary,Bellary,"Contonment, Bellary  Karnataka, India, Vijayanagara, India 583104,",POINT (76.89670122277522 15.153175713113498),DPC,Active 
+Karnataka,Belagavi Institute of Medical Science -Belagavi,Belagavi,"Dr B R Ambedkar Road, Sadashiv Nagar, Belagavi - 590001, Karnataka
+
+",POINT (74.51157999256824 15.870685862971738),DPC,Active 
+Karnataka,KIMS-Hubli,Hubballi,Nil,POINT (75.13242109561446 15.363065997595728),Nil,Nil
+Karnataka,MRMC-Kalaburagi,Kalaburagi,"Basaveshwar Teaching & General Hospital Sedam Road, Kalaburagi Karnataka, Gulbarga, Karnataka 585105","17.326451698062332, 76.85395382883573",DPC,Active 
+Karnataka,Hassan Institute of Medical Science -Hassan,Hassan,"S.c. Hospital, Hassan, Karnataka 573201",POINT (76.11031634068489 13.10195977263058),DPC,Active 
+Karnataka,MMCRI-Mysore,Mysore,"Krishna Rajendra Hospital
+Irwin Road, Devaraja Mohalla, Near Government College Of India Medicine And Hospital, Yadavagiri, Mysuru, Karnataka 570001",POINT (76.63414987819186 12.37991660310443),DPC,Active 
+Karnataka,Wenlock District Hospital-Mangalore,Mangalore,"Wenlock District Hospital
+NG Road, Near Milagres Church, Bunder, Mangaluru, Karnataka 575001",POINT (74.84319537258531 12.86753466146709),DPC,Active 
+Karnataka,CIMS -Chamarajanagar,Chamarajanagara,"Chamarajanagar Institute of Medical Sciences (CIMS),
+Survey No.124,
+Yadapura Village, Kasaba Hobli
+Chamarajanagar Taluk & District - 571 313","11.901594109837443, 76.90453119259888",DPC,Active 
+Kerala,"Medical College Hospital, Alappuzha - Monday",Alappuzha,Cure India Cluboot Clinic                                                                                                     T.D Medical College Vandanam NH-66 Alappuzha Dist.688005,POINT (76.34786639777295 9.417261042122943),Volunteer,Active
+Kerala,"Medical College Hospital,Trivandrum-Monday",Trivandrum,"Cure India Clubfoot Clinic                           Room No: 248 Paediatric Orthopedics,  Ortho Op, OP Block Govt. Medical College  Hospital, Trivandrum Pin: 695011",POINT (76.92839462421757 8.52383865837313),ASPC,Active
+Kerala,"Medical College Hospital, Trivandrum - Friday",Trivandrum,"Cure India Clubfoot Clinic                           Room No: 248 Paediatric Orthopedics,  Ortho Op, OP Block Govt. Medical College  Hospital, Trivandrum Pin: 695011",POINT (76.92839462421757 8.52383865837313),ASPC,Active
+Kerala,"Medical College Hospital,Trivandrum-Thursday",Trivandrum,"Cure India Clubfoot Clinic                           Room No: 248 Paediatric Orthopedics,  Ortho Op, OP Block Govt. Medical College  Hospital, Trivandrum Pin: 695011",POINT (76.92839462421757 8.52383865837313),ASPC,Active
+Kerala,"Medical College Hospital, Kottayam - Tuesday",kottayam,"Cure Clubfoot clinic   Govt. Medical College Hospital, Gandhi Nagar Arpookara Kottayam- 606008",POINT (76.52084242471939 9.632754905589715),DPC,Active
+Kerala,"Medical College Hospital, Calicut - Friday",Kozhikode,"Cure India Clubfoot Clinic                          GMCH kozhikode, Department of Orthopaedic, Kozhikode-673008",POINT (75.83881161458719 11.275496716954898),DPC,Active
+Kerala,"Medical College Hospital, Alappuzha - Wednesday",Alappuzha,Cure India Cluboot Clinic                                                                                                     T.D Medical College Vandanam NH-66 Alappuzha Dist.688005,POINT (76.34786639777295 9.417261042122943),Volunteer,Active
+Kerala,"Medical College Hospital, Alappuzha - Tuesday",Alappuzha,Cure India Cluboot Clinic                                                                                                     T.D Medical College Vandanam NH-66 Alappuzha Dist.688005,POINT (76.34786639777295 9.417261042122943),Volunteer,Active
+Kerala,"District Hospital, Kannur- Monday",Kannur,"Cure Clubfoot clinic   DH Kannur, fort road Kannur  Near Contonment Pin: 670017",POINT (75.48731155276732 11.747600239850966),DPC,Active
+Kerala,"Medical College Hospital, Thrissur - Wednesday",Thrissur,"Cure Clubfoot Clinic  Govt. medical college Hospital, Mulamkunnathukavu Thrissur-680581",POINT (76.19561605776259 10.614236015794923),DPC,Active
+Kerala,"District Hospital, Thrissur - Thursday",Thrissur,"Cure Clubfoot Clinic   GH Thrissur, St. Thomas College Road Thrissur- 680001",POINT (76.19561605776259 10.614236015794923),DPC,Active
+Kerala,"Thaluk Hospital, Thrikkarippor - Saturday",Kasargod,"Cure Clubfoot Clinic     TH Kasargode,Thangayam Thaluk Hospital, Thrikaripoor Kasargode- 671121",POINT (74.99134745499539 12.503628035642574),DPC,Active
+Kerala,"Medical College Hospital, Kottayam - Monday",Kottayam,"Cure Clubfoot clinic   Govt. Medical College Hospital, Gandhi Nagar Arpookara Kottayam- 606008",POINT (76.52084242471939 9.632754905589715),DPC,Active
+Kerala,"Medical College Hospital, Kottayam -Wednesday",Kottayam,"Cure Clubfoot clinic   Govt. Medical College Hospital, Gandhi Nagar Arpookara Kottayam- 606008",POINT (76.52084242471939 9.632754905589715),DPC,Active
+Kerala,"Medical College Hospital, Thrissur -Saturday",Thrissur,"Cure Clubfoot Clinic  Govt. medical college Hospital, Mulamkunnathukavu Thrissur-680581",POINT (76.19561605776259 10.614236015794923),DPC,Active
+Kerala,"Medical College Hospital, Calicut - Saturday",Kozhikode,"Cure India Clubfoot Clinic                          GMCH kozhikode, Department of Orthopaedic, Kozhikode-673008",POINT (75.83881161458719 11.275496716954898),DPC,Active
+Kerala,D.H. Idukki,Idukki,"Cure Cluboot Clinic                               Govt.Medical College Idukki, Idukki Colony- 685602",POINT (76.68110167304235 10.819356831915615),DPC,Active
+Kerala,W&Ch Palakkad,Palakkad,"Cure Clubfoot Clinic                                                                                                 Women and Child Hospital Near DH, Palakkad Dist- 678013",POINT (76.95288211091521 10.965510051539782),DPC,Active
+Kerala,Govt. G.H. Kalpetta ,Wayanad,"Cure Clubfoot Clinic                                                                                                       DEIC Kalpetta, Wayanad Pin: 673122",POINT (76.08970822085941 11.634425223097749),DPC,Active
+Kerala,EMS Hospital Perinthalmanna,Malappuram,"Clubfoot Clinic                                                                                                                       EMS Hospital, Perinthalmanna   Malappuram Dist-  679322",POINT (76.2554543395528 10.977586943485631),DPC,Inactive
+Kerala,G.H. Thalasserry,Kannur,"Clubfoot Clinic                                                                                                                    General Hospital, Thalaserry Kannur Dist- 670101",,DPC,Inactive
+Madhya Pradesh,"Gandhi Medical College, Bhopal",Bhopal,"Cure Clubfoot Clinic, Department of Orthopaedic, Gandhi Medical College, Bhopal - 462001",,SPC,Active
+Madhya Pradesh,"Bundelkhand Medical College, Sagar",Sagar,"Cure Clubfoot Clinic, Deptt. of Orthopaedics, Bundelkhand Medical College Sagar - 470001",,Volunteer,Active
+Madhya Pradesh,"Mahatma Gandhi Medical College, Indore",Indore,"Cure Clubfoot Clinic, Deptt. of Orthopaedics, M.Y. Hospital Indore, Indore - 452001",,Volunteer,Active
+Madhya Pradesh,"Shyam Saha Medical College, Rewa",Rewa,"Cure Clubfoot Clinic, Deptt. of Orthopaedics, Shyam Shah Medical College Rewa - 486001",,DPC,Active
+Madhya Pradesh,"Netaji Subhash Chandra Bose Medical College, Jabalpur",Jabalpur,"Cure Clubfoot Clinic, Deptt. of Orthopaedics, Netaji Subhash Chandra Bose Medical College Jabalpur - 482003",,DPC,Active
+Madhya Pradesh,"Gajra Raja Medical College, Gwalior",Gwalior,"Cure Clubfoot Clinic, Deptt. of Orthopaedics, Gajra Raja Medical College Gwalior - 474009",,Volunteer,Active
+Madhya Pradesh,District Hospital Gwalior,Gwalior,"Cure Clubfoot Clinic, Deptt. of Orthopaedics, District Hospital Gwalior - 474011",,Volunteer,Active
+Madhya Pradesh,"Kushabhau Thakre District Hospital, Rewa",Rewa,"Cure Clubfoot Clinic, Deptt. of Orthopaedics, Kushabhau Thakre District Hospital Rewa - 486001",,DPC,InActive
+Madhya Pradesh,District Hospital Sehore,Sehore,"Cure Clubfoot Clinic, Deptt. of Orthopaedics, District Hospital Sehore - 466001",,DPC,Active
+Madhya Pradesh,District Hospital Hoshangabad,Hoshangabad,"Cure Clubfoot Clinic, Deptt. of Orthopaedics, District Hospital Hoshangabad, Narmadapuram - 466001",,Volunteer,Active
+Madhya Pradesh,"AIIMS, Bhopal",Bhopal,"Cure Clubfoot Clinic, Department of Orthopaedic, AIIMS Bhopal, Bhopal - 462026",,SPC,Active
+Madhya Pradesh,District Hospital Mandla,Mandla,"Cure Clubfoot Clinic, Deptt. of Orthopaedics, District Hospital Mandla - 481661",,DPC,Active
+Madhya Pradesh,"Victoria District Hospital, Jabalpur",Jabalpur,"Cure Clubfoot Clinic, Deptt. of Orthopaedics, Govt. Seth Govind Das (Victoria) District Hospital Jabalpur - 482002",,DPC,Active
+Madhya Pradesh,District Hospital Betul,Betul,"Cure Clubfoot Clinic, Deptt. of Orthopaedics, District Hospital Betul - 460001",,Volunteer,Active
+Madhya Pradesh,District Hospital Seoni,Seoni,"Cure Clubfoot Clinic, Deptt. of Orthopaedics, District Hospital Seoni - 480661",,DPC,inActive
+Madhya Pradesh,District Hospital Shivpuri,Shivpuri,"Cure Clubfoot Clinic, Deptt. of Orthopaedics, District Hospital Shivpuri - 473551",,Volunteer,Active
+Madhya Pradesh,"District Hospital, Balaghat",Balaghat,"Cure Clubfoot Clinic, Deptt. of Orthopaedics, District Govt Hospital Balaghat - 481001",,Volunteer,Active
+Madhya Pradesh,"District Hosital, Vidisha",Vidisha,"Cure Clubfoot Clinic, Deptt. of Orthopaedics, District Civil Hospital Vidisha - 464001",,DPC,Active
+Madhya Pradesh,"District Hospital, Chattarpur",Chattarpur,"Cure Clubfoot Clinic, Deptt. of Orthopaedics, District Civil Hospital Chhatarpur - 471001",,Volunteer,Active
+Madhya Pradesh,"District Hospital, Ratlam",Ratlam,"Cure Clubfoot Clinic, Deptt. of Orthopaedics, District Civil Hospital Ratlam - 457001",,Volunteer,Active
+Madhya Pradesh,"Gandhi Medical College, Bhopal, Fri",Bhopal,"Cure Clubfoot Clinic, Department of Orthopaedic, Gandhi Medical College, Bhopal - 462001",,DPC,Active
+Madhya Pradesh,"Netaji Subhash Chandra Bose Medical College, Jabalpur, Wed",Jabalpur,"Cure Clubfoot Clinic, Deptt. of Orthopaedics, Netaji Subhash Chandra Bose Medical College Jabalpur - 482003",,DPC,Active
+Madhya Pradesh,"Shyam Saha Medical College, Rewa, Wed",Rewa,"Cure Clubfoot Clinic, Deptt. of Orthopaedics, Shyam Shah Medical College Rewa - 486001",,DPC,Active
+Madhya Pradesh,"Mahatma Gandhi Medical College, Indore, Sat",Indore,"Cure Clubfoot Clinic, Deptt. of Orthopaedics, M.Y. Hospital Indore - 452001",,Volunteer,Active
+Madhya Pradesh,District hospital Shahdol,Shahdol,"Cure Clubfoot Clinic, Deptt. of Orthopaedics, District Hospital Shahdol - 484001",,Volunteer,Active
+Madhya Pradesh,Birsa Munda Medical College Shahdol,Shahdol,"Cure Clubfoot Clinic, Department of Orthopaedic, Govt. Birsa Munda Medical College, Shahdol - 484001",,Volunteer,Active
+Maharashtra,B. J. Wadia Hospital,Mumbai,,,,Inactive
+Maharashtra,L. T. Hospital Sion,Mumbai,"L.T. Hospital Sion,New Building ,Near Gate no-7,OPD no-14",,SPC,Active
+Maharashtra,"Bharati hospital, Pune",Pune,"Bharati Hospital and Research Center Pune ,Ortho OPD No-1",,ASS SPC,Active
+Maharashtra,"SKNMC Hopsital, pune",Pune,"Smt. Kashibai Navale Medical College and General Hospital(Ortho OPD),OPD No-27",,ASS SPC,Active
+Maharashtra,"IGM, Bhiwandi, Thane",Thane,"IGM Bhiwandi,Ortho OPD No-11",,ASS SPC,Active
+Maharashtra,"OH, Parbhani",Parbhani,"Orthopedic Hospital Parbhani,OPD NO-8",,DPC,Active
+Maharashtra,"Aundh Civil Hospital, Pune",Pune,"District Hospital Aundh,Ortho Opd no-6",,ASS SPC,Active
+Maharashtra,"Civil hospital, Satara",Satara,,,DPC,Inactive
+Maharashtra,"Civil Hopspital, Osmanabad",Osmanabad,"Osmanabad Civil Hospital,DEIC",,DPC,Active
+Maharashtra,"Civil Hospital, Bhandara",Bhandara,"Civil Hospital Bhandara,DEIC",,DPC,Active
+Maharashtra,"Civil Hospital, Nasik",Nasik,"Civil Hospital NasikOPD No-2,Operation Theater",,DPC,Active
+Maharashtra,B. J. Wadia Hospital (TH),Mumbai,,,,Inactive
+Maharashtra,GMC Nanded (Friday),Nanded,"GMC Hospital Vishnu puri,OPD NO-115 &116",,DPC,Active
+Maharashtra,"LMH, Nagpur",Nagpur,"Lata Mangeshkar Hospital,Hingna,OPD No-8",,DPC,Active
+Maharashtra,GMC Nanded (Wednesday),Nanded,"GMC Hospital Vishnu puri,OPD NO-115 &116",,DPC,Active
+Maharashtra,GMC Pune(sasson),Pune,"Sassoon Hospital(Ortho Department ),OPD No-35",,ASS SPC,Active
+Maharashtra,GMC Kolhapur,Kolhapur,"CPR Hospital Kolhapur,Orthopedic OPD No-104",,DPC,Active
+Maharashtra,GMC Dhule,Dhule,"Shree Bhausaheb Hire Govt Medical College, Orthopadic OPD No-32",,DPC,Active
+Maharashtra,JJ Hospital,Mumbai,"J. J. Hospital Mumbai,OPD No-3,Near Gate no -6",,SPC,Active
+Maharashtra,"Civil Hospital, Sangli",Sangli,"P.V.P Civil Hospital Sangli,OPD No-20,",,DPC,Active
+Maharashtra,GMC Miraj,Sangli,"Goverment Medical college and Hospital ,OPD No-14,",,DPC,Active
+Maharashtra,DEIC Thane,Thane,"Thane Civil Hospital,Ortho OPD No-9",,DPC,Active
+Maharashtra,GMC Gondia,Gondia,GMC Gondia OPD No-107,,DPC,Active
+Maharashtra,GMC Solapur,Solapur,GMC Solapur OPD No-29,,DPC,Active
+Maharashtra,GMC Yavatmal,Yavatmal,"GMC Yavatmal, OPD No-44",,DPC,Active
+Maharashtra,"Civil Hospital, Wardha",Wardha,"Civil Hospital Wardha, OPD No-18",,DPC,Active
+Maharashtra,"Civil Hospital, Amravati",Amravati,"Civil Hospital Amravati, OPD No-10",,DPC,Active
+Maharashtra,"Civil Hospital, Sindhudurg",Sindhudurg,"Civil Hospital Sindhudurg, Orhto OPD",,DPC,Active
+Maharashtra,GMC Chandrapur,Chandrapur,"GMC Chandrapur,Ortho OPD",,DPC,Active
+Maharashtra,GMC Latur,Latur,"GMC Latur,OPD No--7A",,DPC,Active
+Maharashtra,"Civil Hospital, Washim",Washim,"Civil Hospital Washim,Ortho OPD No-19",,DPC,Active
+Maharashtra,"Civil Hospital, Jalna",Jalna,Civil Hospital Jalna DEIC,,DPC,Active
+Maharashtra,GMC Akola,Akola,"Goverment Medical College and Hospital,OPD NO-114",,DPC,Active
+Maharashtra,VVCMC Nallasopara,Palghar,,,ASS SPC,Inactive
+Maharashtra,SGGSM Nanded,Nanded,"Gurugovind  Singh Civil Hospital,Orthopedic OPD-15",,DPC,Active
+Maharashtra,NH SRCC,Mumbai,"NH SRCC Hajiali,Cluster No-2",,ASS SPC,Active
+Maharashtra,"Shatabdi Hospital, Govandi",Mumbai,Shatabdi Hospital Govandi ortho opd no-20Govandi east,,DPC,Active
+Maharashtra,PDMC amravati,Amravati,PDMMC Hospital Ortho OPD No-5,,DPC,Active
+Maharashtra,"DM Petit Hospital, Vasai",Palghar,"VVCMC D.M Petit Hospital Orthopadic OPD,Vasai West..",,ASS SPC,Active
+Maharashtra,"Civil Hospital, Ratnagiri",Ratnagiri,"Civil Hospital Ratnagiri,Orthopadic OPD",,DPC,Active
+Maharashtra,"Civil Hospital, Ahmednagar",Ahmadnagar,Civil Hospital Ahmadnagar Orhtopadic OPD No-6,,DPC,Active
+Maharashtra,"Civil Hospital, Hingoli",Hingoli,Civil Hospital Hingoli Orthopedic OPD-3,,DPC,Active
+Maharashtra,GMC Jalgaon,Jalgaon,"Goverment Medical College,Orthopadic OPD No-115",,DPC,Active
+Maharashtra,GMC Sambhajinagar,Sambhaji Nagar,"Government Medical College, Chhatrapati Sambhajinagar OPD No-117",,DPC,Active
+Maharashtra,"Civil Hospital, Raigad",Raigad,"Raigad Civil Hospital Alibag,DEIC",,DPC,Active
+Maharashtra,"Sub-District Hospital, Panvel",Raigad,"Sub District Hospital, Panvel,Ortho OPD - 13",,DPC,Active
+Maharashtra,"YCM Hospital, Pune",Pune,"YCM Hospital Pimpri Chinchwad, Ortho OPD No-11",,ASS SPC,Active
+Maharashtra,"Civil Hospital, Chikalthana",Sambhaji Nagar,District CivilHospital Chikalthana OPD no. 4 ,,DPC,Active
+Maharashtra,"Civil Hospital, Beed",Beed,"Civil Hospital Beed,Orthopadic OPD ",,DPC,Active
+Maharashtra,"GMC Ambejogai, Beed",Beed,GMC Ambejogai Orthopadic OPD ,,DPC,Active
+Maharashtra,"Civil Hospital, Buldhana",Buldhana,"District Civil Hospital Buldhana,  Orthopadic OPD",,DPC,Active
+Maharashtra,GMC Solapur Friday,Solapur,GMC Solapur OPD No-29,,DPC,Active
+Maharashtra,"Civil Hospital, Nasik Thursday",Nasil,"Civil Hospital NasikOPD No-2,Operation Theater",,DPC,Active
+Maharashtra,"GMC Ambejogai, Beed, TH",Beed,GMC Ambejogai Orthopadic OPD Thursday,,DPC,Active
+Manipur,"Jawaharlal Nehru Institute of Medical Sciences, Imphal",Imphal east,"Jnims orthopedic department,Porompat, Imphal east, Manipur",,SPC,Active
+Meghalaya,"Civil hospital - Shillong,",east khasi hills district,"civil hospital, shillong",,Spc,active
+Nagaland,Naga hospital Authority Kohima,Kohima,,,SPC,Active
+Odisha,"SCBMCH, CUTTACK",Cuttack,"Cure Clubfoot,Orthopedic Department,SCB MCH,Cuttack",,DPC,Active
+Odisha,"VSS, BURLA",Sambalpur,,,Paid Volunteer,Active
+Odisha,"MKCGH, BEHRAMPUR",Berhampur,,,DPC,Active
+Odisha,"DHH, KORAPUT",Koraput,,,DPC,Active
+Odisha,"RGH, ROURKELA",Sundergarh,,,DPC,Active
+Odisha,"SVNIRTAR, Cuttack",Cuttack,,,DPC,Active
+Odisha,"SISHU BHAWAN, Cuttack",Cuttack,"DEIC, Sishu Bhaban, Cuttack",,SPC,Inactive
+Odisha,CAPITAL HOSPITAL BHUBANESWAR,Khorda,"DEIC, Capital Hospital ",,Paid Volunteer,Active 
+Odisha,"SCBMCH, CUTTACK, FRIDAY",Cuttack,"Cure Clubfoot,Orthopedic Department,SCB MCH,Cuttack",,DPC,Active
+Odisha,"SISHU BHAWAN, Cuttack, THURSDAY",Cuttack,"DEIC, Sishu Bhaban, Cuttack",,SPC,Active
+Odisha,"MKCGH, BEHRAMPUR, THURSDAY",Berhampur,,,DPC,Active
+Odisha,"VSS, BURLA, FRIDAY",Sambalpur,,,Paid Volunteer,Active
+Odisha,"DHH KORAPUT, FRIDAY",Koraput ,,,DPC,Active
+Odisha,"SVNIRTAR, Cuttack, TUESDAY",Cuttack,,,DPC,Active
+Odisha,"SVNIRTAR, Cuttack, WEDNESDAY",Cuttack,,,DPC,Active
+Odisha,"Pandit Raghunath Murmu MCH, Baripada",Baripada,,,Volunteer,Active
+Odisha,"Fakir Mohan MCH, Balesore",Balesore,,,Volunteer,Active
+Odisha,"District Headquarter Hospital, Angul",Angul,,,Volunteer,Active
+Rajasthan,Sawai Man Singh Medical College (SMS) in Jaipur,JAIPUR,"SMS HOSPITAL, JAIPUR, RAJASTHAN",,DPC,ACTIVE
+Rajasthan,Jawarharlal Nehru (JLN) Medical College in Ajmer,AJMER,"JLN HOSPITAL, AJMER",,DPC,ACTIVE
+Rajasthan,Sardar Patel Medical College in Bikaner,BIKANER,"SARDAR PATEL MEDICAL COLLEGE, BIKANER",,DPC,ACTIVE
+Rajasthan,Government Medical College in Kota,KOTA,"MAHARAO BHIM SINGH HOSPITAL, KOTA",,DPC,ACTIVE
+Rajasthan,Sampurnanand Medical College (SNMC) in Jodhpur,JODHPUR,SN MEDICALCOLLEGE. JODHPUR,,ASPC,ACTIVE
+Rajasthan,"Sawai Man Singh Medical College (SMS) in Jaipur, Monday",JAIPUR,"SMS HOSPITAL, JAIPUR, RAJASTHAN",,DPC,ACTIVE
+Rajasthan,"Sawai Man Singh Medical College (SMS) in Jaipur, Tuesday",JAIPUR,"SMS HOSPITAL, JAIPUR, RAJASTHAN",,DPC,ACTIVE
+Rajasthan,"Sawai Man Singh Medical College (SMS) in Jaipur, Thursday",JAIPUR,"SMS HOSPITAL, JAIPUR, RAJASTHAN",,DPC,ACTIVE
+Rajasthan,"Sawai Man Singh Medical College (SMS) in Jaipur, Saturday",JAIPUR,"SMS HOSPITAL, JAIPUR, RAJASTHAN",,DPC,ACTIVE
+Rajasthan,"All India Institute of Medical Sciences, Jodhpur",JODHPUR,"All India Institute of Medical Sciences, Jodhpur",,ASPC,ACTIVE
+Sikkim,"Sir Thodup Namgyal Hospital, Gangtok",Gangtok,"STNM,Sochakgang, Gangtok",,DPC,Active
+Tamilnadu,Institute of child health and hospital for children,Chennai,"Cure India, Department of Orthopedics,  Institute of Child Health and Hospital for children, Egmore, Chennai - 600008",,SPC & DPC,Active
+Tamilnadu,Coimbatore Government Medical college Hospital,Coimbatore,"Department of Orthopedics,  1619 A, Trichy Rd, Gopalapuram, Coimbatore, Tamil Nadu 641018",,DPC,Active
+Tamilnadu,"Government Rajaji Medical college Hospital, Madurai",Madurai,"Department of Orthopedics,  GH Post Office, Poonamallee High Road, 3, Grand Southern Trunk Rd, near Park Town, Near Chennai Central, Park Town, Chennai, Tamil Nadu 600003",,DPC,Active
+Tamilnadu,Thanjavur Government Medical college Hospital,Thanjvaur,"Department of Orthopedics,  Medical College Rd, Thanjavur, Tamil Nadu 613004",,DPC,Active
+Tamilnadu,Vellore Government Medical college Hospital,Vellore,"Department of Orthopedics, R4VP+QQP, Arani Road, Opposite Staff Quarters, Adukkamparai, Vellore, Tamil Nadu 632011",,DPC,Active
+Tamilnadu,Dharmapuri Government Medical college Hospital,Dharmapuri,"Department of Orthopedics, 45F4+4V9, Indhira Nagar, Dharmapuri, Tamil Nadu 636701",,DPC,Active
+Tamilnadu,Tirunelveli Government Medical college Hospital,Tirunelveli,"Department of Orthopedics, 3, High Ground Rd, Palayamkottai, Tirunelveli, Tamil Nadu 627011",,DPC,Active
+Tamilnadu,Cuddalore Government Medical college Hospital,Cuddalore,"Department of Orthopedics, Cuddlore GH
+Hospital road,
+Manjakuppam.
+Cuddalore.TN -607001
+",,DPC,Active
+Tamilnadu,Puducherry Medical college Hospital,Puducherry,"Department of Orthopedics, Victor Simonel St, White Town, Puducherry, 605001",,DPC,Active
+Tamilnadu,Villupuram Government Medical college Hospital,Villupuram," Department of Orthopedics, XGV8+6XV, Medical College Rd, Mundiyampakkam, Tamil Nadu 605601",,DPC,Active
+Telangana,"Gandhi Medical College, Hyderabad",Hyderabad,"Gandhi Hospital,Room no:38,OPD Block  Orthopeadics,Musheerabad,Secunderabad, Telangana-500003",,ASPC,Active
+Telangana,"Osmania Medical College, Hyderabad",Hyderabad,"Osmania General Hospital,Ortho Department,Room No124,Afzal gung",,ASPC,Active
+Telangana,GGH - Nizamabad,Nizamabad,"Cure India,Government General Hospital,Nizamabad,OPD Block,Room No:370&371",,DPC,Active
+Telangana,MGMH - KMC Warangal,Warangal,"Cure India,Mahathma gandhi Memorial Hospital-MGMH,ODP Block,Orthpeadics,Room No12&13,Warangal-506001",,DPC,Active
+Telangana,RIMS - Adilabad,Adilabad,"Cure I ndia,Rajeev Gandhi Institute of Medical Science-RIMS,OPD Block,Orthopeadics,Room No:12&13,Adilabad-504001",,DPC,Active
+Telangana,MGMH - KMC Warangal Saturday,Warangal,"Cure India,Mahathma Gandhi Memorial Hospital-MGMH,OPD Block,Orthopeadics,Room no:12&13,Warangal-506001",,Dpc,Active
+Tripura,"Govt. Medical College and GBPH, Agartala",West Tripura,"AGMC&GBPH, orthopedic ward, Kunjaban, pin-799006",,SPC,Active
+Uttar Pradesh,"MLBMC, Jhansi",Jhansi,"MLBMC, Jhansi",,DPC,Active
+Uttar Pradesh,"JLNMC, Aligarh",Aligarh,"Jawahar Lal Nehru Medical College, Aligarh",,DPC,Active
+Uttar Pradesh,"SNMC, Agra, Thursday",Agra,"Rajamandi, Sarojini Naydu Medical College, Agra",,DPC,Active
+Uttar Pradesh,"KGMU, Lucknow Monday",Lucknow,"4th floor, New OPD, Shahmina road,  KGMU",,ASPC,Active
+Uttar Pradesh,"GSVM, Kanpur",Kanpur,"GSVM, Kanpur",,DPC,Active
+Uttar Pradesh,"BRD, Gorakhpur",Gorakhpur,"BRD Medical College, Gorakhpur",,DPC,Active
+Uttar Pradesh,"MLNMC, Allahabad",Allahabad,Motilal Nehru Medical College,,DPC,Inactive
+Uttar Pradesh,"LLRM, Meerut",Meerut,"LLRM, Meerut",,DPC,Active
+Uttar Pradesh,"BHU, Varanasi, Tuesday",Varanasi,"BHU, Varanasi",,DPC,Active
+Uttar Pradesh,BHU Varanasi Saturday,Varanasi,"BHU, Varanasi",,DPC,Active
+Uttar Pradesh,"UPRIMS, Saifai",Etawah,"Uttar Pradesh University of Medical Science, Saifai Etawah",,DPC,Active
+Uttar Pradesh,"KGMU, Lucknow Wednesday",Lucknow,"4th Floor, Shahmina road, new OPD,KGMU",,ASPC,Active
+Uttar Pradesh,District joint hospital Sobhadra ,Sobhadra,"District Joint Hospital, Sonbhadra",,DPC,Inactive
+Uttar Pradesh,AIIMS Hospital Raebarily ,Raebareli,"AIIMS, Dariyapur, Munshiganj, Raebareli",,DPC,Active
+Uttar Pradesh,MRA MC Ambedkar Nagar,Ambedkar Nagar,MRA MC Ambedkar Nagar,,DPC,Inactive
+Uttar Pradesh,RDAS MC Ayodhya,Ayodhya,"Rajashree dashrath Autonomous State medical College, Darshan Nagar, Ayodhya",,DPC,Active
+Uttar Pradesh,"District Hospital, Jaunpur",Jaunpur,NIL,,DPC,Inactive
+Uttar Pradesh,District Hospital Mirzapur,Mirzapur,"Maa  Vindhyavasinini Swashashi Medical College, Mirzapur",,DPC,Active
+Uttar Pradesh,Maharshi Vashishtha  M.C Basti,Basti,"Maharishi Vashishth Medical College, Basti",,DPC,Active
+Uttar Pradesh,Govt. MC Chakrapanpur Azamgarh,Azamgarh,"Govt Medical College, Chakrapanpur, Azamgarh",,DPC,Active
+Uttar Pradesh,District Hospital Ballia,Balia,"District Hospital, Balia",,DPC,Inactive
+Uttar Pradesh,Medical College Banda,Banda,"Rani Durgavati Medical College, Banda",,DPC,Active
+Uttar Pradesh,"SNMC, Agra, Monday",Agra,"Rajmandi, Sarojini Naydu, Medical College, Agra",,DPC,Active
+Uttar Pradesh,BHU Varanasi Monday ,Varanasi,"BHU, Varanasi",,DPC,Active
+Uttar Pradesh,BHU Varanasi Wednesday ,Varanasi,"BHU, Varanasi",,DPC,Active
+Uttarakhand,"STMC, Haldwani Friday",Haldwani,Dr. Susheela Tiwari Government Hospital,,,Active
+Uttarakhand,"DEIC, Base Hospital, Almora",Almora,Goverdhan Tiwari Government Base Hospital,,Dpc,Active
+Uttarakhand,"DEIC, Base Hospital, Haldwani",Haldwani,Soban Singh Jeena Base Hospital Haldwani,,Dpc,Active
+Uttarakhand,"Doon Hospital, Dehradun",Dehradun,Government Doon Hospital & College,,Spc,Active
+Uttarakhand,AIIMS Rishikesh,Dehradun,All India Institute of Medical Sciences,,SPC,Active
+Uttarakhand,Ramakrishna Mission Hospital (Friday),Haridwar,,,Dpc,Active
+West Bengal,Nil Ratan Sircar Medical College & Hospital,Kolkata,,,SPC,Active
+West Bengal,"IPGMER & SSKM Medical College & Hospital, THU",Kolkata,,,DPC,Active
+West Bengal,"Calcutta Medical College & Hospital, Friday",Kolkata,,,DPC,Active
+West Bengal,"North Bengal Medical College & Hospital, THU",Siliguri,,,DPC,Active
+West Bengal,R.G Kar Medical College & Hospital,Kolkata,,,DPC,Active
+West Bengal,"Calcutta National Medical College & Hospital, Kolkata, TUE",Kolkata,,,DPC,Active
+West Bengal,"Burdwan Medical College & Hospital (Burdwan District), FRI",Burdwan,,,DPC,Active
+West Bengal,"Midnapore Medical College & Hospital, MON",Midnapur,,,DPC,Active
+West Bengal,"Bankura Sammilani Medical College & Hospital, Mon",Bankura,,,DPC,Active
+West Bengal,Malda Medical College and Hospital (Malda District),Malda,,,DPC,Active
+West Bengal,"College Of Medicine & Sagar Dutta Hospital, Kolkata ",North 24pgs,,,DPC,Active
+West Bengal,North Bengal Medical College & Hospital (Wed),Siliguri,,,DPC,Active
+West Bengal,Burdwan Medical College & Hospital (Burdwan District) (TH),Burdwan,,,DPC,Active
+West Bengal,Bankura Sammilani Medical College & Hospital (Sat),Bankura,,,DPC,Active
+West Bengal,Chanchal Super Speciality Hospital,Malda,NA,,NA,Inactive
+West Bengal,CALCUTTA NATIONAL MEDICAL COLLEGE (MONDAY),Kolkata,NA,,NA,Inactive
+West Bengal,CALCUTTA NATIONAL MEDICAL COLLEGE (Saturday)  ,Kolkata,,,DPC,Active
+West Bengal,North Bengal Medical College & Hospital (Mon),Siliguri,NA,,NA,Inactive
+West Bengal,North Bengal Medical College & Hospital (Sat),Siliguri,NA,,NA,Inactive
+West Bengal,"Maharaja Jitendra Narayan MCH, Cooch Behar",Cooch Behar,,,Volunteer,Active
+West Bengal,"Murshidabad MCH, WED",Murshidaabad,,,DPC,Active
+West Bengal,"Diamond Harbour MCH, WED",South 24pgs,,,DPC,Active
+West Bengal,"Deben Mahato Govt. MCH, Purulia, THU",Purulia,,,DPC,Active
+West Bengal,Rampurhat MCH,Birbhum,,,DPC,Active
+West Bengal,College Of Medicine & Jawarharlal Nehru Memorial Hosp. Kalyani,North 24pgs,,,DPC,Active
+West Bengal,"B C Roy Polio Hospital, Wednesday",Kolkata,,,DPC,Inactive
+West Bengal,"Diamond Harbour MCH, Saturday",South 24pgs,,,DPC,Active
+West Bengal,"B C Roy Polio Hospital, Friday",Kolkata,,,DPC,Inactive
+West Bengal,"IPGMER & SSKM Medical College & Hospital (Kolkata), TUE",Kolkata,,,DPC,Active
+West Bengal,"Midnapore Medical College & Hospital, Wednesday",Midnapur,,,DPC,Active
+West Bengal,Murshidabad MCH Thursday,Murshidabad,POINT (86.4057744165993 23.450310880110916),,DPC,Active
+West Bengal,Asansol  DH THU,Paschim Burdwan,,,Volunteer,Active
+West Bengal,"Calcutta Medical College & Hospital, Thursday",Kolkata,,,DPC,Active
+West Bengal,"Deben Mahato Govt. MCH, Purulia.Tuesday",Purulia,,,DPC,Active

@@ -1,0 +1,1001 @@
+clinic_id,clinic_country,clinic_country_code,clinic_city,clinicians_available,ponseti_treatment_available,clinic_lat,clinic_lon
+15d28e21-f802-42ae-a922-06921fca33e0,Brazil,BR,Pombos,5 to 9,False,-8.1398585,-35.396437
+2448813e-314e-4b8b-a47c-ce35ff3feeab,Pakistan,PK,Chowki Jamali,5 to 9,False,,
+6d54985d-fe05-47d6-9a27-1406ed8cd923,Russia,RU,Berëzovyy,10 to 14,False,52.8927218,50.2243422
+97478310-dcb2-46e3-a2f4-8c736a13bd93,Indonesia,ID,Waturoka,10 to 14,True,,
+c19e1b84-b4cf-4018-8e63-a5bdba65abb0,Costa Rica,CR,Desamparados,20+,False,9.8112357,-84.0699087
+f90fff69-4ae9-49a6-90e5-85e1d26e90a0,Russia,RU,Serebryanyye Prudy,15 to 19,True,,
+ab101ebe-165d-4fbe-a0f0-0696d60386d0,Vietnam,VN,Hà Tĩnh,5 to 9,False,18.3504832,105.7623047
+4c2d19e9-1c60-4ed2-aeb5-03341c75a5b6,Russia,RU,Kantemirovka,15 to 19,False,49.702282,39.854115
+ff2bcf01-6456-41b1-a646-027d724807fb,Indonesia,ID,Bebekan,10 to 14,False,-7.3431953,112.6995225
+50efaf4d-3277-4b88-9419-03509e417557,Thailand,TH,Bangkok,5 to 9,True,13.7524938,100.4935089
+530cd84c-e504-4f8f-981e-7e3291032f5c,Philippines,PH,Valencia,20+,True,39.4697065,-0.3763353
+83ec7e6e-b46f-4283-8408-c62d919cc372,Indonesia,ID,Bagorejo,1 to 4,False,-8.305776,113.4355418
+30553646-e259-4812-811e-6fbae38450e4,Brazil,BR,Fonte Boa,15 to 19,False,41.5010168,-8.7462998
+da786c28-bd77-4078-aab9-50def11574aa,Indonesia,ID,Situsari,20+,True,-7.1803824,107.9640788
+72bca141-1d5a-4494-9028-c14b1b31bf8a,Nigeria,NG,Itu,20+,False,-23.2637798,-47.2998462
+1c3beb2f-08e6-49fb-93d4-bd9504d77023,Indonesia,ID,Krajan Bejagung,15 to 19,True,-6.9149999,112.0617859
+01f0cf90-8236-4877-94f3-81c33dcca617,South Africa,ZA,Springbok,10 to 14,True,-29.6660948,17.8831039
+a04feaea-4c90-4ee6-a3f2-4f233282655a,Brazil,BR,Novo Aripuanã,5 to 9,False,-5.125929,-60.373179
+334de4e1-74a1-4dcd-8cab-1dc717d22ecb,Philippines,PH,Baylo,10 to 14,False,8.4476502,125.7333977
+cf9d4ec1-970d-4261-8c9c-f84ab24e832b,Yemen,YE,Bāqim as Sūq,20+,True,17.397132,43.477426
+9846558b-5900-4eef-b2a5-77dce64b00fa,Philippines,PH,Pañgobilian,20+,True,8.7948473,117.8338498
+57d33e14-213f-43e4-9c2c-ab1194f1283a,Philippines,PH,Sabang,20+,True,5.8927453,95.3225751
+391465cf-a8d3-4051-b818-f3653c252e96,Thailand,TH,Kamphaeng Phet,20+,False,16.4183581,99.6111616
+c05515dd-200f-45f9-a2ea-f67b5dd2a360,Honduras,HN,Salamá,5 to 9,True,15.1021016,-90.3145505
+ff59ad3d-a613-4140-a7ed-d5fbe582e40d,Mexico,MX,El Carmen,5 to 9,False,40.4319699,-3.6561907
+d0a58f09-7977-4ae2-a5e5-5169201e5f13,Mexico,MX,Fovissste,10 to 14,True,19.0921641,-104.3154752
+55a20dd0-c6ce-41a3-beeb-1ecf41bb5622,Russia,RU,Khorinsk,10 to 14,False,52.1615011,109.7629245
+9bb6bd6d-267c-45dd-966f-df54d96e8cb3,Thailand,TH,Srinagarindra,20+,False,13.5920178,100.6089847
+ca36dff1-831a-48c0-8393-6510d8530253,Russia,RU,Sakharovo,10 to 14,False,,
+a525d8e7-399e-4ef1-b0e8-842079534541,Vietnam,VN,Phú Vang,20+,True,13.1329098,109.2760384
+9d2b5300-706e-414a-afe1-3bdd891153a4,Russia,RU,Vysokovsk,10 to 14,False,56.3205097,36.5521708
+bf434d69-7747-46ed-a8fe-788e87d0b3b8,Indonesia,ID,Tangguhang,10 to 14,False,,
+793b77da-f5c6-4e32-9f1d-7397520bcbed,Armenia,AM,Prroshyan,5 to 9,True,,
+e88972af-f2c2-4f82-8007-60fdb3fbcfe4,Honduras,HN,Teupasenti,15 to 19,True,14.2821801,-86.6780768
+b2e4707b-6f00-460f-8d9d-c533b16bb7f5,Gabon,GA,Oyem,1 to 4,True,1.5997904,11.5751003
+b96fc08d-12b4-418a-8099-52789ca9341f,Indonesia,ID,Tagog,5 to 9,True,-7.077101,107.970154
+231ba25a-0639-44c2-8565-e3afe8047f52,Russia,RU,Fryanovo,1 to 4,False,56.1345496,38.4454114
+cd5c1efc-1607-4347-8dfb-58c15557b2e0,Uganda,UG,Lyantonde,5 to 9,True,-0.2595984,31.1836376
+f2e24e5c-d1fe-4543-a018-231876cb1084,Philippines,PH,San Jacinto,1 to 4,False,30.5083577,-95.1902362
+d8d203fd-6b0d-4922-854c-89354141183b,Russia,RU,Argayash,5 to 9,True,55.4908093,60.8776278
+f0042987-d8df-47a3-9ce7-d824e9e15739,Indonesia,ID,Masaran,5 to 9,True,-7.4682036,110.9476546
+fd6e14de-9461-4df3-a1fd-c89ae297fb11,Indonesia,ID,Langgen,15 to 19,False,-6.9231438,109.1418582
+a8380f7d-0ed8-494f-9164-c0864bbb5697,Pakistan,PK,Dālbandīn,15 to 19,True,28.8963483,64.4097124
+632f242f-cd4c-439c-9071-3dbd85c0c57e,Brazil,BR,Caçador,1 to 4,True,-26.7737784,-51.0134844
+e4d21120-90fe-4264-83b2-3640d134a1e3,Morocco,MA,Boulemane,1 to 4,True,33.3637958,-4.729575
+d0e0712d-4199-41b6-9279-1a2239d0d0ec,Philippines,PH,Nalsian Norte,5 to 9,False,15.8587728,120.4422278
+7c6c6a2d-0529-41c9-8b78-8a986c2b191c,Brazil,BR,Patos,5 to 9,True,-7.0258285,-37.2766817
+cbfa2b59-8738-426d-b03a-03afd368f0a4,Nigeria,NG,Oyo,1 to 4,True,8.2151249,3.5642897
+8cd6d0c4-b471-496b-83d9-39b1f79a252f,Bolivia,BO,Guanay,1 to 4,False,-15.4977479,-67.8797554
+f6c0d4fe-892a-4d55-bb6c-4c57997cee94,Russia,RU,Mullovka,15 to 19,True,54.2173224,49.3933664
+38d1f755-7160-41c2-891f-53ea4ee580c4,Philippines,PH,Cagdianao,1 to 4,False,9.9238959,125.6698325
+29897b8b-cf04-41fb-a4bd-6a46d40e3f7b,Peru,PE,Cotabambas,1 to 4,True,-14.0,-72.2
+7da1ebba-e902-459c-8dc6-a78ec5d36d55,Indonesia,ID,Oemollo,15 to 19,False,-9.7074671,124.2632579
+e6d0105c-66bd-44fb-bcb6-0e6742dc6c3a,Armenia,AM,Verin Artashat,5 to 9,False,39.9948323,44.5850937
+5dd5b998-4ce9-4280-90d5-ff13fbec72f2,Vietnam,VN,Trảng Bàng,5 to 9,True,11.0299996,106.3584515
+31d2a14c-3c40-474d-a092-893d9a1b0bce,Philippines,PH,Manuel Roxas,5 to 9,False,6.6778111,126.0930898
+83e6f2f0-2333-463b-b600-c49fcdf65c5e,Vietnam,VN,Bình Minh,1 to 4,True,10.0681781,105.8228661
+a941fdaa-fe61-4f9b-8f83-d648587ee7a4,Philippines,PH,Culianin,10 to 14,False,14.9146191,120.8948658
+a3d0ee2e-1e3f-4dc2-885e-df409a66b9ab,Russia,RU,Tver,20+,True,56.8596713,35.8952416
+e77298e9-040e-4ea0-9737-b0255502bf37,Vietnam,VN,Đắk Mâm,20+,False,12.4623174,107.8625951
+2956df56-af89-4e95-a820-38ff0757edd8,Indonesia,ID,Nglojo,1 to 4,False,-6.7521735,111.615504
+6d39a1f9-abf3-4eac-8c3b-36f3796c99dd,Russia,RU,Surazh,5 to 9,True,53.0131501,32.3931633
+152dd776-58eb-4ed0-bf4f-595c724fbd59,Russia,RU,Zaprudnya,15 to 19,False,56.561,37.4323
+43311cca-18ee-48ea-93d1-83fe55263c1b,Indonesia,ID,Fatumnasi,5 to 9,False,-9.8016036,124.6003522
+7c7ab875-e9b1-4db9-9219-d290cd3d003c,Russia,RU,Karpogory,1 to 4,False,64.001808,44.442722
+c00da680-12b9-443c-a202-302d00bdcdc4,Russia,RU,Ozëry,5 to 9,False,54.854209,38.5598853
+b97b4891-a85f-42df-b018-424275e55e92,Thailand,TH,Bo Kluea,10 to 14,False,19.1504652,101.1551864
+6aaff8b1-1aea-4dbd-98f2-90f7db589a09,Philippines,PH,Paagahan,10 to 14,False,14.4444783,121.4016605
+04303254-073b-428b-835d-b36f98299d46,Brazil,BR,Palmeira das Missões,20+,True,-27.9010519,-53.3135927
+93496568-c087-4b6f-b5b2-14986950340f,Peru,PE,Sucre,15 to 19,False,-19.0477251,-65.2594306
+24aeb4f7-3503-4081-9484-5fd756d9cc50,Thailand,TH,Phichai,15 to 19,True,17.2890332,100.0882507
+322cfa75-4509-4b41-8834-edd6c544d82a,Philippines,PH,San Isidro,1 to 4,True,38.1707587,-0.8387399
+a1f43569-1c71-4304-9851-12bfd6332d48,Peru,PE,Huasahuasi,10 to 14,False,-11.2652992,-75.6504254
+b6ebbdef-e61f-45c8-92c2-78654743a463,Peru,PE,Pampachiri,20+,False,-14.1870656,-73.5445298
+f17cc61e-5647-45e4-9f38-9ec74f699a2c,Indonesia,ID,Walahir,10 to 14,True,-7.3153157,107.0576772
+80f2781c-382b-4c80-8381-ce01c7dcd50d,Russia,RU,Satinka,10 to 14,False,49.3472487,18.5096691
+fa8b5ad3-91cb-4ec4-85c4-9bf136223264,Peru,PE,Huangascar,5 to 9,False,-12.8989937,-75.8314747
+5a3505f1-626a-43c2-a73f-bf41fa892f35,Cameroon,CM,Bafoussam,10 to 14,False,5.4758844,10.4217852
+11d7cb47-5a82-42b5-aa93-f47ef8d07433,Sierra Leone,SL,Bonthe,1 to 4,False,7.5292766,-12.5131866
+2f9db632-805d-4010-88a4-8d0b287fa99a,Armenia,AM,Kasakh,15 to 19,True,40.2335811,44.4511178
+e15ee28f-0197-47bd-ab26-b2a59817e316,Morocco,MA,Tarfaya,5 to 9,False,27.9401204,-12.9249934
+9c26d201-83f5-4e2d-8225-4c599dc0f8b7,Yemen,YE,Az Zāhir,5 to 9,False,16.32756,44.524438
+eac51c4f-fc98-4df2-8d3e-dc519a74fd98,Vietnam,VN,Tân Châu,20+,False,10.8128293,105.1920348
+faf321f8-bdf3-46e9-9832-5da79285f922,Russia,RU,Krasnyy Yar,15 to 19,True,55.240089,72.923889
+59728dd6-347c-48e6-bb0d-ac2cf3499ca9,Indonesia,ID,Nahura,10 to 14,True,,
+03b0dc65-d44a-41ed-b30f-0400329bc131,Morocco,MA,Bzou,1 to 4,True,32.093525,-7.05072
+1ce83bf9-d4d8-42d0-87bf-f0ec9f036623,Nicaragua,NI,Yalagüina,5 to 9,True,13.485387,-86.4923654
+f7c8214d-ac3c-4863-9090-ff62c49708eb,Syria,SY,Jindayris,5 to 9,True,,
+a59d3744-4e8b-446a-ab0e-4f25fe9082aa,Guatemala,GT,San Vicente Pacaya,20+,True,14.3505213,-90.6526057
+8eca6f53-d165-419d-8b0a-cf80b1cc2671,Brazil,BR,Garibaldi,1 to 4,False,-29.2562253,-51.5269167
+144fb15b-596e-48ec-9c39-4f1ad01112c7,Russia,RU,Il’inskiy,20+,True,55.6180826,38.1002947
+731ee598-4fda-4282-8c01-289831d20ca5,Indonesia,ID,Mloko,20+,True,-7.7301182,111.0823111
+e24fdc3a-f0fd-4d36-babe-d26f6a452ad7,Philippines,PH,Loyola,10 to 14,False,37.3488983,-122.0963146
+1889b86d-fc72-4ddc-a845-5b9a79d784ff,Indonesia,ID,Lido,10 to 14,True,45.4164594,12.3706115
+1322eadc-55e1-47cd-b57b-4a9b0cd7af33,Yemen,YE,Majzar,20+,False,15.828509,44.794127
+e730e100-e1d0-4f04-ab5f-c6695bd2e7bd,Philippines,PH,Castilla,1 to 4,False,-15.5859786,-72.3617354
+57825648-4c57-4af9-b0ba-69a62f9ad637,Peru,PE,El Carmen,20+,True,40.4319699,-3.6561907
+ca5520fd-6a72-4937-ace7-78120f368781,Brazil,BR,Soledade,15 to 19,False,-28.8272467,-52.5109157
+e5a4e7e7-20a1-4ff3-abcd-3345c013cee6,Russia,RU,Opochka,5 to 9,True,56.71167,28.656818
+f5ef8813-81b2-40df-8b1d-c603e5a8edbd,Afghanistan,AF,Jalālābād,10 to 14,False,34.430195,70.460128
+19844816-835c-46cf-81c0-da12aa1e76b5,Honduras,HN,Texíguat,5 to 9,True,13.6641658,-87.0441423
+e331fe9a-00ec-4bdc-aa5f-925d8a204d0f,Dominican Republic,DO,Constanza,5 to 9,True,44.1767161,28.6507598
+56f9d991-31b2-4fbf-ace3-97b099f04493,Russia,RU,Terek,20+,False,43.4826692,44.1363776
+4498b522-af18-44a3-a708-9fd1baa4182c,Russia,RU,Troitskoye,20+,True,52.981388,84.677628
+4ec91f68-647a-4eb5-8111-458b890505a7,Russia,RU,Kadyy,5 to 9,True,4.5662762,15.8671403
+bc99c4ef-e6a0-4977-b22b-030bd16a90b1,Peru,PE,Santa Ana,20+,False,33.7494951,-117.873221
+9aa2a5a5-191e-439e-af4c-ad4ad484b7ee,Indonesia,ID,Banjar Bongangede,10 to 14,False,,
+606d80f7-a7f8-4fb6-92b0-25668e1ade73,Philippines,PH,Margen,5 to 9,True,11.0158317,124.5295647
+180ce433-7c79-4378-9101-932230dd2a8a,Ecuador,EC,Naranjal,10 to 14,False,-2.5731305,-79.5325634
+4bc2db56-4d54-4ebd-a718-4fe3f00296a8,Indonesia,ID,Cigeulis,5 to 9,False,-6.5953268,105.7011621
+f06c1b29-0647-4a76-8258-2959984ce31a,Philippines,PH,Babo-Pangulo,15 to 19,True,15.0763995,120.532347
+f396c32f-0443-47b7-8833-1d76402945fe,Philippines,PH,Santo Tomas,15 to 19,True,14.1078443,121.1453304
+e1349546-62c9-42c2-a7bf-d91ff1d5a6db,Indonesia,ID,Wewoloe,15 to 19,False,,
+b3c9d284-ed49-4ba8-a370-e33d67f9304b,Indonesia,ID,Awar-awar,20+,True,-7.758614,114.2251241
+a29ebd0d-7308-4858-abf1-3aa6b06e37f9,Russia,RU,Salmi,5 to 9,False,61.3687283,31.8672895
+4bdc41e1-8995-4700-83e7-55eac95ee783,Philippines,PH,Maloco,1 to 4,False,11.7832,122.152
+231e8312-eef7-41eb-a6de-34defc5ba6da,Philippines,PH,New Cebu,1 to 4,False,7.0964956,125.0416338
+d0e46bc6-856f-431a-9304-5bcf0905ab37,Philippines,PH,San Fernando,5 to 9,False,36.4646672,-6.1983492
+d0ce1671-3366-4357-8ff3-a11837f3d6e5,Brazil,BR,Rialma,1 to 4,True,-15.3144819,-49.5813991
+6c666391-4d9c-461f-a210-55637c3a82a2,Mexico,MX,San Jose,1 to 4,False,37.3361663,-121.890591
+cddd16cb-bfbe-45c8-b806-5b8945a9820e,Indonesia,ID,Pinggan,20+,False,13.2799623,121.8832469
+24514fbb-a991-47f5-be95-cea86d655630,Russia,RU,Orlovka,20+,True,58.8878188,86.0103928
+988ec750-5748-49ec-84cc-ef3cab415eaf,Guatemala,GT,Cabricán,5 to 9,True,15.074704,-91.648445
+c5cb4b39-d88e-4284-bbac-0a69c1b5882a,Brazil,BR,Nepomuceno,1 to 4,True,-21.232744,-45.2352276
+7a0e4de8-d4fc-41a2-90b4-af409088c985,Indonesia,ID,Kudang,20+,True,13.6621445,-15.0602182
+040df64f-8493-4524-afe3-b233b92e354a,Indonesia,ID,Hamberang Sabrang,15 to 19,False,,
+927b7814-329a-4b4c-92ad-851217b14508,Russia,RU,Ustyuzhna,15 to 19,False,58.8428204,36.4296982
+da0a6c61-2c44-4bfe-8bcf-732585fecb16,Liberia,LR,Robertsport,5 to 9,True,6.7525707,-11.3669534
+a04e25ce-f59f-4588-bc80-31980745cdd0,Russia,RU,Plavsk,1 to 4,True,53.7068732,37.2920333
+279a18cc-ce73-48bf-9157-beaee797f832,Indonesia,ID,Huineno,1 to 4,True,,
+25d395e7-924f-41e9-8265-09e00ea0624f,Russia,RU,Novotroitskaya,20+,False,45.3725859,41.5353126
+c82a25b2-ac93-4136-af7f-214c37ea357a,Pakistan,PK,Ārifwāla,15 to 19,False,30.2944504,73.0589418
+7729ebc0-de67-4086-bf49-fa01380054c5,Indonesia,ID,Bogorejo,15 to 19,False,-6.883031,112.0177188
+dc3e28b7-99e0-4c34-907d-673caa21060b,Ecuador,EC,Eloy Alfaro,5 to 9,False,0.874044,-78.9950332
+33ef8ec3-c57a-431e-9de9-c49d0e2b2065,Russia,RU,Sovetskaya,10 to 14,True,-78.3833333,87.5333333
+29fa78a2-de49-4f68-bf58-b3a460f91b6e,Indonesia,ID,Sritanjung,15 to 19,False,-7.1642938,110.081023
+a570217e-41ab-49e7-95ee-6866a9c40954,Somalia,SO,Mahaddayweyne,20+,True,,
+10d50aa5-4a2a-4112-894b-54dfa9800cf5,South Africa,ZA,Bergvliet,1 to 4,True,-34.0447957,18.4528321
+6b3a4d87-78e8-46e5-b519-7e9b93937991,Brazil,BR,Goiás,20+,True,-15.9323662,-50.1392928
+a9f3a7e5-d267-43b2-b97b-2c4ff0c4b7e0,Pakistan,PK,Vihāri,5 to 9,True,29.98225,72.3209351
+0533191e-64c4-4177-9670-3abc906ff790,Indonesia,ID,Cimahi,5 to 9,False,-6.8731527,107.5423099
+858b8fae-42fd-44b0-8f0d-a0c4f3997778,Russia,RU,Mtsensk,5 to 9,False,53.278984,36.576077
+4859c3ff-2aa7-4b98-81d7-0754694863e3,Philippines,PH,San Juan de Mata,1 to 4,False,9.8748244,-84.5234971
+3a7117b7-61a9-4356-85f7-f726d021192b,Indonesia,ID,Denpasar,5 to 9,False,-8.6524973,115.2191175
+8adecbe8-ec3c-4e2f-bf0a-3c5342d2818f,Philippines,PH,Cotmon,15 to 19,False,13.1177917,123.6629731
+55b05fb5-2e23-496e-99cb-f7c2200989fc,Peru,PE,Mórrope,20+,False,-6.511898,-80.1406174
+e0ccddb5-a00b-4813-9f78-5754d812acf5,Brazil,BR,Apodi,1 to 4,False,-5.6631109,-37.796927
+e8f4ee34-e1ba-4275-9e57-3799ae1d7c5f,Costa Rica,CR,Salitrillos,15 to 19,False,9.8532447,-84.09267
+c54a51e1-b078-4a41-be99-bec3cb42777f,Philippines,PH,Bonga,1 to 4,True,7.2645383,36.2460526
+c0244bf4-a76b-46af-a159-4beddbfced91,Indonesia,ID,Nabire,5 to 9,True,-3.360285,135.5023653
+6763b2ce-5429-4d21-8d5c-de4d03bb8e6f,Philippines,PH,Calapan,5 to 9,False,13.4145513,121.179543
+90fda7cb-e708-4bf3-af61-e3eaccb5375d,Costa Rica,CR,San Rafael,20+,False,37.9747795,-122.5316686
+7727c4e8-81d4-4701-966a-9c5083a3aeaf,Guatemala,GT,Santa Bárbara,5 to 9,True,34.4221319,-119.702667
+54186f5c-9e20-43a3-a0f1-5f2621cadd7e,Democratic Republic of the Congo,CD,Lusambo,20+,False,-4.9736384,23.4432792
+88e9484f-d620-4eb9-8a41-23328a36aa67,Indonesia,ID,Tanjung Palas,1 to 4,True,1.6660041,101.4727817
+92c80cf2-d69c-4284-9363-b909a49edaa7,Russia,RU,Sergiyev Posad,20+,True,56.3153284,38.1359898
+3ab77e74-1895-4d4e-be29-8c4a352414fe,Philippines,PH,Sigma,5 to 9,False,36.8300915,-82.9365525
+b9444511-e728-4d24-852e-e962c7af93ed,Indonesia,ID,Cilegong,1 to 4,True,-6.5700343,105.9956973
+78419bf8-37ee-497f-9993-669c864433fe,Indonesia,ID,Sale,10 to 14,True,44.980656,8.809348
+f2e56de5-8aa4-4e07-8495-575e4754f10b,Philippines,PH,Impalutao,15 to 19,False,8.2566088,125.0284347
+484a9e05-5748-4f91-80d1-e43065c06652,Russia,RU,Tiksi,10 to 14,True,71.6366294,128.868251
+16dc2381-d1ad-460d-a8e8-9f7ce9147e97,Russia,RU,Vladikavkaz,5 to 9,True,43.024593,44.68211
+aff6c0c1-9c2a-418d-911d-416280f4f128,Philippines,PH,Bongao,5 to 9,False,5.0289741,119.7713119
+61cf4b1b-b732-494d-bea3-81967b9cf465,Peru,PE,Soritor,15 to 19,True,-6.1392924,-77.1021623
+9a19b625-e8aa-459d-acdc-cfefea753d6d,Vietnam,VN,Thị Trấn Yên Ninh,15 to 19,True,21.33066,107.39987
+bd5b80a8-2bba-42b0-8984-2f549757823e,Syria,SY,Damascus,15 to 19,True,33.5130695,36.3095814
+3b5979fa-8c02-492c-b7d5-62c3b19a75fe,Armenia,AM,Aghavnadzor,10 to 14,True,39.7836111,45.2280556
+ef6b9dcc-f9e8-4389-af36-5b25cb090c91,Guatemala,GT,Atescatempa,5 to 9,True,14.1805167,-89.7188628
+35a889f0-b387-4add-a4f4-62d30e5313ed,Brazil,BR,Massaranduba,5 to 9,False,-26.610868,-49.005351
+0f534bb8-044c-474d-836d-3d22e3783b1f,Indonesia,ID,Mombok,20+,False,,
+239041e5-ae77-4377-89ee-3c3e3ff9e47d,Vietnam,VN,Phan Rang-Tháp Chàm,10 to 14,True,11.5769829,108.9865391
+3d9ba0b4-5cd7-4239-9b99-c98bbff6da52,Tanzania,TZ,Shinyanga,10 to 14,True,-3.7622225,33.2320361
+db344891-1493-41ee-8a9a-63197ece5d7a,Indonesia,ID,Barisan,10 to 14,False,-6.84436,110.8254352
+e15915a3-9574-4d2c-9e8e-a2f9b26e0e40,Brazil,BR,União,1 to 4,True,-4.5892553,-42.8593348
+d52e3eaa-2617-494f-b53f-e2c6225b010d,Guatemala,GT,Pueblo Nuevo Viñas,1 to 4,False,14.2361819,-90.5162636
+6a959969-f720-4c88-b0bd-2e398a2d1f5c,Ecuador,EC,Pujilí,5 to 9,False,-1.0077047,-78.8559205
+18bbb3e0-cf30-4c0b-afd9-59959fe82bf8,Indonesia,ID,Ratenggoji,10 to 14,False,,
+630bbc78-8266-4484-8532-f13712537f5b,Guatemala,GT,Nentón,10 to 14,True,15.9088146,-91.7117967
+e207e3d4-235a-4956-8983-72d7e1b6249a,Brazil,BR,São Mateus do Sul,15 to 19,False,-25.866823,-50.382796
+cb676ff9-43ac-4fbe-84ef-27022f557afb,Indonesia,ID,Susunan,1 to 4,True,-5.4096071,105.2083607
+38921cae-c870-40e6-9538-86e1a35004ba,Indonesia,ID,Temuji,10 to 14,True,,
+17e2e084-bd74-4144-9b51-e9175eff9385,Costa Rica,CR,San José,5 to 9,False,9.9325427,-84.0795782
+e883fcc4-48c0-4410-91d0-aa812997e4b7,Philippines,PH,Pulo,1 to 4,True,14.7069158,120.9475603
+1050ca37-bfdc-4dd9-81e2-f2bbafb10bd7,Brazil,BR,Santo Antônio de Posse,10 to 14,True,-22.6053304,-46.9197291
+19f65a56-f119-4928-81d1-34a332cbc7b5,Russia,RU,Kapotnya,15 to 19,False,55.6367482,37.7984857
+7a0075b7-514c-4da0-aa5d-cc7f02b7a839,Russia,RU,Naushki,10 to 14,True,50.392094,106.10614
+0afc86b9-a1e4-4571-b714-d6b50a565d0a,Philippines,PH,Santo Tomas,20+,False,14.1078443,121.1453304
+2d873266-f758-4c2d-abee-521a52a630ca,Indonesia,ID,Gawul,15 to 19,True,-6.6071752,108.3566424
+e0cac543-6611-4e16-a47c-f8ec83497faa,Russia,RU,Nevinnomyssk,15 to 19,True,44.6245814,41.9475941
+510fc5e2-758d-41d4-af1e-45b9f361159b,Indonesia,ID,Sungaipuntik,15 to 19,False,,
+4e07be1e-0b04-44f4-a872-6a88d30bc29e,Indonesia,ID,Long Beluah,15 to 19,False,2.7314404,117.1266888
+8440f191-3446-4433-be83-1cb709ecd990,Indonesia,ID,Indralayang,1 to 4,False,-7.4748264,107.4901887
+02b04681-82b4-455f-a052-691be8a58522,Indonesia,ID,Lewobelek,15 to 19,True,,
+18dfa507-4bb3-4131-8363-5ab7b253d8a1,Mali,ML,Tessalit,20+,False,20.2019542,1.0124531
+eaea2bd6-d13f-44f9-b587-c275e090d486,Armenia,AM,Parravak’ar,5 to 9,False,,
+d84a0ef7-8661-4330-8c1f-f057c4ab0362,Armenia,AM,Ashtarak,1 to 4,False,40.2886849,44.3613061
+b9fd4d7f-dd3e-4a63-bf9b-e0711cbe54a2,Indonesia,ID,Peuara,20+,True,-23.33413,-44.89697
+cd98ec20-830e-4a9c-be75-17e8b0432e0b,Russia,RU,Pavlovka,5 to 9,False,48.13145,39.54048
+6dbfd762-3f50-4bc3-a3fb-1de79073ef3c,Russia,RU,Kromy,1 to 4,True,52.688126,35.768337
+808aff04-b22f-42f5-b31e-d14bb46aef88,Argentina,AR,Federal,5 to 9,False,-30.9558743,-58.7797943
+038e4c4d-9a14-4649-bcf1-d6c0ab3cc78c,Argentina,AR,Laboulaye,5 to 9,False,-34.1286369,-63.3905826
+3b1aa28e-0071-471d-a1f6-012d1082d054,Peru,PE,Longuita,10 to 14,False,-6.4030263,-78.0036764
+b6abcc3b-9782-43f9-bd00-1892ef19cd7f,Syria,SY,Jindayris,10 to 14,False,,
+ef72a1f0-2c3a-442d-8e5f-0f6e16b508bb,Indonesia,ID,Muara Sabak,5 to 9,True,-1.2056276,103.7902779
+0a8bc3da-e748-4ee4-9a1a-7f10ede9b599,Madagascar,MG,Fianarantsoa,10 to 14,True,-21.456444,47.085149
+bd2afe12-a131-4403-9191-4dcec5dad428,Argentina,AR,Wenceslao Escalante,5 to 9,True,-33.1739005,-62.7692344
+5e2d7ed3-4b73-43c6-b178-5ed2ce25c060,Russia,RU,Volgo-Kaspiyskiy,20+,True,46.201675,47.92017
+ef5db850-e752-4050-9f9a-24a6fe866248,Guatemala,GT,Patzicía,1 to 4,False,14.630934,-90.9297387
+c9bf5412-a7a5-472d-9f3b-78ffdddadd68,Russia,RU,Voskresensk,15 to 19,False,55.322518,38.6816824
+b4b1c313-05ed-4cc5-bfea-7606b0fb6a7c,Indonesia,ID,Airmolek,10 to 14,True,-0.3778,102.28539
+90c7b57e-ea1f-49a8-aac5-099a0d609b55,Yemen,YE,Markaz Bilād aţ Ţa‘ām,1 to 4,False,14.833611,43.536389
+2de81420-5d14-4fb4-b81c-e69dd35ce90e,Indonesia,ID,Muararupit,20+,False,-2.7228522,102.9092301
+7a452561-7f94-4359-8ae1-882ecb66b53b,Nigeria,NG,Ajasse Ipo,1 to 4,True,8.241658,4.810959
+ee7678e8-1df7-4e9c-85bf-500be206056c,Brazil,BR,Pindamonhangaba,1 to 4,False,-22.9364,-45.4622602
+ddca32a4-16a4-44f1-bee0-282b2ca1dadf,Brazil,BR,Piracicaba,20+,True,-22.725165,-47.6493269
+2825fb68-3694-425b-a018-2419bc5a6dbb,Guatemala,GT,Cahabón,5 to 9,True,15.606072,-89.8116704
+ede6e018-7348-44f1-84fe-d94abcf46990,Russia,RU,Uchkulan,20+,True,43.4539941,42.0961667
+00b365f5-bfb6-4ce2-a63f-d38dd017b7b3,Afghanistan,AF,Rabāţ-e Sangī-ye Pā’īn,1 to 4,True,34.7991092,62.1382667
+0ac3c9b4-58b2-461a-b6fa-803dfa1aea72,Philippines,PH,Esperanza,10 to 14,False,19.6277687,-70.9596561
+3c2a571e-b102-4b7c-9341-c5ba96024a85,Guyana,GY,Mahaica Village,5 to 9,False,6.4210603,-57.6918946
+af8bcd01-f0d6-413f-b896-5b79743e612a,Russia,RU,Bichura,10 to 14,False,50.588627,107.599274
+7f4a17fa-51c4-4e25-901c-b0e24cc9b072,Brazil,BR,Porto Feliz,20+,False,-23.2110713,-47.5247163
+cd759e80-bbce-459c-9967-8499c1e6f316,Bangladesh,BD,Sandwīp,1 to 4,False,22.5005181,91.4815469
+0a2a2cf3-8296-498c-ac4f-083a4b3107af,Philippines,PH,Tomingad,5 to 9,True,,
+f3fc3f97-dbf1-44ea-88f3-339e5539a2f8,Thailand,TH,Phanat Nikhom,15 to 19,True,13.4495893,101.1808862
+1d41c915-1dc0-4561-b565-a9f4b73a4c7f,Indonesia,ID,Banjar Medura,10 to 14,True,-8.685213,115.251951
+9756bad2-8fb4-4b8f-b4e6-9bedfa106b4a,Brazil,BR,Guaxupé,1 to 4,True,-21.3087615,-46.7190609
+6255890c-11a1-4ed5-a9c1-ad0b09543ddc,Indonesia,ID,Tuamese,1 to 4,True,-9.1132969,124.7084334
+5256ce69-f4e3-48b7-a727-c1e6bd43b40f,Russia,RU,Karmaskaly,5 to 9,False,54.367451,56.168819
+11bec2d5-fc9a-4248-806f-ba05d792c9cd,Russia,RU,Vasyl'evsky Ostrov,10 to 14,False,,
+8e1052bf-c357-44e5-b41d-370ea410b365,Brazil,BR,Jardinópolis,15 to 19,False,-21.0255126,-47.7706807
+268c3276-f914-4c71-bca4-43c13e3a5521,Russia,RU,Konstantinovo,1 to 4,False,55.5469752,41.0222479
+438f3922-bc41-4ca9-ac33-9bf81ebfc930,Indonesia,ID,Ciklapa,20+,True,-7.5023825,108.8051818
+f73dc2c9-7314-431b-845b-d885079ad522,El Salvador,SV,San Pedro Masahuat,5 to 9,True,13.5449831,-89.0370716
+7fabc86a-6825-41d4-a23d-759aff1d0d84,Cameroon,CM,Mokolo,20+,True,10.74103,13.798742
+521c9fd7-633c-4f9a-8b18-25f9c2f2f61d,Indonesia,ID,Kebonsari,1 to 4,False,-6.9049922,112.0645594
+a692c6f4-cccd-40d0-975a-c5240556b48b,Indonesia,ID,Tilamuta,20+,True,0.5292594,122.346231
+ed1a3067-476d-4e02-a2cc-908194a39348,Indonesia,ID,Ngancar,1 to 4,True,-7.9321252,112.1788666
+9dd871c3-aad5-41b6-bd48-b538ed9bd26b,Indonesia,ID,Tanahwulan,10 to 14,False,-8.0284252,113.7585179
+70aba2ce-7be0-432a-a5bc-180f62cc4d2e,Russia,RU,Valerik,1 to 4,False,43.1787732,45.4081215
+aae98012-2538-42ab-bccd-10a5a070a0ff,Indonesia,ID,Banjarbaru,5 to 9,False,-3.4397517,114.8309351
+315f1a23-b2f6-4ce1-8348-841cec4923b4,Russia,RU,Shatki,20+,True,49.314071,6.2818372
+66621709-8a7e-4ae0-8038-4a29e1776e4f,Cameroon,CM,Bélabo,10 to 14,True,4.9203029,13.290971
+3dd9be71-0b51-4635-a673-6861abed5afc,Indonesia,ID,Rajapeni,20+,False,,
+49d1c12b-8d04-48dc-9c20-69f241050f32,Russia,RU,Listvyanka,15 to 19,True,51.85693,104.86058
+33295e54-0b0c-40ee-abad-1f61feb72165,Syria,SY,Şalākhid,10 to 14,False,,
+43cd6afe-a51a-4829-8b1a-ff6c73277e58,Indonesia,ID,Buaran,10 to 14,False,-6.2156064,106.92316
+5ea776f7-30a7-4480-85a6-327c412101c5,Honduras,HN,Potrerillos,10 to 14,False,15.1849577,-87.9734847
+b0d69af2-bcab-49af-9376-557b3e6ed0ac,Indonesia,ID,Naikoten Dua,5 to 9,False,-10.178096,123.596369
+893e8ee1-4309-46b0-bbd9-5d3f1005d3ff,Indonesia,ID,Kebon,15 to 19,False,-1.2325672,130.7326861
+c60a8fd8-e169-40e0-a4d0-aab4a5eb92b5,Argentina,AR,Río Ceballos,5 to 9,False,-31.1709088,-64.3160951
+718251c9-5366-4ba2-80e6-6cdaeeda2b35,Russia,RU,Yaroslavl,15 to 19,True,57.6263877,39.8933705
+69246145-fcf9-4686-88b9-3eb91d8a9350,Nigeria,NG,Mahuta,15 to 19,False,11.689055,7.856539
+aaa39f8d-f3d7-4924-8f84-fdbf631ce57f,Nigeria,NG,Otukpa,20+,True,9.0351659,7.4797583
+52ade191-6185-45e0-bbd4-efde4b021838,Indonesia,ID,Parigi,10 to 14,True,48.8534951,2.3483915
+fe01aa17-2297-45e9-a0e4-83a20755a2e5,Indonesia,ID,Sulang Tengah,5 to 9,False,-6.807291,111.3805693
+4b4a01c1-532a-4a3e-91f2-ac0593d20c42,Philippines,PH,Santa Lucia,5 to 9,True,13.8250489,-60.975036
+22ea2f0a-1650-4a25-99b6-844627a34eb4,Indonesia,ID,Dasuk,15 to 19,False,-6.9023933,113.8145935
+5f8fca1c-5503-4a37-b47e-8046467ca1ef,Russia,RU,Novyye Cherëmushki,5 to 9,True,,
+90dc2619-f36a-4ffd-bc9a-0ee9c0368ff8,Syria,SY,Kafr Takhārīm,20+,True,36.1166667,36.5166667
+2b94f2be-b263-4a88-a4db-00a37f2c93a8,Russia,RU,Planovskoye,1 to 4,False,43.4000238,44.1925661
+b051f9c5-8527-4c3f-ac30-c0fa5d25b6b3,Tanzania,TZ,Bunda,15 to 19,False,-2.0798282,33.4466272
+060f52e9-9f6b-4376-93d3-6be67e8f3001,Philippines,PH,Glad,1 to 4,False,65.9571983,22.3624973
+2e48e377-2637-47d4-999d-fcd445dc3134,Russia,RU,Tver,15 to 19,True,56.8596713,35.8952416
+822ae7f2-a716-4322-8156-bc45048c78b5,Brazil,BR,Júlio de Castilhos,1 to 4,False,-29.2286575,-53.6825217
+767f3116-496f-412a-9c56-946118494980,Russia,RU,Novokhopërsk,20+,False,51.095146,41.616955
+55d791f2-7049-45c5-adf1-2bbd923b813a,Cameroon,CM,Loum,5 to 9,True,4.7200545,9.7274994
+cec6b606-9830-428f-b1ef-8e5648e354c9,Argentina,AR,San Carlos,5 to 9,True,37.504936,-122.261823
+9d8550a1-b361-4f58-ab95-0c8f711f50d9,Brazil,BR,Monte Alegre,5 to 9,True,-1.9989108,-54.0727694
+809e4854-300d-4114-8168-85908923cb22,Philippines,PH,Puro Pinget,1 to 4,True,17.685,120.357222
+800015bb-58e3-4df2-b174-61105fe32b48,Philippines,PH,Tabango,20+,True,11.3061737,124.371579
+27d06212-61bf-4ee0-ad50-bbee63428c21,Indonesia,ID,Goge,5 to 9,True,-29.4730826,30.6816346
+4eb4b6b0-5ea7-4542-b8e5-04859326e820,Philippines,PH,Victoria,10 to 14,False,-36.5986096,144.6780052
+781862ea-b892-461e-8f69-f6b287141bbf,Indonesia,ID,Sarangmeduro,1 to 4,False,-6.7369134,111.6677481
+b0428b05-358e-46bf-a9d2-187c28927541,Indonesia,ID,Ujungpangkah,15 to 19,True,-6.9229407,112.5569694
+449a6dd4-fc49-4533-a710-07c339fb6c48,Thailand,TH,Phu Sang,5 to 9,True,19.6487816,100.3524132
+8ac79563-f5f3-4582-8bf1-9251bbdfa739,Philippines,PH,Magsaysay,5 to 9,True,10.8652601,121.0497566
+c0ab449d-a8d1-4377-82a5-724314243123,South Africa,ZA,Vanderbijlpark,20+,False,-26.706891,27.836271
+27e1ed05-8994-4175-b9cd-2c0e9a0a0782,Indonesia,ID,Cikalang,1 to 4,False,-7.3486042,108.2277327
+d053ddf8-59d6-454e-9014-345f751ef54b,Vietnam,VN,Krông Kmar,20+,True,12.504582,108.3323993
+24f49ed2-24dd-4c71-89b5-801424eff846,South Africa,ZA,Postmasburg,1 to 4,True,-28.326667,23.068889
+eedbb557-44ae-4e3d-bf5c-72d821f53d24,Philippines,PH,Anda,20+,False,46.5169806,125.4192927
+ab5e2b48-50d9-42fd-98ba-d6b24a03cca6,Myanmar,MM,Meiktila,15 to 19,False,20.8814233,95.8619463
+bb77da52-bb4f-495b-bcdd-bdadabbe5c33,Guyana,GY,Rosignol,15 to 19,True,6.2745779,-57.5387925
+4347f988-1199-4915-b45f-8bd5bfbbd1c6,Paraguay,PY,Capiíbary,20+,True,-24.7260964,-56.0162159
+c1d9c0dc-168e-4d32-9e59-c9f7a472f184,Indonesia,ID,Karangboyo,10 to 14,True,-7.1313075,111.6060434
+b3182941-ba7b-43ea-a17f-c680ce05c829,Russia,RU,Spirovo,1 to 4,True,57.4215311,34.9932788
+3d1b7103-aaad-49b8-9b4f-d956ee29f02c,Philippines,PH,Manlucahoc,15 to 19,False,9.7430061,122.4923022
+32a0ce92-3e15-4962-aa36-5c66fcada0da,Indonesia,ID,Arjawinangun,10 to 14,False,-6.6445325,108.4145647
+b9a63c2a-a88e-4f93-96a0-a9d33daf253f,Sierra Leone,SL,Mobai,5 to 9,False,7.9935681,-10.7537466
+b1fa0bcf-56dd-4a5e-8196-984ce238a32b,Russia,RU,Syktyvkar,1 to 4,True,61.6685237,50.8352024
+5189ccd5-337a-42f4-978e-69d14f59aa9b,Indonesia,ID,Klau,5 to 9,True,35.6252483,-120.8915706
+690d71cd-822d-46e4-8c2f-171dc002f012,Philippines,PH,Alaminos,1 to 4,False,40.8633363,-2.7259879
+e185e472-09ff-4812-9564-5a9e552b7275,Philippines,PH,Bolanon,20+,True,8.482914,123.8075626
+e1e1e7b7-4835-4100-87f1-8a8d03798705,Nicaragua,NI,Yalagüina,5 to 9,False,13.485387,-86.4923654
+cc820070-4a4d-40f1-b261-2dc3cd5bebae,Indonesia,ID,Pangtangis Dajah,10 to 14,False,,
+d3d0fb8f-4d9b-4a4d-93e3-e63de8eb1bc7,Philippines,PH,Balabac,20+,True,7.9864527,117.0647312
+47859697-2951-4a0a-8841-865726022991,Nigeria,NG,Ake-Eze,20+,False,,
+cba547d9-abdd-4ef0-8453-6e74e710c790,Afghanistan,AF,Shīnḏanḏ,5 to 9,True,33.254378,62.380804
+87403765-f509-4045-8cb4-ea6b27885cd8,Indonesia,ID,Juwana,1 to 4,True,-6.7116898,111.1514508
+23abfbae-f497-4cdd-880c-19bf635a7acb,Russia,RU,Tyrnyauz,1 to 4,True,43.3958986,42.9230751
+8dc2db8d-13b5-432d-96fe-b42b89343ae2,Indonesia,ID,Sukarama,10 to 14,False,-6.9254162,107.2280402
+6d59dc73-793e-4dd7-9c64-6f8938cd8055,Indonesia,ID,Tonggakjati,10 to 14,True,,
+651d5b3a-11ac-40d6-b84b-af56eead9fce,Indonesia,ID,Citeluk,1 to 4,False,-6.80832,105.67338
+0d717bfa-6335-422a-931f-5e2f3ac43593,Indonesia,ID,Peseng,20+,True,4.1817,97.2472
+63f59a04-6398-4891-b372-3af898dbc515,Indonesia,ID,Arjasari,1 to 4,True,-6.3606646,108.011988
+61aaf81e-2aaf-4f18-9908-01f86330320a,Madagascar,MG,Sakaraha,20+,False,-22.9119193,44.5323696
+1445d17d-014f-426a-916e-91a85315c8f7,Vietnam,VN,Thị Trấn Nguyên Bình,10 to 14,False,20.5559498,106.5635558
+5d89f61b-19d1-4a03-8a9c-29e5eef55107,Indonesia,ID,Klagen,5 to 9,False,-7.6229298,110.6558203
+8fddb5d8-adfd-4d45-8f46-6b7896a95a03,Vietnam,VN,Thạnh Phú,10 to 14,False,9.9280022,106.5672985
+d0746a12-e0a9-43c5-adf7-ca00184c2164,Brazil,BR,Carandaí,10 to 14,False,-20.9523934,-43.8043903
+1da0d053-6f03-4eeb-b4f9-3e36e2a7b02e,Nepal,NP,Butwāl,10 to 14,True,27.6827731,83.443862
+24947e1a-e4af-471f-b85d-5b1ca696f59b,Russia,RU,Diveyevo,1 to 4,False,55.041687,43.245518
+d69950f8-4cb7-4566-9e20-ea04becf1e38,Philippines,PH,Tabu,1 to 4,True,28.5429859,-81.3793824
+4d3e6e5d-5359-4c04-a45f-54e654d8ee52,Russia,RU,Ishimbay,15 to 19,False,53.4546454,56.0439119
+b4014247-42dc-4e64-9e7b-f83204342f40,Indonesia,ID,Karanggedang,10 to 14,False,-7.5624634,109.8701157
+29322085-1819-47e7-b4ed-05a4f69e44f6,Indonesia,ID,Sidomulyo,20+,True,3.4744271,98.6865034
+01e629cd-8714-4b32-8b19-486650cdc623,Brazil,BR,Iturama,1 to 4,False,-19.7272733,-50.193488
+490d6fc4-183b-4a79-9610-067e124f361a,Russia,RU,Ufa,1 to 4,False,54.7261409,55.947499
+750a0cd3-7f35-4daf-b32e-b5f9775cd510,Thailand,TH,Pattani,5 to 9,True,6.8680798,101.253623
+813f432d-d92a-44f7-8f73-87423c335d83,Nigeria,NG,Illela,1 to 4,False,13.6664957,5.321407
+e51d8ee2-9fa0-424a-9469-5b6b0927f938,Yemen,YE,Al Khāniq,5 to 9,False,15.502534,44.181576
+7f5c3316-468d-44db-a7c1-6e678fb6952a,Russia,RU,Sheksna,15 to 19,False,59.2069457,38.5009851
+cd8fabf6-a3c3-44d3-af4b-86ba0067e664,Indonesia,ID,Tanjung,20+,False,-6.8770109,108.8603983
+e037c527-5ba6-4e40-ab98-fa7a8c8319bd,Indonesia,ID,Banjar Sembunggede,5 to 9,False,,
+f9682f73-a5e2-48e4-93b5-9c540ccca58c,Russia,RU,Sosnovyy Bor,20+,True,52.657845,104.504318
+174df768-aa39-4258-9b23-880198469789,Morocco,MA,Boulemane,10 to 14,True,33.3637958,-4.729575
+19b48585-f014-4548-ade0-50927726050b,Russia,RU,Uzlovaya,15 to 19,False,53.978512,38.160255
+980da775-539e-49c9-9860-455a18a41d27,Nigeria,NG,Keffin Hausa,1 to 4,False,12.240556,9.913056
+24544c30-903d-49d1-8a26-0ad690fd9f05,Brazil,BR,Lages,20+,False,-27.8165664,-50.325883
+a30edbb4-c324-414e-af9f-4639325944aa,Philippines,PH,Tingloy,20+,False,13.6619736,120.8695102
+eb5d3768-cf39-4019-8769-e7adb4f9c502,Dominican Republic,DO,Pimentel,1 to 4,True,39.485542,9.06554
+24517b81-e4b1-449d-a36d-ac0f967f4563,Gambia,GM,Brikama,1 to 4,True,13.2743914,-16.6454431
+574f8946-95b4-4f48-b562-6ac73ac65953,Guatemala,GT,San José El Ídolo,5 to 9,True,14.449616,-91.422036
+15e1d3f4-c4a9-44ea-bab1-99cd849c742e,Yemen,YE,Ḩabīl al Jabr,5 to 9,True,13.604221,44.985777
+e26ab90c-ab39-4711-8aaf-39a0fad90d1d,Russia,RU,Ovsyanka,5 to 9,True,53.580074,126.906075
+49311e5b-8cc7-4619-8075-f3e9c3252704,Peru,PE,Moquegua,15 to 19,False,-16.833333,-70.916667
+f1e2898a-d365-4acb-91a5-a058162335fa,Indonesia,ID,Bakaran Kulon,5 to 9,False,-6.7028117,111.1304051
+1bf85100-6ac7-48c2-8072-43ee19169ed0,Philippines,PH,Bantog,15 to 19,False,16.0097158,120.6908979
+39f6ff76-f08c-4d18-83e7-b0599d03e103,Honduras,HN,Valle de Ángeles,5 to 9,True,14.1638525,-87.008648
+f415081a-2f18-4f40-8c70-fc5033288c9a,Peru,PE,Paccha,20+,False,-6.4973639,-78.4234478
+022375ec-32ba-4b1c-92b4-80882e0b0bc8,Pakistan,PK,Haveliān,15 to 19,True,34.0519127,73.153453
+08e33e52-2a4e-4053-9907-bd2ec83c7b47,Indonesia,ID,Pasirdalem,1 to 4,False,-7.2313487,107.0644673
+c0873a2d-29a4-4ecb-9b65-6038014db88b,Nicaragua,NI,San Jorge,5 to 9,True,40.508985,0.332125
+f79cd017-4c31-4691-a5a0-e8d295f57c15,Brazil,BR,Montenegro,5 to 9,False,42.9868853,19.5180992
+c59c8f86-9bb0-4cb8-8be1-450d77c0690f,Russia,RU,Buguruslan,1 to 4,True,53.6527806,52.4340458
+145dc597-385b-443b-8090-8a7f22051eb8,Russia,RU,Chaykovskaya,5 to 9,False,56.7276535,53.9263783
+24f235ee-6a3c-45d5-83fc-2178750a9d62,Ecuador,EC,Calceta,10 to 14,True,-0.8480934,-80.1640382
+82b72d5d-7f60-49f8-849e-b3dc4a51daec,Indonesia,ID,Gununganyar,10 to 14,False,-7.885891,113.9213526
+06c0aee4-1862-458c-8756-76d024923883,Brazil,BR,Águas Belas,10 to 14,True,-9.1113156,-37.1225218
+5a8f5319-6172-4ea7-9782-d07d4ed97ba7,Nigeria,NG,Shagamu,15 to 19,True,6.8477165,3.6440551
+9ca68ce1-467c-4714-9d84-11b10637ff3e,Morocco,MA,Zagora,20+,False,39.4438441,23.1022243
+b5b599b6-2ca4-4868-bd59-a9190312f500,Brazil,BR,Irecê,5 to 9,False,-11.3034965,-41.8557929
+78c819ee-c1f2-42f2-9771-aef3d85c48d4,Peru,PE,Maranganí,5 to 9,False,-14.3573737,-71.1686419
+06b7dd64-afe3-463f-a9a1-097ff53cb477,Philippines,PH,Balabag,10 to 14,False,10.7673032,122.5198928
+eb1f316a-5123-487a-b8aa-e041e63837f1,Philippines,PH,Buldon,20+,True,7.5144498,124.3710663
+6c1117bb-abc9-40df-a895-404442222c76,Philippines,PH,Maguilling,15 to 19,True,17.7652496,121.497159
+577ee747-0af3-465d-b771-4f41bc8b4f33,Indonesia,ID,Pulaukijang,1 to 4,True,-1.5939492,103.6059666
+060f4b0d-51ef-4bb3-b1f2-0f00010eacd6,Russia,RU,Dmitriyevskaya,10 to 14,True,45.657211,40.757572
+720b8629-17df-45c9-8e4f-aca783b5d912,Russia,RU,Beloyarskiy,15 to 19,True,56.7644961,61.359047
+bead0d02-b1c4-47c3-9da1-d69af0c0d0aa,Haiti,HT,Gonayiv,20+,False,,
+4d8d8cfe-d48a-4b36-8099-dd599d492c55,Indonesia,ID,Gingsir,1 to 4,True,-6.6678471,110.8561063
+ebe53b5f-c562-4bdf-bd57-74a4e447097a,Mexico,MX,La Esperanza,10 to 14,True,14.3081342,-88.1767846
+31842aeb-e0c8-45fb-b3c7-bc1d2665e0af,Brazil,BR,Maragogipe,1 to 4,False,-12.7766206,-38.9174729
+26949f7b-7ba9-4ccb-a373-9416c90fdd50,Indonesia,ID,Krajan Demit,1 to 4,False,,
+04372648-8f85-4ed3-9995-6b7e7415a73e,Argentina,AR,Los Charrúas,5 to 9,True,-31.1695333,-58.1862719
+f17800ac-dc45-4265-aa39-e58c47b17d8a,Philippines,PH,Mexico,15 to 19,True,23.6585116,-102.0077097
+dadd49c7-ccb4-4ed7-ba92-c7cd7e0d03a8,Russia,RU,Budenovetc,5 to 9,True,,
+e77d494e-9149-483e-a506-47d3544f6b0a,Philippines,PH,San Isidro,1 to 4,False,38.1707587,-0.8387399
+ed942dc6-081d-462d-a77f-a9eebc832415,Russia,RU,Blagodatnoye,1 to 4,True,45.6754959,34.7718967
+ea40819a-573c-4c57-9a32-84b5a90c5b43,Syria,SY,Mahīn,10 to 14,False,36.5732942,49.0510062
+7318f14f-84d0-4599-9b73-164fda8a4522,Belize,BZ,Orange Walk,20+,True,17.7831833,-88.8620283
+9f8261d0-10ba-4225-939f-e3aa5a1f8b97,Brazil,BR,Bacabal,15 to 19,True,-4.2318132,-44.781167
+74f65823-f0a2-4c57-8ce8-fceb5a5fe193,Philippines,PH,Conduaga,15 to 19,False,,
+1baf82e8-c40a-4235-95b5-ba231665dad8,Indonesia,ID,Nangahale,20+,False,-8.5603353,122.5070706
+73006899-e472-47c4-8418-24ec41e1941b,Sudan,SD,Ad Dabbah,20+,False,18.043988,30.95119
+aced344c-624d-4d9e-bfb4-9514d28dd07a,Indonesia,ID,Sasar,10 to 14,False,47.6627674,23.5852905
+a3f8a04c-0af9-4b80-97b6-21ddbc3e2e68,Indonesia,ID,Onan Ganjang Satu,5 to 9,True,,
+1cb0937b-aaba-4845-ba61-8067f0497609,Afghanistan,AF,Jalālābād,1 to 4,False,34.430195,70.460128
+f383ab9b-5cf2-46c7-9c64-fbc5541ef0fd,Russia,RU,Pelym,1 to 4,True,60.8903744,62.3285346
+e06fb6b5-9416-4102-a059-e4cf1f9368f6,Ethiopia,ET,Addis Ababa,1 to 4,True,9.0,38.75
+6f7e1798-8c41-4587-aaf7-9f2a8300864e,Afghanistan,AF,Gardēz,15 to 19,True,33.6014533,69.2235518
+ba8ac7e3-2962-425a-a9d6-d818f76b7ddd,Indonesia,ID,Pangkalanbunut,15 to 19,False,,
+d7c8986c-e7b0-4ff4-8058-0b9179326bf4,Indonesia,ID,Ares Tengah,20+,False,-14.0779885,-46.3504293
+69d4f773-32a7-4cbd-8823-968ddc2a7250,Indonesia,ID,Batojaran,10 to 14,False,,
+bd136ae0-9959-4314-9199-e4b56b3af0a8,Nigeria,NG,Oguta,20+,False,5.6594644,6.7783824
+c6d3f6ef-afc0-4820-9378-2e2dbe814ce5,Russia,RU,Krasnyy Gulyay,15 to 19,True,,
+06942523-b341-42df-b7e7-ab0b574cea8c,Cambodia,KH,Kampong Chhnang,20+,False,12.1382025,104.3354098
+57ec51f6-ffc8-42c8-947e-f293e59c367b,Philippines,PH,Caminauit,1 to 4,True,12.327689,121.0916841
+1a6ece5b-e27f-4c19-8e22-f9b5ac0f6103,Zimbabwe,ZW,Plumtree,1 to 4,True,-20.4880677,27.805601
+768869cc-555b-4176-abf0-d98b2ba52aad,South Africa,ZA,Vredenburg,1 to 4,True,-32.906738,17.990037
+70683ce7-5fff-4b77-99db-9baaaa2eb36b,Bangladesh,BD,Mādārīpur,20+,False,23.2340107,90.1446079
+e8b6ee8d-3fcf-458c-8da9-eef065cf6ca8,Russia,RU,Pushkino,20+,True,56.0104274,37.8461892
+53645867-f3bb-433f-a980-4ea671df2821,Pakistan,PK,Zafarwāl,10 to 14,True,32.3427221,74.9020032
+cd813f47-a467-4ce5-847a-fc51d5aece31,Russia,RU,Naurskaya,5 to 9,False,43.650589,45.311901
+5999f41b-9b4e-465a-8bac-7ce59981f7db,Indonesia,ID,Wurigelebur,1 to 4,True,-3.6328977,138.9098612
+268b987f-de43-4a78-a957-403a32f1be89,Madagascar,MG,Andovoranto,10 to 14,True,-18.9567513,49.1083979
+6de80c86-0bf1-4ab4-bf10-4854788e8e3e,Indonesia,ID,Sukaraja,20+,True,-6.5769298,106.8411239
+dc0992f1-657c-40dd-a1cc-90c7267058c1,Dominican Republic,DO,Santo Domingo,1 to 4,False,18.4801972,-69.942111
+4cb96501-dee1-43ee-a77d-fd24452733f1,Indonesia,ID,Pasiraman,20+,True,-3.3216845,114.9349833
+36adf1e0-05d5-44d8-acd2-34a433b322fe,Vietnam,VN,Phan Rang-Tháp Chàm,1 to 4,True,11.5769829,108.9865391
+887b0bf8-4af6-4628-88e9-5b4d0fb88679,Indonesia,ID,Jengglungharjo,15 to 19,True,-8.2380701,111.8959813
+7b9e590e-8127-4c65-a3a2-0c8698eaae7b,Indonesia,ID,Sebasang,20+,True,-8.6481852,117.4551754
+ff8a5ffe-0675-49e7-beb0-515348dcb8b1,Russia,RU,Volgograd,20+,False,48.7081906,44.5153353
+0b151a5a-c65f-41cc-8352-a186fe43aa59,Russia,RU,Is,15 to 19,True,64.9841821,-18.1059013
+6b0c4c38-3927-4433-ab43-a15627192dd9,Indonesia,ID,Lembung Tengah,15 to 19,True,-7.0367213,113.7768744
+20ec4a52-bb83-4d2d-a78f-7805fbcaa402,Indonesia,ID,Sinarjaya,5 to 9,False,-7.4975848,107.527459
+6434329b-d0d6-4290-9db1-b63c50cfbe18,South Africa,ZA,Muldersdriseloop,15 to 19,True,,
+a5d6f135-6e0f-4a0e-ac85-46f97f972309,Russia,RU,Svobody,10 to 14,False,44.0224869,43.0704725
+a9ca074b-f2ba-45ac-a1d2-5a962236423f,Indonesia,ID,Tengah,15 to 19,False,0.9111161,123.1113054
+cb961291-4a78-4db0-8cc7-1182b7825cbe,Brazil,BR,Juatuba,5 to 9,True,-19.954001,-44.3407921
+668d3362-0c87-4bad-9642-038baed7b4dc,Ethiopia,ET,Gewanē,5 to 9,True,10.159228,40.661596
+c8155b5e-2dc7-4b94-b526-e40dba5a2d5f,Cameroon,CM,Loum,10 to 14,False,4.7200545,9.7274994
+686e66d7-ac61-48f9-9e18-f75b0c0eb2df,Russia,RU,Selizharovo,1 to 4,True,56.855633,33.452286
+0dee9617-6ec1-4255-bcfa-729b73674e88,Thailand,TH,Lampang,5 to 9,False,18.6799728,99.7332501
+f0c193f5-015b-48b1-9deb-dce3f290d79d,Thailand,TH,Phunphin,10 to 14,True,9.1473026,99.3265943
+15723e94-a5d7-47ae-b65b-6efe632bda2c,Indonesia,ID,Bakung Utara,15 to 19,False,3.9202343,98.4347917
+db6538d5-301c-4475-9cd6-cffca1ba0e7e,Mexico,MX,Benito Juarez,10 to 14,False,21.0742627,-86.9265622
+7bbf0b03-0ccc-4853-85ee-15a6b24ecaa9,Russia,RU,Dolinsk,5 to 9,False,47.3241456,142.7979361
+51c4e274-cb3f-44f7-a256-b366f3918863,Philippines,PH,San Agustin,1 to 4,False,29.8946952,-81.3145395
+940c7448-0312-4af4-9e90-de16da048a45,Indonesia,ID,Garajati,20+,True,-7.0537769,108.6585109
+ab6e79e6-21be-4e12-b888-05dc79bf7927,Indonesia,ID,Wahang Dua,5 to 9,True,,
+83cfc05f-1b62-45b7-82d8-15d026d3d0d2,Indonesia,ID,Cicurug,1 to 4,False,-6.7901148,106.7797692
+d8629aa9-f13a-4f0a-acb7-111e3ad99a35,Indonesia,ID,Banjar Pedawa,1 to 4,True,-8.23558,115.02555
+0a3fd3c2-68dd-47fa-95f3-b537352ec5f7,Brazil,BR,Medianeira,5 to 9,True,-25.2954233,-54.0940666
+96c22d8c-dc89-4f81-8ca5-7cab70f8babf,Uganda,UG,Buikwe,20+,True,0.3031612,33.0390868
+8f73fdfd-38c1-42f8-8048-99eef871dde0,Indonesia,ID,Temuji,1 to 4,False,,
+f938c797-8eb1-418f-a47f-5d9f39dfac2b,Indonesia,ID,Selajambe Satu,15 to 19,False,,
+45eaf960-0084-4e6e-a4a1-b41d2416293e,Argentina,AR,Colón,15 to 19,True,9.3553005,-79.8974085
+f1bdc1c3-9d9d-487a-ad68-e013c75a8465,Russia,RU,Sovetskoye,20+,False,45.56854,34.49432
+c2fc70f7-eb25-4e1d-9b2b-2f3f4f61e6a5,South Africa,ZA,East London,10 to 14,True,-33.0191604,27.8998573
+326abdd6-090d-452c-8a71-124ce6fb3fcc,Indonesia,ID,Sindangheula,10 to 14,True,-7.1020768,108.8181629
+14b316d6-832d-49e2-82be-aace19c21120,Afghanistan,AF,Dasht-e Qal‘ah,10 to 14,True,37.2212227,69.4949973
+8c412484-882d-4e0e-b390-c94ae63730c6,Ethiopia,ET,Gīdolē,5 to 9,False,5.6505459,37.3660534
+b918ec00-b793-48c8-81ad-d17b337e3100,Morocco,MA,Taounate,10 to 14,False,34.538476,-4.635994
+5ad7f4ab-4ff0-4688-8787-10a43b5be9fb,Indonesia,ID,Cihaur,20+,True,-6.9512915,107.1402081
+743ff3e1-310d-4e1b-9fd9-88cfc257f869,Paraguay,PY,Antequera,5 to 9,True,37.0183652,-4.5596649
+ec825719-7692-4d2e-b949-4e9f94a312de,Bangladesh,BD,Rāipur,1 to 4,True,21.2380912,81.6336993
+0db2c1be-b139-4b26-ac1f-452eed7ae590,Vietnam,VN,Thạnh Phú,1 to 4,True,9.9280022,106.5672985
+e29c28dc-7d37-429e-b63e-a17a03be9ecb,Philippines,PH,Balitoc,10 to 14,True,13.8619782,120.6340857
+c6e6d9ae-52b6-459a-9847-f618df33c334,Nigeria,NG,Garko,20+,False,11.5649275,8.8369338
+23559b8a-ab59-469d-8a98-ca3bc402a4ae,Armenia,AM,Hats’avan,5 to 9,False,,
+2192efc5-b88d-432c-b85a-e7bf70160d64,Indonesia,ID,Winong,5 to 9,False,-7.6652645,109.9529359
+5343be24-7ea9-4c5f-b2f7-f48e3a637894,Indonesia,ID,Maumbawa,15 to 19,True,-8.8968715,121.1427552
+a6c753db-23fa-475d-a093-d657aef0b3e4,Indonesia,ID,Rokoy,15 to 19,False,-6.3317016,106.0618975
+cc365f99-ddcc-4221-a240-7ebca5667016,Indonesia,ID,Cieurih Satu,10 to 14,False,,
+baae63e3-a942-4bfb-be9f-c9d831a1fbb3,Argentina,AR,Villa Ocampo,20+,False,-34.4580191,-58.5184565
+536202f5-4894-4764-a8f0-c712f5f228d5,Russia,RU,Buzdyak,10 to 14,True,54.5696389,54.5323993
+68270d3c-0f3b-4140-82c3-03dd7044b74d,Syria,SY,‘Ayn al ‘Arab,15 to 19,True,36.5404989,38.4791468
+4ce85f5b-d938-4f59-b924-cca6c052b1f3,Philippines,PH,Nangalisan,20+,False,16.6323883,121.1929965
+2047ba64-8d0f-48f1-bff1-b7f8b69747f1,Philippines,PH,Talacogon,15 to 19,True,8.4486711,125.7861565
+ac44bee6-4e5b-41ff-b39f-a27e9169dfa7,Indonesia,ID,Tanggulangin,15 to 19,False,-7.5056422,112.7312468
+4e4cee49-2ea4-468c-9b66-a1c02b47436a,Philippines,PH,Santiago,20+,False,-33.4377756,-70.6504502
+0a11010f-1db3-4040-8a9c-3931461e6222,South Africa,ZA,Musina,10 to 14,False,-22.3453519,30.0268526
+2ef42390-28f1-4996-9c72-ad9e436fa883,Brazil,BR,Santo Amaro,5 to 9,True,-12.5519686,-38.7060448
+5bb7247e-9d38-494d-87c3-bd1da82bf4e9,Pakistan,PK,Bat Khela,10 to 14,False,34.6134314,71.9677447
+0b22104f-03c5-457d-878f-711efcec70cb,Pakistan,PK,Karachi,20+,False,24.8546842,67.0207055
+c71f1251-dd88-43e5-850d-ccc2d453b880,Indonesia,ID,Ambarita,5 to 9,True,2.6774146,98.8303913
+64162700-6d80-4dc4-8bbb-5dbf0fd6d341,Indonesia,ID,Parumaan,1 to 4,False,-8.4537952,122.4443213
+d9895cbd-0d62-43f2-a2ab-b69559761e91,Indonesia,ID,Margahayu,10 to 14,True,-7.1493476,107.9341862
+9ddb7fb4-9c70-4bf6-8513-a40440103127,Indonesia,ID,Tarogong,5 to 9,False,-7.1929014,107.889735
+a7adabb0-9a22-4dff-9b7f-834f80762842,Armenia,AM,Ushi,1 to 4,True,40.3489783,44.3751203
+08bb217b-8190-49ec-9e3e-09ac0289e8da,Russia,RU,Bratsk,1 to 4,True,56.1517085,101.6334907
+2032e5a4-a6c6-47d4-814d-ec3f911112ea,Brazil,BR,Nova Era,1 to 4,True,-19.766111,-43.036944
+e9ff5166-864a-4feb-bf8f-92f5bb40212e,Indonesia,ID,Ampelgading,20+,True,-8.0469537,112.4450863
+e49b3f1f-7609-4a36-a738-15313fcc9062,Argentina,AR,Curuzú Cuatiá,5 to 9,False,-29.7913375,-58.0498307
+beb9166b-f4bd-44f8-b49b-784d0ce64e5a,Peru,PE,Pillpinto,1 to 4,True,-13.9535853,-71.7608304
+9ebb8567-f688-4f26-b911-51cd20549042,Peru,PE,Tingo María,1 to 4,False,-9.2983713,-76.0003034
+69915509-32e0-4c3b-a9ca-dc6eb88b8a67,Burkina Faso,BF,Titao,1 to 4,True,13.7670609,-2.0734607
+36adfad5-5420-4ef2-ad07-1419341332e4,Brazil,BR,Santo Estêvão,1 to 4,True,-12.4340621,-39.2556115
+83df8864-c3d5-4be6-97d7-305a33b8fe1a,Russia,RU,Slobodskoy,10 to 14,True,58.7277816,50.1771234
+2f361c44-0762-41fe-98e7-a9621e7e2dfd,Indonesia,ID,Liliana,20+,True,-9.741766,124.1151229
+2bfdfa54-9848-43cc-b8fe-90d1660e9c4e,Paraguay,PY,Eusebio Ayala,1 to 4,True,-25.3826238,-56.9622692
+a23e04f3-3e03-4cff-804f-3f30a61d4333,Russia,RU,Moshenskoye,15 to 19,True,58.512428,34.5849085
+4d771e14-9f7a-4bec-be9d-0e6fd4f382e4,Kenya,KE,Moyale,1 to 4,False,3.5241898,39.0512683
+fdd2ef05-2177-4387-b07e-1dd4a716a500,Russia,RU,Barguzin,1 to 4,False,53.617638,109.632744
+a533d5e7-10d0-4070-86b4-0114bc339cea,South Africa,ZA,Westonaria,10 to 14,False,-26.3177778,27.6519444
+43c60e53-cfa2-45f5-8a1b-3c1ed8da61dd,Indonesia,ID,Boafeo,5 to 9,False,-8.6907759,121.6324561
+c57e3c3e-ca63-4c2e-a950-51ddbd4483c9,Indonesia,ID,Pondohan,1 to 4,False,9.6253773,123.4096797
+e231512e-efea-43d4-9d88-2e174b71073e,Philippines,PH,Port Area,15 to 19,True,14.5889597,120.9686124
+ef474ca3-b102-4a1e-b1d8-1b422af97c40,Indonesia,ID,Kaliasin,1 to 4,True,-7.6791999,110.3155348
+7e047d81-86e3-4dd5-965d-bed234e2eabf,Indonesia,ID,Cibangban Girang,15 to 19,False,,
+99574303-0e0b-48c8-a301-63dd88cff52d,Syria,SY,Tall Abyaḑ,15 to 19,False,36.684121,38.9852782
+1cba3df1-67b1-4524-b2ff-6fef8602a5f1,Mexico,MX,La Gloria,10 to 14,False,8.6182682,-73.8013876
+c29ec604-c38e-44dc-814f-cddc149efa3b,Russia,RU,Kudymkar,10 to 14,True,59.014606,54.664135
+9e80e6c7-bc1a-4419-8f88-234711fd58e8,Russia,RU,Perepravnaya,5 to 9,False,44.3340109,40.7836015
+80be8272-c5f7-47bd-bb8e-316d750a0cce,Indonesia,ID,Drajak,20+,False,-6.5700608,111.032306
+9676a62e-7c68-4fe8-aa74-858937fee4e0,Russia,RU,Inozemtsevo,5 to 9,False,44.0939286,43.0931055
+ba6adc26-25f9-4fe9-a341-da0cdba0396e,Bolivia,BO,Boyuibe,1 to 4,True,-20.4318294,-63.2815357
+5a432dfe-0844-46ea-877d-2228bf68bec0,Indonesia,ID,Cikananga,10 to 14,True,-7.0128017,108.5502399
+9e9c8b25-470b-48a9-9f7e-85863b782a16,Mexico,MX,Obrera,1 to 4,True,19.4132002,-99.1440487
+ee4bb90d-3b38-44b4-8dda-4a17265a02c1,Peru,PE,Pomabamba,10 to 14,True,-8.6999269,-77.440348
+f14ea5e5-68ba-4c4c-ab80-4c9656b7bb5f,Indonesia,ID,Nagrak,1 to 4,True,-6.8463816,107.122598
+39bc18e6-5ae6-45ea-be35-e41f45f27edf,Indonesia,ID,Sumanding,20+,True,-6.5639295,110.8630666
+0faac800-66ea-4cbb-9d7a-7f256d3f433e,Brazil,BR,Marau,10 to 14,True,-28.4493053,-52.2002156
+6e289863-9549-4964-919a-2a2f6bd3d90e,Indonesia,ID,Tunggaoen Timur,5 to 9,False,,
+2f6b3d25-7a52-4e7d-9305-7becd352ea8d,Indonesia,ID,Leuwayang,5 to 9,True,-8.2293563,123.7419267
+23072356-eda3-42ec-86f2-bf32be905399,Brazil,BR,Taquara,20+,True,-29.6452036,-50.7832169
+669d0831-4a05-43f8-b6a5-bb35fa343871,Russia,RU,Nezhinka,5 to 9,True,,
+57641755-05cf-4a03-81b9-1d24b4660014,Philippines,PH,Esperanza,1 to 4,True,19.6277687,-70.9596561
+1d54e7f7-e4e5-4619-a155-1702ef1f4f37,Russia,RU,Solikamsk,1 to 4,True,59.649437,56.779594
+6f3ab7ed-4a2b-4263-b99d-8705fadb77f5,Indonesia,ID,Birowo,20+,False,-8.222057,112.3626822
+55220747-2563-4159-a721-946d1268c3d0,Brazil,BR,Paranapanema,5 to 9,True,-23.390161,-48.720868
+45c25da3-3372-4ae3-a81e-fee2d11ec231,Nigeria,NG,Agbani,20+,True,6.4055688,7.4826945
+82638417-b3d2-4e62-b754-e42c0648ee00,Burkina Faso,BF,Fada N'gourma,20+,True,12.0608406,0.3592088
+a0aacb27-ea79-41d6-aff3-cd6bcf222e5f,Indonesia,ID,Bakungan,1 to 4,True,-8.2198579,114.3488574
+4812010d-fe6a-4230-9486-83b99d0c7f2e,Philippines,PH,Unidad,5 to 9,True,8.4582525,29.9560547
+e744abfa-b21d-4353-b058-7d05be46a519,Russia,RU,Karpogory,5 to 9,True,64.001808,44.442722
+42f2ba78-bb25-4d71-8a79-ce3d527d8800,Brazil,BR,Bariri,1 to 4,False,-22.0746355,-48.7394852
+f382c254-4534-4807-9012-41d50479bb19,Philippines,PH,Kaputian,1 to 4,True,6.9660808,125.7246195
+272ae107-1d0b-42d8-84b7-cca556bd6e40,Russia,RU,Svetlyy,10 to 14,True,64.04203,42.697319
+56d6afd8-7f7b-4276-98ec-1fc6b4584b55,Philippines,PH,Tanza,10 to 14,False,14.4012163,120.8580466
+db698b85-a673-4717-914c-2f952af849b4,Russia,RU,Novyye Kuz’minki,5 to 9,True,,
+53bbc971-4175-4908-bbea-0ac1fb4125ad,Russia,RU,Topchikha,15 to 19,False,52.8175669,83.115343
+a8254c99-545a-4ba4-9f06-5d4e4eaeb124,Russia,RU,Vyselki,20+,True,45.5806221,39.6574237
+8b0ae249-ec14-4c2e-82fa-a6b758654ef4,Mexico,MX,Ejidal,10 to 14,True,20.0699722,-97.0430863
+8c58d925-16a0-4166-bf6a-492e7de1df2e,Russia,RU,Sapernoye,15 to 19,True,,
+05d5fd34-2d58-4fd8-8916-ac21f2519e4b,Russia,RU,Dzhebariki-Khaya,10 to 14,False,62.218327,135.859451
+a16de2eb-d3bc-4781-bcfa-c88f8ece8b46,Afghanistan,AF,Muḩammad Āghah Wuluswālī,15 to 19,False,34.2154189,69.0972833
+0030122c-a5c5-4023-bbb4-41585a7bf358,Peru,PE,Los Aquijes,5 to 9,True,-14.0963782,-75.6911243
+a388cdf8-8ea4-407d-be7c-a978c5126654,Thailand,TH,Khlong Sam Wa,15 to 19,False,13.8476118,100.728278
+67f6eb40-1d35-4ed4-8cc5-4a8f21b2a855,Afghanistan,AF,Mūsá Qal‘ah,15 to 19,False,32.4719966,64.7470381
+67276542-5075-4a11-a607-89b9690ff99b,Russia,RU,Nikol’sk,15 to 19,True,61.253616,47.72028
+ba2dc477-eab3-41e1-9395-f09bd41e63c2,Iraq,IQ,Rāwandūz,15 to 19,True,36.6145961,44.5265186
+a0f23a2a-1955-44b1-83f8-fd4837b79105,Indonesia,ID,Oenunu,10 to 14,True,-9.8453801,124.2514838
+580fbfb1-259a-41ba-b595-db9950bf4c70,Indonesia,ID,Cikadu,1 to 4,True,-6.9732693,106.6124687
+fefba8bc-3c17-4236-8713-ddcfcd255535,Indonesia,ID,Pasarbaru,10 to 14,True,-6.1652819,106.6214909
+b3ea5777-48f1-4c9c-abde-1d90b29989f6,Indonesia,ID,Cipadung Timur,5 to 9,True,-6.9367431,107.717465
+9d9b3e5c-910e-485e-b872-8dcd989699a7,Russia,RU,Pashkovskiy,15 to 19,False,45.0238663,39.0949676
+daa53c2d-b67a-458c-aad6-05a3d335e9fe,Indonesia,ID,Aibura,5 to 9,True,-8.6861581,122.3614893
+2a0b9b13-443a-4a24-ac81-39c7b291b2ed,Honduras,HN,El Progreso,5 to 9,False,14.9100436,-90.0682728
+4db53a54-1ced-428f-aa04-9fcfd1b640ed,Brazil,BR,Pentecoste,15 to 19,False,-3.7950248,-39.2670733
+59c38ed4-0621-408c-9e3d-ae7a44ff3a8c,Brazil,BR,Valparaíso,10 to 14,False,-33.0458456,-71.6196749
+5e3c626c-cb3e-42b0-ace3-95da425669f8,Brazil,BR,Bebedouro,10 to 14,False,-20.949077,-48.479083
+91664b22-cba2-4514-8024-88def2218b8e,Mexico,MX,Rancho Nuevo,1 to 4,True,20.671111,-97.206389
+51ca908d-3754-4190-95b4-749b67f659a5,Burkina Faso,BF,Zorgo,5 to 9,True,14.4395576,1.9254069
+e8b1773f-f214-4a06-a999-606848482b1d,Indonesia,ID,Segong,20+,True,-7.0722065,108.6529168
+dfd54599-6c62-4691-aa21-de1722c5dfc8,Philippines,PH,San Jose,5 to 9,True,37.3361663,-121.890591
+70a38d2f-eb44-4713-b8ef-dae9d0973d4e,Brazil,BR,Caçador,5 to 9,False,-26.7737784,-51.0134844
+44102209-812c-4aa5-85ba-c56359b578cb,Indonesia,ID,Abang,20+,True,-8.2672237,115.4305249
+fe853cc8-b9fa-4e2c-931c-76d189438626,Philippines,PH,Luna,10 to 14,True,42.1675205,-0.9325526
+b0696aef-cef2-473a-968e-42637c5bd76e,Indonesia,ID,Cihaurbeuti,15 to 19,False,-7.2187614,108.2152385
+e49bea5f-9712-4cf1-ac03-dc35cebac7ed,Afghanistan,AF,Fayzabad,5 to 9,False,37.216341,70.613481
+41ef0c05-852a-453a-947f-b4be4c408fd1,Indonesia,ID,Pandanrejokrajan,20+,True,,
+00039adf-9caf-4542-837f-76cbffbd8077,Philippines,PH,Baguinge,10 to 14,True,16.7783961,121.10679
+8f887ef3-16ea-42c1-b5f3-021bbbe096fc,Sierra Leone,SL,Kukuna,20+,False,9.3974574,-12.6657748
+6f90b9c1-3270-4df4-8645-11d5a26e6e46,Indonesia,ID,Ciomas,5 to 9,True,-6.6089066,106.7597968
+4fe8d3dd-e0d3-4771-993e-9fd0a4915447,Philippines,PH,Pinagsibaan,20+,True,13.8405166,121.3154084
+68dacc40-02c1-49d6-8dd7-fd5cbac2209d,Niger,NE,Nguigmi,1 to 4,True,14.2568583,13.1155963
+2c55c381-21cf-4f18-b98d-48b1dc028d99,Russia,RU,Severoural’sk,5 to 9,False,,
+91a1f8ea-306c-4e9c-a086-fdf300a56b70,Thailand,TH,Bang Sai,5 to 9,False,14.3200268,100.3003691
+42cf047b-55a4-43cf-bc03-a11e602bfda2,Peru,PE,Huacapampa,5 to 9,True,-6.1031967,-79.1792661
+85a0d229-cc31-44d5-af09-c7448783ab72,Yemen,YE,Al Madīd,10 to 14,True,15.28814,44.73344
+f9d7338c-ea61-4bf3-8c5f-33ef73cf37ce,Thailand,TH,Khlong Luang,20+,True,14.1033948,100.6703459
+085b9bfd-b307-4a94-bc4a-1995a95da55c,Russia,RU,Vydreno,1 to 4,True,,
+36dcb7bc-62ea-4aa6-b93a-08409ccb3770,Argentina,AR,Tandil,15 to 19,False,-37.3282887,-59.1356957
+8bb6ae24-9851-400a-904b-22148edc4518,Brazil,BR,Garça,20+,True,-22.2125766,-49.6547994
+7702461a-0b13-4dc2-99f3-72eab26ff0b9,Philippines,PH,Kiamba,20+,False,5.9879555,124.6241575
+5cd3364c-6c43-4727-9f17-4d3f069f1f00,Philippines,PH,Basco,20+,False,40.3278229,-91.2001437
+b38d1862-8ef2-4572-b957-fb5b71c6625c,Burkina Faso,BF,Kokologo,10 to 14,False,12.1934191,-1.8752254
+5807ac6c-a6b7-43e4-b476-9abed6b90935,Russia,RU,Privodino,1 to 4,True,61.0783913,46.4988598
+7e4f5a9e-74f3-4c6c-8e85-6a2051c0277f,Philippines,PH,Kalilangan,5 to 9,False,7.7465169,124.7476141
+3402ce28-e11c-4c34-87e9-195da3336de4,Philippines,PH,Liboro,10 to 14,False,13.8329543,122.734265
+92bbc836-379a-484f-b939-b318c1a8bfa8,Brazil,BR,Vilhena,15 to 19,True,-12.7368536,-60.1465555
+405f89d5-1df7-4030-9852-13a04f7a1fa3,Philippines,PH,Jaguimitan,15 to 19,True,11.1345371,122.6778785
+65ddb6eb-4be9-4b32-9e05-5836d8e54b9b,Laos,LA,Khoa,1 to 4,True,21.0550433,102.3987625
+a2b3ecbd-c5bc-4117-a6ef-e7291767ff01,Mozambique,MZ,Lichinga,5 to 9,True,-13.2999118,35.2458642
+21b9d983-e494-4ee7-bb23-321a91867f35,Russia,RU,Tetyushi,5 to 9,True,54.9342754,48.8319574
+c7c1d1d1-22c7-4e7a-9606-ceee4d84baeb,Philippines,PH,Aborlan,15 to 19,False,9.4371009,118.5484168
+0aa7010a-d1ea-4a36-b2c2-53d1ac700db0,Indonesia,ID,Salam,20+,False,29.2970331,48.0143201
+6a908bb8-2cfd-4214-95ee-d25e95d022ae,Brazil,BR,Iperó,15 to 19,True,-23.3508977,-47.687611
+8fb559e0-6f47-4754-a633-603b786213de,Pakistan,PK,Dālbandīn,5 to 9,True,28.8963483,64.4097124
+154fc7eb-39cd-4c72-9b8c-c51ae811759d,Indonesia,ID,Kuafeu,20+,True,-9.383,124.3719
+6277b0ca-4f2a-4858-b387-7a23f7dfd72a,Argentina,AR,Villa Carlos Paz,10 to 14,True,-31.4183774,-64.4936985
+8796f3b4-3e38-45ad-88ee-87fbd50076c1,Mexico,MX,Tierra y Libertad,10 to 14,False,25.4001155,-108.6113123
+4b82342e-9ba9-4e29-ab42-e7d6deb9bb11,Indonesia,ID,Cibeureum,1 to 4,False,-7.0602841,108.7348724
+7d9f5b95-063b-45c1-b0e2-135ae0e59789,Peru,PE,Succha,15 to 19,True,-9.8232707,-77.6500961
+862a978d-c3ed-4fbe-b4b5-d5bc243b9b00,Indonesia,ID,Cidadap,1 to 4,False,-6.8627967,107.6093559
+7a608727-4a47-4f8e-b93b-3e77a9bf4719,Russia,RU,Roza,1 to 4,False,42.3964799,26.4110299
+b903b857-62cc-4567-b3b9-0027104d0e59,Russia,RU,Skovorodino,15 to 19,True,53.9862567,123.9373454
+a921818f-f57b-470c-8b29-138eb6458102,Brazil,BR,Itajaí,10 to 14,True,-26.9046787,-48.6552979
+e5eda8fb-15f4-4f35-8231-46f8891f2d55,Russia,RU,Petrozavodsk,20+,True,61.7900426,34.390007
+a4b0ae5c-c810-420f-86a8-6b6f532cb9a3,Philippines,PH,Maonon,20+,False,13.042097,123.3718123
+1a3d4be6-a789-4e33-a53c-46823731dce7,Philippines,PH,Pitogo,10 to 14,False,13.783235,122.08779
+1327f3a4-a927-4537-8d50-63500aa80cac,Philippines,PH,Compostela,10 to 14,False,42.8804219,-8.5458608
+cefd6467-2547-4877-9ded-c2355e238c4f,Indonesia,ID,Manokwari,10 to 14,False,-0.8614456,134.0767324
+6acbe3a0-c062-4b13-8255-e67f5dc14f98,El Salvador,SV,Berlín,15 to 19,True,52.510885,13.3989367
+a4f8a1b0-0dc7-43d1-a6b0-c02ed4ba9b74,Peru,PE,Curahuasi,10 to 14,False,-13.5422644,-72.695902
+ce8a805b-0860-4b6b-89a3-807427814f2a,Peru,PE,Tomas,5 to 9,False,38.2848165,36.1677861
+a6481339-c9df-44e5-8c8e-644b513341b7,Russia,RU,Sosnovo-Ozerskoye,5 to 9,False,52.528614,111.538063
+e14e66ff-02d9-4104-b64e-9e2fdf073c80,Indonesia,ID,Kulonkali,1 to 4,True,-8.202159,112.78883
+ae66e7fb-cf68-4f14-9bcc-28c61de6942e,Vietnam,VN,Thị Trấn Sìn Hồ,5 to 9,False,22.359508,103.2507327
+d6f0a034-b230-471b-ae51-d70a6d3bb1ab,Afghanistan,AF,Khānaqāh,5 to 9,False,36.783951,66.128518
+dd758002-d4a2-4729-811d-2abd830c36a0,Madagascar,MG,Ambositra,5 to 9,True,-20.5328149,47.2450521
+cf159607-b0ff-433b-84fd-accec5ffcfa3,Brazil,BR,Oeiras,20+,True,38.6925777,-9.3123076
+f484c1f5-44c4-41b7-a99f-d1e26961770d,Paraguay,PY,Santa Rita,1 to 4,True,-7.128465,-34.9846186
+64abfa5f-ca82-42e9-a62b-51d765d9cb3f,Philippines,PH,Ampatuan,20+,False,6.8321846,124.4571005
+85001406-4ef9-40a4-a8dc-9dc7aa7c58e1,Philippines,PH,San Vicente,15 to 19,True,6.2826869,-75.3317647
+fc04cbad-25cc-4d45-97ba-28917041434a,Brazil,BR,Canela,1 to 4,True,-29.3636094,-50.8096844
+89afa843-0148-4dfc-b829-315066820a17,Thailand,TH,Ranot,20+,False,7.7779926,100.3206609
+6955ad28-49a9-4f52-9c0f-2f3dd05bb9fc,Philippines,PH,Balas,5 to 9,True,36.6537709,50.7597989
+7011cf1c-6bfe-4634-8bec-cd0a1b27dc7b,Argentina,AR,Gobernador Ingeniero Valentín Virasoro,1 to 4,True,-28.0529003,-56.0183999
+51643d01-98c7-4e1e-a29d-b911f653fb27,Indonesia,ID,Pulosari,20+,False,-6.3416586,105.9783375
+5c6b323a-1fc5-47e9-9a5d-ea30f0ed6866,Vietnam,VN,Sơn Tây,5 to 9,True,21.1386671,105.5056335
+c1b7665e-5cbb-402a-ad7c-bee05838ad5c,Thailand,TH,Koh Tao,5 to 9,False,10.0921822,99.8395362
+00bfb393-56bd-4d53-8024-217ecda6cec8,Russia,RU,Staropavlovskaya,20+,False,,
+f4b45d06-7ea1-4dbf-a5ee-ce78448aacac,Russia,RU,Krasnyy Oktyabr’,15 to 19,True,51.5421,45.7082
+24d133a5-455e-4195-ac5e-84d95442cf7c,Gambia,GM,Jifarong,1 to 4,False,,
+5f24dfe3-5054-45d1-a0aa-fb82a51f3ae6,Peru,PE,Huanoquite,10 to 14,False,-13.6816043,-72.0174185
+926d4d51-d610-481f-90dd-6c43339c2ce5,Laos,LA,Thakhèk,20+,False,17.3827833,104.9072514
+b577e879-a1d2-493b-aff1-61de1547c327,Honduras,HN,Corpus,5 to 9,False,52.2031436,0.1182553
+53af3661-4248-40bf-9218-f77cc65b78d8,Brazil,BR,Santa Cruz do Rio Pardo,1 to 4,False,-22.9060715,-49.6277378
+2a7705fc-08c6-490b-97c8-f484cc9802dd,Burundi,BI,Bururi,5 to 9,True,-3.8581592,29.584379
+e4538d8f-a078-4b81-84fd-b29c3df31227,Russia,RU,Seymchan,5 to 9,False,62.9317742,152.3932993
+cd5e4afd-9452-4f40-b515-0fd774b80bb4,Philippines,PH,Mapaniqui,15 to 19,False,15.1051621,120.9218949
+4689afd0-f882-449f-b688-d71fdaec49e5,Vietnam,VN,Yên Lạc,10 to 14,False,21.2190517,105.5794739
+940adf4b-8873-43d0-9160-11148dcc4dd5,Brazil,BR,Manhuaçu,15 to 19,False,-20.2574434,-42.0340769
+965b2844-19f2-4a8b-83fb-d2b677d30653,Indonesia,ID,Tais,5 to 9,False,14.8971921,100.83273
+4cf302fb-ef95-4ff5-bedc-306dc0eb512f,Indonesia,ID,Lokea,15 to 19,False,-8.3412952,122.98527
+d2f28c70-7049-4ab9-8f20-7728ca5ecac1,Russia,RU,Burmakino,1 to 4,False,57.4342,40.31395
+0b4441c4-cd77-4577-9c85-5e18c7ba0c6c,Indonesia,ID,Plaju,1 to 4,True,3.8191553,117.3967215
+5fa54fc9-d506-4fcd-acd2-1fb7e2bd42a7,Indonesia,ID,Kedungbanteng Krajan,20+,True,,
+1a94ceb3-22d4-4a42-ba2a-8869ade0e450,Honduras,HN,"Las Vegas, Santa Barbara",20+,True,14.873272,-88.0408705
+7f052b13-936a-47f3-b313-efc0f675d33a,Indonesia,ID,Biito,20+,True,-22.5170349,-44.001271
+135b3b79-9233-4431-9ece-df0346847a79,Russia,RU,Ubinskoye,1 to 4,True,55.306721,79.679375
+9c0f36a1-707d-4bf3-aff1-2aa76f9a567b,Indonesia,ID,Sidomulyo,15 to 19,False,3.4744271,98.6865034
+23e7e30d-4f5d-41fe-b566-04098c1c5ec6,Mexico,MX,Primero de Mayo,1 to 4,False,-32.2555047,-58.4231595
+c7f21e7b-8601-46ff-ba95-0d55d201fd2c,Russia,RU,Maloyaroslavets,1 to 4,True,55.012181,36.4590246
+3235810b-9ae8-4e53-bfdd-529a1e52f966,Brazil,BR,Mogi Guaçu,20+,True,-22.372222,-46.9425
+21c8b749-b936-46b3-a423-d4a64ac139de,Mexico,MX,Guadalupe,5 to 9,True,16.2528827,-61.5686855
+3c87e970-5b9d-459e-9f4a-c9e1b37b6131,Thailand,TH,Nakhon Chai Si,10 to 14,False,13.8061763,100.176047
+2fa3f6e2-d72b-49e5-8a61-bd091a7dbde2,Indonesia,ID,Paritjunus,5 to 9,False,,
+326a7a1c-d2a2-4990-ba1f-9e81a9b7fc7f,Indonesia,ID,Aelande,10 to 14,False,,
+5e3f278f-6d3a-4da7-b2b2-2d0c338946ba,Russia,RU,Nizhniy Lomov,10 to 14,True,53.529991,43.673626
+ea9deb2a-d71a-4134-828a-257ad0ee3852,Philippines,PH,Rosario,5 to 9,True,-32.9593609,-60.6617024
+83e80f81-5b32-486f-8f65-43dafb040698,Russia,RU,Trubchevsk,10 to 14,False,52.5835,33.767467
+4e2bbdc1-ffc5-4b5f-93ef-b5250f1daca3,Indonesia,ID,Tolitoli,5 to 9,True,0.9702508,120.880323
+96d1af1b-6d9e-4f5f-ac7c-0ad20f2e201e,Vietnam,VN,Bình Thủy,5 to 9,False,10.0663892,105.7543944
+5dc34fab-cd59-4c88-b19f-eb4212986daf,Indonesia,ID,Bantu,1 to 4,True,24.1892,106.082
+474cf3dc-abf7-4a97-9177-fa39eca7be44,Nigeria,NG,Abeokuta,5 to 9,True,7.161,3.348
+3ff76223-3da9-4eda-b7e5-1e56f7f3f642,Indonesia,ID,Bagorejo,20+,True,-8.305776,113.4355418
+d314b684-2314-4339-87f7-1c5183a51969,Indonesia,ID,Tugu,1 to 4,True,8.7800265,1.0199765
+30769e11-5a90-4692-93f7-bb062f2470f9,Indonesia,ID,Kandangsapi,10 to 14,False,-7.6485081,112.9109186
+aa0ac556-3696-4392-a037-a0439c67a20a,Philippines,PH,San Roque,1 to 4,False,36.2100586,-5.3868293
+fb844d3d-ac0b-41d6-b903-cd27f84ec1ee,Sri Lanka,LK,Kotikawatta,20+,False,6.9360244,79.9165498
+5b27f657-c877-416e-8add-2fa24d59206f,Sierra Leone,SL,Bumpe,10 to 14,True,7.891353,-11.904536
+f4642720-1fd4-4d8d-852e-96771cf1f0ee,Dominican Republic,DO,Santo Domingo Oeste,1 to 4,True,18.4628148,-69.9919407
+4967d426-8326-4756-a16c-7c867b7fecda,Indonesia,ID,Tutut,1 to 4,True,4.6990211,96.2065481
+9642cae6-fc39-44ca-b4e4-64be5da5d153,Russia,RU,Novopavlovsk,10 to 14,True,43.961891,43.6311
+462a9d0e-9acb-40eb-8982-8906ac3bb469,Russia,RU,Bershet’,20+,False,,
+3d92a5a9-b4a4-4cd7-920f-2d9e9732b1bb,Indonesia,ID,Sukacai Tengah,5 to 9,False,,
+f9671999-0ad8-4994-8b6a-ebe71e2378c5,Russia,RU,Tabuny,20+,False,52.7747185,78.7904097
+848a686a-3a7c-481f-9467-de14d8f711b6,Philippines,PH,Nanyo,15 to 19,False,38.055081,140.1481134
+630ed997-3685-4dbf-972a-a8ab30c75afa,Brazil,BR,Igaraçu do Tietê,10 to 14,True,-22.5165369,-48.5582558
+a9a5f304-9535-4635-967c-c164fe5861e4,Philippines,PH,San Fernando,5 to 9,False,36.4646672,-6.1983492
+0626f046-b970-4286-8cf4-ccd6aff8b7b2,Indonesia,ID,Alukama,20+,False,,
+0b6b3ac1-3536-4961-94a1-7f9b9a9b0df3,Russia,RU,Nyandoma,10 to 14,True,61.6612985,40.1970404
+836784e1-d5ae-4d87-84d9-c7a993ee3637,Brazil,BR,Buerarema,1 to 4,True,-14.9584826,-39.3010861
+fe2291d3-fe3e-429a-9b3f-674a26248491,Russia,RU,Gornorechenskiy,15 to 19,True,,
+167bab3a-8c4e-4fda-ad84-2b6925cae2a2,Rwanda,RW,Gikongoro,10 to 14,True,-1.6283477,29.6793411
+47040194-9702-47b9-8773-877efe7c5e0c,Brazil,BR,Poções,1 to 4,False,-14.5274879,-40.3665326
+2884e5a3-fa78-476c-88cc-679541e8fc25,Indonesia,ID,Sipirok,15 to 19,False,1.6016272,99.27389
+97629f94-6ef0-4960-83b9-2dbbde64df2f,Armenia,AM,Lanjaghbyur,20+,False,40.2724371,45.1382962
+ef588167-dd0b-46b2-935a-52d0aa68fc71,Indonesia,ID,Tlogosari,10 to 14,False,-8.2794379,112.4735974
+83e29673-2024-4ed2-bee9-09b222ac20f4,Mexico,MX,Ejidal,5 to 9,False,20.0699722,-97.0430863
+03c7145f-a481-4a26-8630-33b5690fead6,Indonesia,ID,Koronganayam,5 to 9,False,,
+6be474be-d78b-4df6-a9b3-b1b5f1a59144,Thailand,TH,Kut Chap,15 to 19,True,17.4196097,102.5661535
+43d7b2ee-e323-47f9-b329-77f4bac07d3d,Russia,RU,Shubenka,10 to 14,False,,
+3ac2d1c3-6e3c-484b-9726-d85478f7bd82,Niger,NE,Tchintabaraden,1 to 4,False,15.9609623,5.6698299
+73fafde7-4096-4fa0-ade1-12a1424fc8df,Brazil,BR,São Sepé,15 to 19,True,-30.167219,-53.5690914
+32e6cca7-d8a3-4a5f-b5f9-659a91656160,Brazil,BR,Corupá,15 to 19,True,-26.4267153,-49.24747
+3fd1eb54-7d22-424b-89e6-d831d9d9aa97,Philippines,PH,Janagdong,10 to 14,True,13.8942414,121.5066026
+f162408b-d7d9-4936-92fc-f8250741205a,Indonesia,ID,Rancabuaya,20+,True,-6.3179973,106.5094179
+7c625652-9a66-41b4-a966-9a59d54943e7,Peru,PE,Palca,10 to 14,True,-16.5611164,-67.9530221
+600e4a2e-4135-474d-9039-1d2ea32ffacd,Brazil,BR,Oeiras,1 to 4,False,38.6925777,-9.3123076
+9f1c1505-bab9-4ca3-9354-cc81a519f710,Philippines,PH,Liliongan,20+,True,7.362646,124.7912617
+49e6d997-a927-4887-bdc3-4746b6dab0c1,Indonesia,ID,Bacem,5 to 9,True,-8.1976478,112.2347931
+14438bab-f2ca-4484-8126-a7c407c61262,Brazil,BR,Pontes e Lacerda,5 to 9,True,-15.2315171,-59.3349512
+d3aa661d-33b3-4052-9306-25da216a0b3d,Brazil,BR,Piracaia,15 to 19,False,-23.052545,-46.359374
+54ed09f1-d219-4ff2-9c45-cd0356d68716,Indonesia,ID,Cimuncang,10 to 14,True,-6.112563,106.1656093
+20737f35-6194-4097-a13e-32538b9afd37,Mexico,MX,El Zapote,5 to 9,False,20.0947132,-98.9440977
+14216b42-197d-431b-b7a3-88709e2297a9,Russia,RU,Antipino,20+,True,54.9689749,37.8329139
+41d41e35-c4e5-4e47-a996-e8b8fa837d4b,Argentina,AR,Embarcación,5 to 9,True,-23.2101359,-64.0973737
+e42d6780-16aa-4d20-b44f-69bd6bae3873,Pakistan,PK,Kandhkot,20+,True,28.2449018,69.1814167
+5013cfd5-5252-4065-9d00-a10173dd4bb9,Russia,RU,Naushki,10 to 14,False,50.392094,106.10614
+4f5ce771-4b04-49b7-a29d-e63925d470f1,Tanzania,TZ,Mtambile,20+,True,-5.3763219,39.6975356
+f2fd4fcb-f3cb-4cd6-9c44-4c3a1582339e,Russia,RU,Egvekinot,5 to 9,False,66.3227382,-179.120131
+1e82f2f3-e049-4d49-a70d-7a4f691b55d6,Guatemala,GT,Concepción,10 to 14,False,-36.8270698,-73.0502064
+2a6f3c47-2fcb-4cf4-9d39-0acbd32eb4b9,Philippines,PH,Manuel Roxas,1 to 4,True,6.6778111,126.0930898
+c73f6dcc-f205-4a16-9f6a-09892d241e99,Armenia,AM,Ashtarak,10 to 14,False,40.2886849,44.3613061
+8af76164-25ac-4048-99b4-01b485c53a30,Bangladesh,BD,Panchagarh,10 to 14,False,26.3209446,88.5471139
+58f95ac5-8544-47de-a8ca-41c70883a384,Indonesia,ID,Masaran,15 to 19,False,-7.4682036,110.9476546
+92781b57-cf32-4336-afcc-01cb9357393f,Indonesia,ID,Feondari,20+,False,-8.667075,122.0324916
+7c64f43e-703b-4131-b137-b46b64e5c06c,Indonesia,ID,Kranggan,10 to 14,True,-7.4779477,112.4396976
+0d92fbef-9fe4-4409-b153-a83029bbd852,Philippines,PH,Murcia,5 to 9,True,37.9923795,-1.1305431
+8efcb48e-dcd0-4eae-aaa1-1367d67d7681,Nigeria,NG,Gakem,15 to 19,False,6.7639958,8.9861795
+51a56b34-061e-41af-a7da-f4661e3ce78c,South Africa,ZA,Standerton,10 to 14,False,-26.9433333,29.2436111
+9ab8bb4a-90fa-4d99-b36f-49c91c8ec1b8,Brazil,BR,São Luís,1 to 4,False,-2.5295265,-44.2963942
+c4d9b445-1a3b-4154-b56a-574ad7d512e1,Indonesia,ID,Broto,15 to 19,False,42.6033008,-0.1218449
+88f0d0ea-e3fe-42bc-93c6-0fd7059dd289,Bolivia,BO,Eucaliptus,5 to 9,False,-17.5959156,-67.5092003
+aefc51e8-fb95-46e7-9b55-55cbfa3922fb,Indonesia,ID,Bator,5 to 9,True,-6.8990097,112.9035447
+02374a7b-6bbe-45bb-b952-bd03d8122991,Vietnam,VN,Thành Phố Bà Rịa,20+,False,10.4962696,107.1688433
+e76b96b4-3388-44d5-85c0-fb5983357e27,Brazil,BR,Encruzilhada do Sul,1 to 4,False,-30.5433066,-52.5223514
+4066df9f-55ac-4383-96fa-1e14e582729f,Philippines,PH,La Roxas,15 to 19,True,7.8555222,124.8795087
+ce7fa88d-6a0c-4d7f-aae4-4d15c6035c27,Indonesia,ID,Terong,20+,False,4.7094088,100.7198151
+c400c4ae-9d73-45f2-b468-c4648a634ed6,Philippines,PH,Hagonoy,20+,False,14.8355035,120.7335206
+2628b180-15eb-427e-a776-a0d2b35df6f0,Brazil,BR,Diamantina,20+,True,-18.2440862,-43.6006487
+b0942d50-5809-480a-804c-90cb941e9033,Yemen,YE,Ash Sharyah,5 to 9,False,14.29921,45.085259
+3502c7a0-ed08-4d4e-ad2b-5c39ae9c48a3,Vietnam,VN,Si Ma Cai,20+,True,22.6622942,104.2728135
+17e9c493-2f6e-4b73-8b45-ef62420c8cfd,South Africa,ZA,Taung,10 to 14,True,-27.55326,24.766269
+8b1ea184-9a6d-451c-b085-a0d70a8ff5b2,Philippines,PH,Iguig,1 to 4,True,17.7501663,121.7353806
+47b0329a-ee2d-4956-8fd6-83273ba0c799,Russia,RU,Mozdok,1 to 4,True,43.735584,44.653614
+6bb92996-d345-48cb-b584-a91d8a0dce0e,Indonesia,ID,Grugul,10 to 14,False,,
+657595b1-1106-42cc-a8b6-75057db2a12a,Peru,PE,Chicama,15 to 19,True,-7.843424,-79.1451857
+b472df79-3eff-4d5a-94f0-19ac85190ab3,Indonesia,ID,Kuanheum,5 to 9,True,-10.1629742,123.8492577
+5274dfa6-1f12-44bb-a77f-66d256e6d083,Mexico,MX,San Cristobal,5 to 9,False,7.7756663,-72.2214154
+cd09b002-1f00-47c7-91e9-d3de01301919,Indonesia,ID,Ketawang,10 to 14,True,-8.1406324,112.6431366
+c500717f-c4ca-484e-90f4-fae647934f88,Brazil,BR,Penha,15 to 19,False,-26.775418,-48.6465251
+5693da88-09b5-4f31-b023-d50abaaa9d48,Russia,RU,Strizhi,1 to 4,False,,
+66a5c87d-2c35-43fa-b61a-17816e7ad957,Peru,PE,Zapatero,10 to 14,False,-6.5299906,-76.4942679
+7172308e-d1a0-4cdc-966b-e1ae89791fcd,Madagascar,MG,Ankazondandy,10 to 14,False,-18.6996663,47.7940276
+952bc386-11db-4667-8569-5a4863058148,Indonesia,ID,Jubung,15 to 19,False,-8.1955594,113.6368504
+caecb15a-80f3-4680-88c0-1eb0505d3d13,Mauritania,MR,Kaédi,1 to 4,False,16.1523684,-13.5039868
+3e9be923-fa0d-4b9c-ac1f-247a6a01dd10,Thailand,TH,Bang Phlat,1 to 4,True,13.7906938,100.5036137
+3146c290-3a09-44fe-9e45-3588e4a98770,Indonesia,ID,Nusajaya,1 to 4,True,-6.199005,106.6170842
+79c5eed6-ffba-4eb4-b23e-874b8b9ee7e7,Russia,RU,Kimry,15 to 19,True,56.8734395,37.3556968
+baa2ffae-9b5e-4e8c-885f-3075f03a737a,Syria,SY,Darkūsh,20+,False,35.9919311,36.3938433
+fc733933-42c5-40ef-ab30-cf6a8232b8be,Indonesia,ID,Mandeman Daya,15 to 19,False,,
+d3ae9a1f-5469-43ac-b24c-cadae0a371f3,Philippines,PH,Kotkot,5 to 9,True,-4.8805344,143.3151946
+5fc150c3-ec1f-4310-bfb2-628548e5fdce,Vietnam,VN,Thị Trấn Quán Lào,10 to 14,True,19.930833,105.609603
+42ff100d-ee81-4cc3-9185-27a6447f9cdb,Guinea,GN,Youkounkoun,15 to 19,True,12.534834,-13.121289
+16766400-c9ef-478b-a41a-d1da95a664fc,Brazil,BR,Tupaciguara,10 to 14,True,-18.5932122,-48.6999014
+c73eaf59-b0c5-459a-8806-fa8fde882d68,Morocco,MA,Teroual,15 to 19,True,34.674777,-5.271722
+3b673de1-26bb-4fa6-a182-edcde11613b7,El Salvador,SV,Ozatlán,20+,False,13.3838439,-88.5054341
+c1f41f1e-0f08-4ca7-a61f-67f9c943d07a,Argentina,AR,Avellaneda,1 to 4,True,-34.6648394,-58.3628061
+0e272073-92e6-4b3f-8f49-8f9e37c00f05,Indonesia,ID,Weetobula,5 to 9,True,,
+fcbc9b31-0772-4477-a3a1-60ab16a6d7b8,Honduras,HN,Valle de Ángeles,15 to 19,False,14.1638525,-87.008648
+3d96d899-77eb-41de-95a9-3a59c2a92bec,Philippines,PH,Mungo,5 to 9,False,-11.8373101,16.2209165
+8fccf818-cd22-4504-98b3-ee8d143fda77,Russia,RU,Urukh,15 to 19,True,43.3031609,44.0347174
+6518b90d-cc97-4d5f-9baf-36c7882ac0bb,Thailand,TH,Roi Et,20+,True,15.7486448,103.7013017
+c4476714-5a9a-4b48-a22c-f90dc72a0128,Russia,RU,Nizhnyaya Tavda,5 to 9,True,57.665195,66.172325
+1ef1663a-7eda-4b56-b42e-5e587df56fdb,Russia,RU,Sloboda,10 to 14,True,48.2772137,26.2026912
+7d8146ab-4948-4dde-993f-4714e911b5a5,Honduras,HN,Travesía,20+,False,15.8647718,-87.8976027
+fc171342-6e63-44d5-a0c7-175f254ffbad,South Africa,ZA,Villiers,10 to 14,True,46.8887119,1.1846996
+93b998de-3e39-45ed-9960-42fb48889da3,Indonesia,ID,Rungkang,15 to 19,True,-7.43622,108.8520031
+081d6684-9d7e-4c84-b25d-7d8fa79769d0,Russia,RU,Rybinsk,15 to 19,True,58.050373,38.834637
+3ab7951c-ebff-49b7-8ccb-171b139f937d,Russia,RU,Zavitinsk,5 to 9,False,50.111154,129.4402341
+db2aa504-43a7-466a-847a-ef91bda54e1e,Armenia,AM,Dvin,15 to 19,False,40.0037699,44.5763043
+221c3a9f-632f-45ff-ab6b-924ef151e25c,Indonesia,ID,Demuk,1 to 4,True,-8.1869134,112.0085502
+dc483a26-9bbc-4684-80c5-ae1f81e54dee,Indonesia,ID,Nahura,15 to 19,True,,
+b9c2321a-4b15-4566-8afe-7f041872ef29,Brazil,BR,Padre Paraíso,1 to 4,True,-17.0750322,-41.4850334
+a752d506-a5fe-4f76-adec-6d4273f4a979,Honduras,HN,Azacualpa,20+,False,13.989757,-88.9840994
+f83141c6-46f9-44f0-a1e8-d6578f265b0c,Pakistan,PK,Naudero,15 to 19,False,27.6647173,68.3600339
+9f910aa1-4c76-491d-bc81-601f37b349fa,Russia,RU,Yumaguzino,15 to 19,False,,
+c11da05a-514f-4219-96b0-a900b7c5430d,Yemen,YE,Al Ḩarf,1 to 4,False,16.3636166,44.095479
+280ce031-1c04-4d53-860f-94cbf34d88d2,Peru,PE,Bambas,20+,False,-8.6023811,-77.9956254
+84f78250-8d6b-4967-af7d-07f752b42ff6,Russia,RU,Buynaksk,20+,False,42.8260906,47.1219624
+0cb096ca-fcf2-4220-b27b-43e99e4f8fc9,Philippines,PH,Sapadun,5 to 9,True,,
+5e801c00-2173-4f59-b97b-251b99529adb,Dominican Republic,DO,Piedra Blanca,15 to 19,True,18.8429606,-70.3152461
+a75358db-26ec-4701-a0cd-ff5d316d6d0c,Honduras,HN,Orocuina,15 to 19,True,13.4869658,-87.1235329
+7357a669-464e-4c11-ab4d-9aa7c13700fc,Indonesia,ID,Plandi,1 to 4,True,-8.1106724,112.5126698
+97059323-e0b1-458b-aadc-b60336f48beb,Brazil,BR,Brodósqui,1 to 4,False,-19.807671,-43.9877871
+730cc3d4-f3c0-473b-9470-6c7ec249a2c6,Thailand,TH,Lam Plai Mat,10 to 14,False,15.0243558,102.8317066
+31c33714-7b5e-41b7-80a4-39413270237a,Indonesia,ID,Kawengan,10 to 14,False,-7.0715499,111.680967
+ba8bf18a-a252-485e-b197-ea07042882d4,Myanmar,MM,Bago,15 to 19,True,18.2457067,96.1004931
+c5129460-a0da-4f0f-a6d0-65377b830bf6,Philippines,PH,Nangka,15 to 19,True,3.6155402,98.5033195
+93589040-d6e1-465b-9bec-0ad46db2dddf,Honduras,HN,Minas de Oro,15 to 19,True,14.8967144,-87.4636225
+b10cbc58-57b6-4de8-b383-b396c2788924,Guatemala,GT,Santa Ana Huista,20+,False,15.6814012,-91.8204327
+bd7bfeb7-c550-4bf1-a83b-5e528626d88c,Indonesia,ID,Malati,1 to 4,False,13.5904485,75.1761319
+19b070cf-23b5-435d-a832-2c631a81a742,Haiti,HT,Belle-Anse,1 to 4,False,18.2383019,-72.0661883
+eb0ec745-5403-4db7-a0dd-7f4da3ff052d,Belize,BZ,Belize City,5 to 9,True,17.5002768,-88.1988737
+bcf1813c-832a-4947-873e-21f65d553821,Russia,RU,Kamensk-Ural’skiy,20+,True,,
+d82bd12c-4d27-4dec-9887-95f912385e63,Indonesia,ID,Nenotes,20+,True,-9.8473551,124.6096854
+5d330878-2a18-40db-a450-35061afcdd4a,Mexico,MX,Emiliano Zapata,5 to 9,True,19.4569696,-96.7912766
+64779939-c156-4a2c-9303-216f7b02fcd2,Russia,RU,Bol’shoy Kamen’,20+,True,,
+d6b2ac8e-35ee-442d-a457-a5a93d9ca471,Russia,RU,Sokol’niki,20+,True,54.070198,38.48328
+6eece8d5-8c1f-4339-87f7-526f9494111f,Indonesia,ID,Banjar Kawan,5 to 9,False,-8.4535583,115.3528958
+c551d600-93b3-4795-99e6-894277c6343d,Indonesia,ID,Cisoka,1 to 4,False,-6.2575274,106.4118031
+311fe5b7-9bfa-4722-9b6a-f94a6cb6210a,Thailand,TH,Phichit,20+,False,16.4428085,100.3438228
+38924cd4-75c4-4736-9798-6a1991e46784,Indonesia,ID,Kekeran,20+,False,-8.2684019,114.9713291
+b8192948-8f19-4c77-95ee-f854d08d1bd5,Russia,RU,Sosnovka,1 to 4,True,56.2573802,51.2842677
+4683ee55-223a-47d1-afc9-e60968c4ff82,Thailand,TH,Phra Phutthabat,1 to 4,False,14.7249566,100.792102
+c5eb9d53-93b2-4844-9de1-4620e7df5701,Pakistan,PK,Thul,15 to 19,True,28.2365315,68.7761587
+a17f3ea7-f6ca-47f1-a8d4-27a8f08b01bb,Indonesia,ID,Puncaksari,15 to 19,False,-6.9954462,107.3952231
+4cb4e387-66d5-4949-8365-00f1f5bdf8c7,Philippines,PH,Aranas Sur,5 to 9,True,-33.8474711,-71.371742
+da35a16c-5fbb-45a5-a8d1-317c8348cfd8,Indonesia,ID,Sukowono,1 to 4,False,-8.0582832,113.8292248
+03febba2-4d66-48be-93a6-9cfb026c9a44,Brazil,BR,Pedra Azul,10 to 14,True,-16.005556,-41.28
+f5ab516b-ec3f-4b6b-959f-b7a530a9b5c6,Indonesia,ID,Ngadipuro,5 to 9,True,-7.099647,112.1584895
+191a61a5-350b-472c-8faa-f043a328e831,Russia,RU,Shaami-Yurt,20+,False,,
+d9d7cc9d-a97c-4cbe-a892-06fa5e26c782,Philippines,PH,Liboran,5 to 9,False,8.354532,124.6460724
+5d8494c3-b834-4d69-a4b8-073cff3d8752,Peru,PE,Sojo,1 to 4,False,43.0869984,-3.1286895
+e9dc2fac-0363-4ecc-a082-85601b2c3338,Philippines,PH,Suay,10 to 14,True,10.0535208,122.8428478
+ac82224a-1054-42d8-9b9b-8e3476153350,Nigeria,NG,Mutum Biyu,5 to 9,True,8.6409771,10.7750558
+16057059-f8c8-43f5-bdff-40c187ae6f4b,Indonesia,ID,Babakankalong,5 to 9,False,,
+6a171592-a2f0-436e-9d5c-e448ebf0b7ff,Vietnam,VN,Trà Ôn,5 to 9,False,9.965542,105.9223145
+11c3aa74-6fb1-4440-a318-b0ad2ffa74c9,Indonesia,ID,Sumbergayam,5 to 9,False,-8.1088275,111.8186069
+b8d8ab55-d012-4dad-a651-b263c7ccd067,Paraguay,PY,Pedro Juan Caballero,15 to 19,False,-22.5497781,-55.7384312
+a1d43acb-bb73-4a02-b6af-e68aafd6e48b,Argentina,AR,Huanchillas,10 to 14,False,-33.6669878,-63.6363638
+2584ad67-0e88-4209-9ab2-62c41f2ae51f,Thailand,TH,Lat Yao,1 to 4,False,13.8433615,100.5594599
+97419691-ad25-481a-b616-d7e4fb6f5577,Russia,RU,Is,20+,False,64.9841821,-18.1059013
+41cb8080-5521-4c50-9f30-3b9430e9eb93,Afghanistan,AF,Dehī,20+,True,35.951851,67.2694749
+9b520813-1872-485e-9614-5d96cda5c4f2,Russia,RU,Murmansk,15 to 19,True,68.970665,33.07497
+0c0be43e-7575-4fc8-866a-2c9b9d6d1f6a,Indonesia,ID,Cijeungjing Kaler,10 to 14,False,-7.3444998,108.4952241
+d53ee758-03e8-45c2-a476-950139465fe2,Senegal,SN,Nioro du Rip,20+,False,13.745571,-15.774751
+10e4cdf5-ce50-4f0c-89ba-231f3c457fd3,Paraguay,PY,Pilar,5 to 9,True,-34.4570918,-58.9141609
+1db28fae-0bca-42e5-a4d2-af8241263aa6,Philippines,PH,Calanogas,5 to 9,True,7.7335431,124.07895
+ade2c645-f1f6-4c9d-a319-3ef5379708ef,Russia,RU,Lebedyan’,1 to 4,False,53.0126146,39.127593
+c8811236-1e54-4077-8b4d-af79af057df1,Brazil,BR,Itambé,5 to 9,False,-15.2435245,-40.6269506
+b3eac094-a704-4faf-a190-e7407d77b9d3,Philippines,PH,Ilihan,20+,True,10.9512366,124.896865
+3e308175-31ef-4812-aa1d-0d61ef6cd828,Dominican Republic,DO,Majagual,1 to 4,True,8.5618708,-74.7294456
+3168df20-018b-449b-b1af-c6ef211efaee,Russia,RU,Khokhryaki,1 to 4,True,,
+20f59632-c452-4378-9494-c4b7c9fb3189,Russia,RU,Kineshma,1 to 4,False,57.4413104,42.1579627
+49f857f9-5541-46b4-8d6c-5a380bb2a14f,Russia,RU,Gal’bshtadt,1 to 4,False,,
+8c2aef62-e194-407e-8da5-66f498ee4c49,Indonesia,ID,Sidaharja,10 to 14,True,-7.4460408,112.7178614
+ca7e9f6a-5347-4976-a284-067db839ea64,Peru,PE,Chacapalpa,15 to 19,True,-11.716655,-75.8196008
+dd5a2921-c025-4a67-a398-35745dcc2f90,Russia,RU,Kaa-Khem,10 to 14,False,51.696541,94.563721
+559d9b74-2526-4041-a0db-c2bf5af04a40,Russia,RU,Pashiya,10 to 14,True,58.4324576,58.2554954
+8578c7db-751c-4872-84d7-ad949b2fcf6d,Thailand,TH,Pak Phli,5 to 9,True,14.1642055,101.263759
+e563486d-403a-45a2-b8e8-8814362cb28f,Russia,RU,Urazovo,5 to 9,False,50.0832161,38.0389717
+01398515-44ec-4fc9-9ca1-99f0b4cf209c,Russia,RU,Luchegorsk,1 to 4,False,46.4443195,134.3006729
+42645ef9-e227-454c-9fef-a8daa2e28033,Indonesia,ID,Klumpit,20+,False,-6.9720116,111.1157832
+828c75b0-f0af-40b1-9063-fd423eab9693,Philippines,PH,Bonga,5 to 9,True,7.2645383,36.2460526
+694ac618-c23f-46b5-92dc-cc2ca75e8cac,Russia,RU,Likhovskoy,15 to 19,False,48.156731,40.187199
+8f721cac-8d86-43ce-9be4-c3799ae14a86,Philippines,PH,Tungawan,10 to 14,False,7.6012214,122.421282
+0bfd4a2f-7f1d-4370-940b-7e1d7daa4334,Indonesia,ID,Sambogunung,1 to 4,False,-6.9867198,112.4981174
+b2f244cd-f40b-4187-be51-5d860d70d8c5,Peru,PE,Urasqui,5 to 9,False,-16.0302797,-73.1736728
+d42e4c19-112d-4ae5-a780-09198b1edb7b,Thailand,TH,Lue Amnat,10 to 14,False,15.6861215,104.6514144
+6448a8a3-9a1c-4e34-a4fa-1a6cd0d359bd,Nigeria,NG,Sofo-Birnin-Gwari,5 to 9,True,11.015374,6.780358
+8ad89e3c-77f3-426c-81c3-7f101ea9df92,Philippines,PH,Polo,20+,False,18.1208673,-71.3097242
+cb28be88-2456-4dbc-b858-22c9ab381d88,Cameroon,CM,Garoua Boulaï,1 to 4,True,5.8948457,14.5471591
+06dd488f-fb8f-4880-b50a-49f54600e117,Nepal,NP,Sirāhā,15 to 19,True,26.7416703,86.3494352
+4c031403-dae7-4aa2-a00c-c0555f1a9731,Togo,TG,Atakpamé,10 to 14,True,7.5320603,1.1219479
+252417c3-fbd5-4fb2-aa9b-67b9bd8f0959,Sudan,SD,Al Hilāliyya,10 to 14,True,33.8330194,35.6370184
+4b3f6722-ed74-4ff6-a6b3-224a8a04b682,Indonesia,ID,Labangka Satu,15 to 19,False,,
+f3a1e37e-a428-424f-89c9-8595035ef88f,Philippines,PH,Cassanayan,20+,True,,
+d5f51579-3d7c-4710-96e6-c18cb6ad4345,Philippines,PH,Mauhao,5 to 9,False,,
+a5ab0de7-0a55-4dcc-9db8-5e0941adefdc,Kenya,KE,Kilifi,10 to 14,True,-3.1507393,39.6750716
+6984c8eb-27df-4933-90a4-c64c1e065ed2,Indonesia,ID,Cibeureum,10 to 14,True,-7.0602841,108.7348724
+03e52e62-36f7-46b8-8c4b-fcfac36bba00,Somalia,SO,Marka,5 to 9,False,1.7148358,44.7699326
+cc0ce8b4-b7d4-472c-9ba5-5fbb3c4b8991,Peru,PE,Ocuviri,1 to 4,False,-15.1137211,-70.9090834
+243a99e6-d641-43f0-9bf8-52de6a07f3bb,Russia,RU,Berëzovka,5 to 9,False,47.2016391,30.908595
+57288bad-8a7e-4d82-a332-9f9f0287a66b,Russia,RU,Petrovskoye,20+,True,58.146729,42.185135
+5170efc7-0336-4f89-918f-184adaaad4bc,Myanmar,MM,Myingyan,15 to 19,False,21.4587531,95.3924129
+8f57ff40-d748-4a18-bdc7-a6fc6570a9f6,Indonesia,ID,Tembang,15 to 19,False,-0.646,122.7482
+b4b6ac6b-cc3f-4c84-895e-c483f72baa6b,Brazil,BR,Canoas,20+,False,-29.9216045,-51.1799525
+ed256c4a-227c-4d86-9dd5-785557919121,Brazil,BR,Campos Gerais,10 to 14,True,-21.2333342,-45.7584127
+77bdae1c-f90c-4982-8821-109d0c42699f,Nigeria,NG,Yuli,1 to 4,True,40.8045418,86.3711345
+2c8cca76-2d2f-4112-9bd8-f701c8575f28,Argentina,AR,Libertad,10 to 14,True,-34.7003704,-58.6834869
+e6ae275b-5733-45bc-87df-f220525b93b2,Thailand,TH,Non Sang,15 to 19,False,16.8686402,102.5691417
+f42c6d36-c7fa-4928-af2c-44f7d239de38,Myanmar,MM,Bogale,1 to 4,False,16.2905973,95.3968502
+3b23d7d1-e94d-4b5d-a9b4-6f7a86c1a344,Peru,PE,Nanchoc,1 to 4,False,-6.9595289,-79.2427447
+c8bc0550-dac3-4865-a3f1-5bc018842ae9,Philippines,PH,San Eduardo,10 to 14,True,5.2370004,-73.0526646
+3b73a187-5324-4c25-a832-b9bb47dd4a64,Brazil,BR,Areia Branca,15 to 19,True,-4.9506652,-37.1263312
+c2705537-1384-4252-b855-448d31a2ea8e,Philippines,PH,Concepcion,1 to 4,False,-36.8270698,-73.0502064
+ed0cdc8c-01c4-4901-ac86-ebb8cff3a709,Honduras,HN,Agua Fría,15 to 19,True,8.8590354,-78.1961551
+db73aff9-ada5-498a-9d1b-a5288067a885,Philippines,PH,Pantijan No 2,20+,False,-15.9614412,125.0551953
+ec01ef2c-1420-49e6-8c7f-d9980bb51e25,Philippines,PH,Malanay,5 to 9,False,32.584075,74.6371497
+b5989ad7-1d12-4bd5-8104-1c2a2bc05c25,Philippines,PH,Pasian,10 to 14,True,7.9258814,126.0768766
+16ef8c27-79ce-470e-a3f0-e48a357cc673,Thailand,TH,Pong,5 to 9,False,12.9505662,100.98119
+25ee0f18-7ea3-4520-ade5-154cea465cef,Armenia,AM,Hovtamej,20+,True,40.1831791,44.2575547
+8b93aaeb-838a-49ba-94f2-9492208abda9,Yemen,YE,Shiḩan as Suflá,10 to 14,True,,
+8a90a335-f2e2-4eb0-8b77-f999a62a3da2,Indonesia,ID,Kaliterus,1 to 4,False,,
+78a68478-ec33-4800-825c-be12e9028f20,Argentina,AR,Embajador Martini,5 to 9,True,-35.3873156,-64.2828155
+04355603-fd4d-4bee-b80c-b31b0617adb0,Cameroon,CM,Kumbo,1 to 4,False,6.2108889,10.6867788
+516e440b-3303-4b8b-85d3-a788f0aad8a5,Indonesia,ID,Cihampelas,10 to 14,True,-6.9268502,107.4780902
+7dfc6b6b-57fe-486e-a8e8-17584392e96d,Russia,RU,Yemva,15 to 19,True,,
+5dac0565-7b9c-49a0-9d06-059496afcc3d,Zambia,ZM,Nakonde,5 to 9,True,-9.3314463,32.7547861
+283ea553-4298-4646-be0a-106dd5c835ce,Indonesia,ID,Kolomanu,15 to 19,True,,
+2a670597-25fa-4e15-b8e5-8508b213c496,Indonesia,ID,Jadi,15 to 19,False,31.8094724,35.0901961
+8fdfbd70-92d7-4e48-adc9-ae9c864175b5,Mexico,MX,Morelos,5 to 9,False,18.75,-99.0
+53d0c8ff-847e-4580-b581-6166c6af7c57,Vietnam,VN,Thị Trấn Nghèn,5 to 9,True,18.4475,105.7825
+632f54cf-dffb-44ba-81e7-a427773d5d60,Vietnam,VN,Đắk Glei,5 to 9,False,15.1373304,107.8130766
+2ea96ed2-2b91-4b66-9587-24a1d1988431,Indonesia,ID,Comal,20+,False,29.7979704,-98.2690787
+95980e18-26cb-494d-89fe-0a15e39b8696,Indonesia,ID,Klumpit,1 to 4,False,-6.9720116,111.1157832
+a5aa99d9-2dc5-420b-9d71-09bd6ed905c0,Brazil,BR,Resplendor,1 to 4,True,-19.3254413,-41.2554622
+d96205bb-773f-4d2c-87e4-63f5edc46c9d,Argentina,AR,Quitilipi,10 to 14,True,-26.870771,-60.2150144
+6735344a-2f0a-4029-941c-a0bbada32cd9,Philippines,PH,Lanuza,20+,True,42.7562168,-0.315473
+0bd43ee4-e38b-40d7-a4d3-6404d25589a0,Russia,RU,Pokrovskoye,5 to 9,True,47.41428,38.896759
+eec31620-3951-4078-b415-21e2ebec838d,Indonesia,ID,Karuk,20+,False,34.503923,62.663431
+0948bccc-8bc0-4be8-9bcd-db72f365bbd4,Afghanistan,AF,Aībak,20+,True,36.222403,67.976013
+70c63594-2246-4329-92ad-4e0060168870,Brazil,BR,São Bento,1 to 4,False,-2.6999089,-44.8331254
+6b304459-548b-4b59-9628-cdb2f2a8cba9,Mozambique,MZ,Lichinga,15 to 19,False,-13.2999118,35.2458642
+2c4bd5c7-6e72-45e2-a59c-a64da794a84a,Indonesia,ID,Andongrejo,20+,True,-8.40627,113.7420304
+87dc95be-402e-4bd5-b5bd-f58d4a12656b,Brazil,BR,Toritama,5 to 9,True,-8.0083743,-36.058776
+27d3f2e9-5c40-4c21-b2de-8acce8173603,Brazil,BR,Nova Era,10 to 14,False,-19.766111,-43.036944
+d7107b96-e7d9-42b9-be0d-be73f2bd3e85,Philippines,PH,Dingle,20+,False,52.1407781,-10.2687161
+5e9dad38-8f3c-450b-afb7-43db9a3e6062,Russia,RU,Orenburg,5 to 9,True,51.7671248,55.0978517
+a3ca8af5-8a1b-4b1c-b310-3fd183baab66,Indonesia,ID,Pinara,5 to 9,True,36.4900916,29.2560605
+73bbedee-8653-45d3-ae12-050471e500e9,Indonesia,ID,Tambir,20+,True,17.39465,78.49872
+4db804b5-5ed3-470a-9b3e-f7473a1af962,Brazil,BR,Laranjeiras,5 to 9,True,-10.8040231,-37.1658336
+b3bd83f2-ac4c-4886-9e30-e3507f289607,Brazil,BR,Castelo,1 to 4,True,-20.6022098,-41.2032124
+8424733d-2701-4d47-9a35-5eb95d79cf90,Indonesia,ID,Susoh,1 to 4,True,3.7300413,96.8162747
+0d9f753f-2cbb-4265-a443-63ce5bfd3f07,Russia,RU,Lokosovo,15 to 19,True,61.131844,74.839607
+52856eca-b6f7-48ca-8324-3bd116ae7687,Tanzania,TZ,Uyovu,20+,True,-3.3333419,31.5229446
+a1cfed6e-fbc6-42d1-8987-5cfb2863fdbd,Peru,PE,Molinos,10 to 14,False,40.819867,-0.4504486
+61935d9b-973a-45b0-9bbb-2ef96d044d58,Indonesia,ID,Kota Ternate,5 to 9,False,-2.558842,140.7144274
+075a8a13-ec76-46f7-be32-d8ea54f06d6a,Brazil,BR,Itaitinga,1 to 4,True,-3.965768,-38.529763
+4fc4f89f-3e4e-4f45-814a-4453100e6585,Philippines,PH,Silago,5 to 9,True,10.5285405,125.1623205
+70ea372c-32f1-4d50-b618-7ec990747183,Brazil,BR,Londrina,10 to 14,False,-23.3112878,-51.1595023
+e41c468a-7b57-4c5f-b171-d278cfd35c6e,Bolivia,BO,Santiago del Torno,1 to 4,True,38.0345927,-2.7838071
+79e3b005-a608-46c5-8d2b-2ac4dd04061b,Indonesia,ID,Darma,10 to 14,True,24.59551,46.133743
+78ebb6a1-7913-40a5-bc6b-a9fd5e12e6ac,Costa Rica,CR,San Vicente,10 to 14,False,6.2826869,-75.3317647
+1ab0f054-1c53-4f83-bc74-e23993b1233a,Philippines,PH,Maguyam,15 to 19,False,14.2638453,121.0065056
+f056e1ac-72ee-4d0b-9b9c-2932f7cee04d,Philippines,PH,Logon,1 to 4,True,9.7472419,15.8360142
+18ff0561-6475-4ca7-b851-a2f7e41be883,Mexico,MX,Emiliano Zapata,10 to 14,True,19.4569696,-96.7912766
+053c0041-7559-4608-9cd2-9d598ecef467,Argentina,AR,Las Lajas,20+,True,-3.8007237,-80.0801451
+aba91dee-9048-4c28-a2e5-c79f464efca2,Russia,RU,Opechenskiy Posad,1 to 4,True,,
+8d7f7343-72d9-4b4f-89e4-c6de4a84eeb7,Indonesia,ID,Krajan Dua Putukrejo,1 to 4,True,,
+45e1ff9a-f2e5-4b78-aca5-67d6def644a1,Madagascar,MG,Tsiombe,1 to 4,False,,
+fbcb1c72-554f-4852-bb11-a69fdc7b861c,Thailand,TH,Nong Chik,20+,True,6.8438437,101.1786117
+56023e7e-2cd4-451d-b57a-7d6621343da5,Peru,PE,Salaverry,1 to 4,False,-8.2241119,-78.9763929
+2beeb457-e991-4520-bf44-efbd61fc1ca7,Brazil,BR,Itacorubi,20+,True,-27.5815804,-48.5044255
+77e5c12c-b149-4c61-be11-45c89f9a3229,Indonesia,ID,Nularan,15 to 19,True,-9.28062,125.09821
+84380ece-383b-41ec-b2e5-92ae8797fd1f,Russia,RU,Zavety Il’icha,5 to 9,False,49.030109,140.272903
+906784dd-dd17-483c-bb05-c745a1565fce,Russia,RU,Skhodnya,20+,False,55.9512,37.2995
+fd02c77f-f5b2-400a-8287-ab972b97387a,Argentina,AR,Molinos,15 to 19,True,40.819867,-0.4504486
+e1c73380-269f-41b3-9078-b75fdd93f89e,Indonesia,ID,Campraksanta,10 to 14,False,,
+50dc3e08-641d-4de5-a2b7-b2f2a9c1c221,Indonesia,ID,Pancalan,15 to 19,False,,
+018bafe1-a31b-46d3-8705-48195f91035c,Argentina,AR,San Carlos de Bariloche,15 to 19,True,-41.1334781,-71.3101474
+d948d831-4d60-4192-ac21-ec20e7f5278d,Nigeria,NG,Bauchi,5 to 9,True,10.6228284,10.0287754
+8a472ffa-53ed-47ab-8c73-7a2638812272,Morocco,MA,Oulmes,20+,False,46.4005556,-0.6625
+4115069e-46f0-4e66-aacd-f8f9bfcfa5c4,Indonesia,ID,Wahai,10 to 14,True,-2.7978122,129.4957
+3936a7a4-0cc6-4b24-9e2c-151f3c410669,Philippines,PH,Dulangan,20+,True,6.8005714,125.3100492
+5a68ab5b-66e8-4be4-b86c-9e135fabfac9,Syria,SY,Ash Shajarah,20+,False,14.297027,44.377492
+fb75c056-e3b9-4345-8bc8-51cf8a0272c0,Guatemala,GT,San Pedro Jocopilas,20+,True,15.1669181,-91.1708933
+9e34d2d8-d948-461d-9ccb-2e61116aa99d,Vietnam,VN,Phong Điền,10 to 14,False,9.0491453,104.895401
+40212a9b-a1ca-4520-880e-ec9b18980bd8,Indonesia,ID,Kadusimbar,15 to 19,False,,
+47bf0a1a-640c-4ddd-acf6-88aff4a55654,Indonesia,ID,Kalapadua,15 to 19,False,-6.9955352,108.223397
+993dbd95-c746-42da-9179-e1991b644524,Russia,RU,Mama,15 to 19,False,20.5101456,-89.3849047
+bcd2eaf5-8065-4996-8f8d-a9938e218be7,Yemen,YE,As Saddah,20+,False,14.143292,44.37507
+29270043-adc9-4f23-90c5-c180b81b2f0f,Indonesia,ID,Polos,5 to 9,True,10.0186918,-84.2067236
+5f786142-18c4-41c4-b934-8b8f3b1d22a2,Philippines,PH,Suklayin,5 to 9,True,15.7551978,121.5459827
+96756287-a562-4987-bfdf-4aee967d00c8,Indonesia,ID,Simpang,10 to 14,True,4.8201406,100.705797
+459963fc-8e16-4716-8f4a-260f282ec5c8,Thailand,TH,Mueang Nonthaburi,15 to 19,False,13.8595283,100.5296359
+3e6388fd-1508-459a-a31c-48da04d89cc9,Russia,RU,Ozërsk,10 to 14,True,55.76046,60.705101
+6baccee1-b7ec-494d-964a-e09d17a2d3ad,Peru,PE,Acarí,20+,False,-15.4357104,-74.616907
+e807ed04-33ef-4aef-a9ec-5f677ab1bfe9,Indonesia,ID,Sumbergayam,5 to 9,False,-8.1088275,111.8186069
+b0b77092-838c-4913-8126-3b30e953cfce,Russia,RU,Verkhniy Kurkuzhin,20+,True,,
+439a8f12-d3e2-435f-8dd4-9832634e9ca3,Indonesia,ID,Bantaeng,10 to 14,True,-5.4709449,119.9871679
+39a01b07-3672-4e44-9af9-2f46b98fad04,Russia,RU,Krasnodar,20+,False,45.0351532,38.9772396
+e7cb74c2-c569-45b4-8d54-087f947e5fbb,Indonesia,ID,Cikadondongdesa,10 to 14,False,,
+7f70e9ac-8bb0-4045-bf7d-b2c329fcf3c2,Indonesia,ID,Citambal,20+,True,-7.4383901,108.3794403
+07bcd21f-6ee5-42a8-a6cb-0fdafac32e97,Sri Lanka,LK,Pita Kotte,5 to 9,True,6.8832315,79.9018403
+029ec76d-0a48-4fac-9598-f22c9a98aa1d,Indonesia,ID,Senggapi,20+,False,,
+b8991fa7-7906-4ac1-a044-e7352cfa834f,Philippines,PH,Manacsac,10 to 14,False,15.5950133,120.7910058
+26bdea04-6bba-4a68-ae14-78519169b488,Laos,LA,Muang Long,1 to 4,True,20.9633104,100.8209453
+8c53489b-ab2d-446f-8960-6397d23b4a9d,Philippines,PH,Aborlan,20+,False,9.4371009,118.5484168
+312e4b79-1873-4bb9-a4e4-a8e6e64d330b,Philippines,PH,Dahay,10 to 14,False,35.2436863,45.6898242
+35ca02ed-fa23-42bb-af5f-424f7ed88965,Philippines,PH,Guisijan,15 to 19,False,11.0903917,122.0464762
+818e88c6-7b1f-486d-a943-32a8b8bae36d,Brazil,BR,Gravataí,5 to 9,True,-29.9440222,-50.9930938
+c59ebe9f-c3f3-448a-b1e0-8210dcdcfd56,Russia,RU,Urukh,15 to 19,True,43.3031609,44.0347174
+ab426f5d-49d0-4bd2-9156-f1003515d2b1,Russia,RU,Sosnovoborsk,1 to 4,True,56.121494,93.33873
+56e61cc1-5df0-4802-886f-a5923454b2af,Peru,PE,Yanac,10 to 14,True,-36.096353,141.4334647
+86af70cf-9db8-4938-9499-56f7d83e5b39,Madagascar,MG,Anjozorobe,1 to 4,True,-18.401176,47.8820115
+c4c2c3e2-6920-4a2d-ab0b-92fab63e500d,Russia,RU,Peskovka,15 to 19,True,59.0440083,52.3552684
+44bc4708-65ee-47f5-8500-10cd46a0c84b,Philippines,PH,Medellin,15 to 19,True,6.2443382,-75.573553
+36004e6d-6938-4c60-a35a-dbf2bd897686,Mexico,MX,La Guadalupe,10 to 14,False,1.4315516,-66.9984097
+3c1be474-646f-4d8e-b591-5d8d782a721d,Russia,RU,Novyye Kuz’minki,20+,True,,
+564a346a-8fdc-4c57-9628-ab632ae92eb3,Indonesia,ID,Doko,15 to 19,False,12.3751266,9.0746906
+cec63de6-f51a-4db9-98fd-b5ec682fc095,Mexico,MX,Vicente Guerrero,5 to 9,False,30.7300477,-115.9882242
+69a56b51-302d-48bd-9517-2f8fcacbb5ca,Indonesia,ID,Labuhan,5 to 9,True,3.7354369,98.6771076
+055d66fa-a8bc-487f-98a4-3d17852f8a0b,Philippines,PH,Santiago,10 to 14,True,-33.4377756,-70.6504502
+7309fd27-b0bc-4d3f-b7b0-ff5c009d269e,Indonesia,ID,Bobojong,10 to 14,True,-6.7732198,107.2276734
+215e11a4-0d54-4915-bbe7-0488dc597681,Zimbabwe,ZW,Hwange,15 to 19,False,-18.8406624,26.7310154
+ccee918d-c28b-4702-b0b6-375b4f141629,Russia,RU,Petukhovo,5 to 9,True,55.065,67.88736
+ea441b67-c9c0-4437-8616-d4b28b6c2875,Dominican Republic,DO,La Romana,10 to 14,True,38.3672767,-0.8968792
+8d288eff-12e9-42b3-8051-197fad11c0d0,Brazil,BR,Registro,5 to 9,True,-24.497942,-47.844895
+945d5d1c-bca7-430a-8a9a-9e8e6435dcad,Russia,RU,Meshcherino,5 to 9,True,,
+9a8052a7-bdac-45db-8b55-1ab1160072ff,Russia,RU,Lysogorskaya,10 to 14,False,44.107571,43.2760664
+f7574411-e035-4542-a3aa-5e522a8c2183,Philippines,PH,San Fernando,5 to 9,True,36.4646672,-6.1983492
+7a5e281a-4143-4b23-863c-2a22664c90cb,Sri Lanka,LK,Talpe,15 to 19,True,46.6502644,22.4206472
+a7c0ef27-909e-4bcd-a211-dce59774e1ec,Argentina,AR,Capilla del Monte,15 to 19,True,-30.8572075,-64.5263199
+121b98d5-5624-4197-aca8-dbc9b81b7cd5,Mexico,MX,Obrera,15 to 19,True,19.4132002,-99.1440487
+1e9f9706-e42d-4dff-a295-f7f8bf6748dc,Philippines,PH,Aliaga,20+,True,40.6735981,-0.7033638
+9e302911-4617-48a7-8884-e1a968dc32fa,Indonesia,ID,Sembakung,20+,False,3.8568792,117.0317852
+77623c8c-b191-4404-b6d6-be72df25bce2,Indonesia,ID,Pasirbitung,20+,True,,
+69c4f7c7-0668-4b59-979d-389acf31e393,Brazil,BR,Iturama,1 to 4,False,-19.7272733,-50.193488
+7a7eb8ca-fdb2-46e6-8922-d250b4e3f014,Indonesia,ID,Wringinputih,10 to 14,True,-7.1712503,110.4380197
+8ebaed25-1686-41e0-b071-4c75580124e4,Dominican Republic,DO,Salsipuedes,15 to 19,True,-31.1364074,-64.2965681
+4f0a4e1e-71a1-4d34-9758-883044572c4a,Sierra Leone,SL,Lunsar,5 to 9,True,8.687062,-12.5437429
+f70f165b-69ef-4e66-9fd1-12921e34c8f0,Indonesia,ID,Panglanjan,10 to 14,True,-7.4981688,108.5871759
+c9214933-530f-4e32-9838-1247cf9350f4,Indonesia,ID,Tambaksari,15 to 19,True,-7.2510918,112.7674952
+14c9d1ca-4892-46b9-b916-bfb2da53a04f,Philippines,PH,Limanancong,1 to 4,True,,
+0dae275c-5031-4bfb-b116-a29371c198c0,Indonesia,ID,Sindang,5 to 9,True,37.5653839,127.016252
+5e163dff-d0be-4d39-83db-be5359885c43,Brazil,BR,Borda da Mata,1 to 4,False,-22.274167,-46.165278
+8faf54de-7917-4e09-a8ba-c367491069eb,Nigeria,NG,Kumagunnam,10 to 14,False,13.155141,10.634234
+5e602688-8774-411e-80d1-8fd6049bf610,Philippines,PH,Margos,5 to 9,False,-10.0054151,-76.5230933
+2da4ac85-b7c1-4aa0-be1b-f1f2aac5c2eb,Russia,RU,Ust’-Labinsk,10 to 14,False,45.2178027,39.6896725
+2dab8089-3bc8-4ab0-bfba-923f2ec6da53,Russia,RU,Makhalino,20+,True,,
+4377eb7f-e8ea-4e24-b11d-e6ed5a7d8522,Indonesia,ID,Kalisari,20+,True,-6.3345458,106.8529356
+9f8c76c6-9b6a-4d9c-8ba6-1a84b611fec2,Pakistan,PK,Minchinābād,15 to 19,True,30.1628732,73.5687491
+7fed3e1a-b601-49b2-98a9-16a8e79de2f9,Russia,RU,Lyublino,1 to 4,True,55.6757211,37.7619581
+5fc0897d-c449-4c3a-90f5-46a917ac51ee,Russia,RU,Chishmy,5 to 9,False,54.5734,55.3698
+d97da3aa-edd1-4246-b1ad-611229ef422f,Indonesia,ID,Campraksanta,10 to 14,False,,
+6cfcc427-b739-448a-b013-4244a9fbd384,Peru,PE,Aquia,1 to 4,True,-10.0745004,-77.1447485
+5a9df14c-9148-4aee-b878-a12951ebd288,Peru,PE,Uchiza,15 to 19,False,-8.4590114,-76.4618414
+227afa44-5644-407a-8841-d7f327a32e1b,Nigeria,NG,Kafachan,1 to 4,True,9.0349605,7.4789674
+9b3dcbe1-ae0c-4acc-abf5-0e1f0116c774,Russia,RU,Zavidovo,10 to 14,False,56.5315,36.5273
+f0102c15-3a15-4395-ad23-2a960f46ee6f,Philippines,PH,Diamantina,15 to 19,True,-18.2440862,-43.6006487
+775af574-f519-41fc-942a-9e074ee08a7c,Thailand,TH,Nakhon Si Thammarat,10 to 14,False,8.6772337,99.7309635
